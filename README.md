@@ -1,4 +1,4 @@
-[![legenda pt-br - 14%](https://img.shields.io/static/v1?label=legenda%20pt-br&message=14%&color=2ea44f)](https://)
+[![legenda pt-br - 56%](https://img.shields.io/static/v1?label=legenda%20pt-br&message=56%&color=2ea44f)](https://)
 
 # CivCity: Rome Mods
 
