@@ -959,7 +959,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">ARMY_SIZE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Army Size: </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Tamanho do Exército:</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Tamanho do Exército: </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1583,55 +1583,55 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_10</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">It is currently an old and tired place… I want to revitalize it, turn it into the kind of province that Rome can be proud of. Go there and found a new city, show the Senate that in city governance, we are without equal, then watch how Rome will smile on us!    </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Atualmente é um lugar velho e cansado... quero revitalizá-lo, transformá-lo no tipo de província da qual Roma possa se orgulhar. Vá lá e funde uma nova cidade; mostre ao Senado que, na governança de cidades, somos sem igual, e veja como Roma sorrirá para nós!</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Atualmente é um lugar velho e cansado... quero revitalizá-lo, transformá-lo no tipo de província da qual Roma possa se orgulhar. Vá lá e funde uma nova cidade; mostre ao Senado que, na governança de cidades, somos sem igual, e veja como Roma sorrirá para nós!    </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_11</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Censor. Our project goes well. The young city you have built here is strong and vibrant. But it is not enough, I would have you take it further. I know you can Increase the population further but can you give it a veneer of elegance that will make our province the envy of the region?    </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Censor. Nosso projeto vai bem. A jovem cidade que você construiu aqui é forte e vibrante. Mas não é suficiente — quero que a leve ainda mais longe. Sei que você pode aumentar ainda mais a população, mas pode também dar-lhe um verniz de elegância que tornará nossa província a inveja da região?</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Censor. Nosso projeto vai bem. A jovem cidade que você construiu aqui é forte e vibrante. Mas não é suficiente — quero que a leve ainda mais longe. Sei que você pode aumentar ainda mais a população, mas pode também dar-lhe um verniz de elegância que tornará nossa província a inveja da região?    </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_12</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">We only recently took control of this region of Mesopotamia from the Parthians. Ctesiphon is older than Rome itself, but it now lies in ruins sacked by the defenders as they fled. If we are to maintain control of this region I need the city rebuilt and quickly. You will repopulate Ctesiphon within the allotted time or face my displeasure.    </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Tomamos o controle desta região da Mesopotâmia dos Partos há pouco. Ctesifonte é mais antiga que Roma, mas agora está em ruínas. Se queremos manter o controle desta região, preciso que a cidade seja reconstruída rapidamente. Repovoe Ctesifonte dentro do prazo estipulado ou enfrente minha ira.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Tomamos o controle desta região da Mesopotâmia dos Partos há pouco. Ctesifonte é mais antiga que Roma, mas agora está em ruínas. Se queremos manter o controle desta região, preciso que a cidade seja reconstruída rapidamente. Repovoe Ctesifonte dentro do prazo estipulado ou enfrente minha ira.    </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_13</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Praetor. You have some ability it would seem. Let me put it to good use. The strategic importance of your city is grain, the fertile valley gives a guarantee of high yields that other areas simply don’t. The supply here is vital to Rome and your orders now are two- fold, cement our hold on the population by returning their standard of living to the levels they enjoyed before the war  and build the biggest wheat farm in the empire!.   </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Pretor. Você tem habilidade, ao que parece. Deixe-me usá-la bem. A importância estratégica de sua cidade é o grão — o vale fértil garante altas colheitas que outras áreas simplesmente não têm. O suprimento aqui é vital para Roma e suas ordens agora são duplas: consolide nosso domínio sobre a população restaurando seu padrão de vida aos níveis anteriores à guerra, e construa a maior fazenda de trigo do império!</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Pretor. Você tem habilidade, ao que parece. Deixe-me usá-la bem. A importância estratégica de sua cidade é o grão — o vale fértil garante altas colheitas que outras áreas simplesmente não têm. O suprimento aqui é vital para Roma e suas ordens agora são duplas: consolide nosso domínio sobre a população restaurando seu padrão de vida aos níveis anteriores à guerra, e construa a maior fazenda de trigo do império!   </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_14</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The small settlement at Londinium on the fertile banks of its wide river   offers me that chance. It has all the potential be a new Rome in the North, a powerhouse of trade, a Strategic colossus, safeguarding the region for years to come… my legacy to the empire…  It is up to you now, my friend, to build my city and I know you will not fail me…     </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O pequeno assentamento em Londinium nas margens férteis de seu amplo rio me oferece essa chance. Tem todo o potencial de se tornar uma nova Roma no Norte, uma potência comercial, um colosso estratégico que salvaguardará a região por muitos anos... meu legado ao império... Cabe a você agora, meu amigo, construir minha cidade, e sei que não me decepcionará.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O pequeno assentamento em Londinium nas margens férteis de seu amplo rio me oferece essa chance. Tem todo o potencial de se tornar uma nova Roma no Norte, uma potência comercial, um colosso estratégico que salvaguardará a região por muitos anos... meu legado ao império... Cabe a você agora, meu amigo, construir minha cidade, e sei que não me decepcionará.     </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_15</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Cyrene will give us a strategic foothold on the African coast. It will take a lot of your skill to turn it into a thriving city, but that is what you must do, and with some speed. Establish a legionary fort there, local iron deposits will help you make the weapons you need, Imperial funds will be provided to help you with its foundation. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Cyrene nos dará um ponto estratégico na costa africana. Levará muita habilidade transformá-la em uma cidade próspera, mas é isso que você deve fazer, e com alguma rapidez. Estabeleça um forte legionário lá; depósitos locais de ferro ajudarão a fabricar as armas necessárias; fundos imperiais serão fornecidos para auxiliar sua fundação.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Cyrene nos dará um ponto estratégico na costa africana. Levará muita habilidade transformá-la em uma cidade próspera, mas é isso que você deve fazer, e com alguma rapidez. Estabeleça um forte legionário lá; depósitos locais de ferro ajudarão a fabricar as armas necessárias; fundos imperiais serão fornecidos para auxiliar sua fundação. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_16</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">You will meet and stop any incursions at Mediolanum. You will need to establish more than 1 legion to deal with the threat which in turn will require the foundation of a large and prosperous settlement. Funds have been made available to you and I have pressed the senate hard for a promotion, forthwith you will assume the rank of Tribune. Go now for time is of the essence. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você encontrará e deterá quaisquer incursões em Mediolanum. Precisará estabelecer mais de 1 legião para lidar com a ameaça, o que por sua vez exigirá a fundação de um assentamento grande e próspero. Fundos foram disponibilizados e pressionei o senado por uma promoção; de agora em diante você assumirá o posto de Tribuno. Parta agora, pois o tempo é essencial.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você encontrará e deterá quaisquer incursões em Mediolanum. Precisará estabelecer mais de 1 legião para lidar com a ameaça, o que por sua vez exigirá a fundação de um assentamento grande e próspero. Fundos foram disponibilizados e pressionei o senado por uma promoção; de agora em diante você assumirá o posto de Tribuno. Parta agora, pois o tempo é essencial. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_17</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">These are perilous times for our army, we have moved quickly and our supply lines are stretched. Scipio is concerned about the African pirate fleet that raids the Carthaginian sea lanes.  We have agreed to pay them off before we cross to Carthage and you are to raise the sum. Expand Saguntum and squeeze it dry, we will need this blood money very soon. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">São tempos perigosos para nosso exército; avançamos rapidamente e nossas linhas de abastecimento estão esticadas. Cipião está preocupado com a frota pirata africana que ataca as rotas marítimas cartaginesas. Concordamos em pagá-los antes de cruzarmos para Cartago, e você deve arrecadar a soma. Expanda Saguntum e expremê-la ao máximo — precisaremos desse dinheiro de sangue em breve.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">São tempos perigosos para nosso exército; avançamos rapidamente e nossas linhas de abastecimento estão esticadas. Cipião está preocupado com a frota pirata africana que ataca as rotas marítimas cartaginesas. Concordamos em pagá-los antes de cruzarmos para Cartago, e você deve arrecadar a soma. Expanda Saguntum e expremê-la ao máximo — precisaremos desse dinheiro de sangue em breve. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_18</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Rome has long been reliant on wheat from Aegyptus and in recent years their withholding has hurt us hard. A strong city founded at Pelusium would give us a foothold on the fertile Nile. The Egyptians will come at you with strength… hold them off and let the grain flow to Rome… </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Roma tem dependido do trigo do Egito há muito tempo, e nos últimos anos a retenção desse suprimento nos prejudicou gravemente. Uma cidade forte fundada em Pelusa nos daria uma posição no fértil Nilo. Os egípcios virão com força... segure-os e deixe o grão fluir para Roma.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Roma tem dependido do trigo do Egito há muito tempo, e nos últimos anos a retenção desse suprimento nos prejudicou gravemente. Uma cidade forte fundada em Pelusa nos daria uma posição no fértil Nilo. Os egípcios virão com força... segure-os e deixe o grão fluir para Roma... </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1649,7 +1649,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_20</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Colonia does well under your governance and you have so far dealt well with the barbarian incursions. The enemy you face here is clever, however and so far I suspect that you have only been tested , the real threat is yet to come and scouts deep in Germania report big gatherings of the tribes. You must build up Colonia and you must build up your defenses. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Colonia vai bem sob sua governança e até agora você lidou bem com as incursões bárbaras. O inimigo que enfrenta aqui é inteligente, porém, e suspeito que até agora você foi apenas testado — a ameaça real ainda está por vir. Escoteiros reportam grandes concentrações de tribos na Germânia. Você deve fortalecer Colonia e suas defesas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Colonia vai bem sob sua governança e até agora você lidou bem com as incursões bárbaras. O inimigo que enfrenta aqui é inteligente, porém, e suspeito que até agora você foi apenas testado — a ameaça real ainda está por vir. Escoteiros reportam grandes concentrações de tribos na Germânia. Você deve fortalecer Colonia e suas defesas. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1661,7 +1661,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_4</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail citizen, most of Rome’s Olive oil flows from Capena, that is it used to… The town was recently hit badly by disease, many have died and many more are still very sick there. This has allowed the summer fires to burn out of control, badly damaging the town and destroying the oil stocks. Rebuild this little town and replenish our oil supplies. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve cidadão, a maior parte do azeite de Roma vem de Capena — ou costumava vir... A cidade foi recentemente assolada por doenças; muitos morreram e muitos ainda estão doentes. Isso permitiu que os incêndios de verão se alastrassem, danificando a cidade e destruindo os estoques de azeite. Reconstrua esta pequena cidade e reabasteça nossos suprimentos de azeite.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve cidadão, a maior parte do azeite de Roma vem de Capena — ou costumava vir... A cidade foi recentemente assolada por doenças; muitos morreram e muitos ainda estão doentes. Isso permitiu que os incêndios de verão se alastrassem, danificando a cidade e destruindo os estoques de azeite. Reconstrua esta pequena cidade e reabasteça nossos suprimentos de azeite. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1673,25 +1673,25 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_6</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Tarentum, the jewel in Italy’s heel! Its stony soil and baking sun make it a perfect spot for vines and as Rome grows, so does its thirst for wine. I want you to go there, find the perfect site for our new city and make enough wine to drown the whole of Rome!! I have arranged for my bank to credit you with a sizable sum of money. Make your plans and leave this year, I every faith that neither of us will be disappointed. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Tarentum, a joia no calcanhar da Itália! Seu solo pedregoso e sol escaldante a tornam perfeita para vinhedos, e enquanto Roma cresce, cresce também a sede por vinho. Quero que vá até lá, encontre o local perfeito para nossa nova cidade e produza vinho suficiente para afog ar toda Roma! Tomei providências para creditar-lhe uma soma considerável. Faça seus planos e parta este ano — tenho plena fé que nenhum de nós ficará desapontado.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Tarentum, a joia no calcanhar da Itália! Seu solo pedregoso e sol escaldante a tornam perfeita para vinhedos, e enquanto Roma cresce, cresce também a sede por vinho. Quero que vá até lá, encontre o local perfeito para nossa nova cidade e produza vinho suficiente para afog ar toda Roma! Tomei providências para creditar-lhe uma soma considerável. Faça seus planos e parta este ano — tenho plena fé que nenhum de nós ficará desapontado. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_7</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Quaestor, ah such success, Rome is awash with our wine! I have my investment returned and our baby city is the envy of every merchant in town! Now we must breathe some civilization into your streets and show Rome what you have achieved here. There is no greater mark of civilized man, than to take a regular bath and this is what you will provide for Tarentum. When water flows not only in Rome but into a second city of the empire, our triumph will be complete. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Questor, que sucesso! Roma está inundada de nosso vinho! Recuperei meu investimento e nossa jovem cidade é a inveja de todo comerciante da cidade! Agora devemos trazer civilização às suas ruas e mostrar a Roma o que você alcançou. Não há maior marca de homem civilizado do que tomar banho regularmente, e é isso que você proporcionará a Tarentum.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Questor, que sucesso! Roma está inundada de nosso vinho! Recuperei meu investimento e nossa jovem cidade é a inveja de todo comerciante da cidade! Agora devemos trazer civilização às suas ruas e mostrar a Roma o que você alcançou. Não há maior marca de homem civilizado do que tomar banho regularmente, e é isso que você proporcionará a Tarentum. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_8</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">It is natural deep water port and it just happens to be perfectly sited for the big push up into Gaul. If we can establish it as a trading center, and supply the Emperors armies with wheat, he will love us for it. Marble is the key here, the African kings cannot get enough of the stuff and they have plenty of wheat to pay for it!     </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">É um porto natural de águas profundas e está perfeitamente situado para o grande avanço sobre a Gália. Se pudermos estabelecê-lo como centro comercial e abastecer os exércitos do Imperador com trigo, ele nos amará. O mármore é a chave aqui — os reis africanos não conseguem ter o suficiente e têm bastante trigo para pagar por ele!</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">É um porto natural de águas profundas e está perfeitamente situado para o grande avanço sobre a Gália. Se pudermos estabelecê-lo como centro comercial e abastecer os exércitos do Imperador com trigo, ele nos amará. O mármore é a chave aqui — os reis africanos não conseguem ter o suficiente e têm bastante trigo para pagar por ele!     </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_9</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Censor. The emperor himself recommended your promotion, he is a soldier and keeping his victorious army well fed, was a sure fire way to his heart. Imperial favor is not without its problems however, the old boy wants us to stay in Massilia and build it up, its of ‘strategic importance’, apparently. Well much of the profit has been taken here and I want to move on, lets get this stinking fish port cleaned up..      </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Censor. O próprio imperador recomendou sua promoção; ele é um soldado e manter seu vitorioso exército bem alimentado foi uma forma certeira de conquistar seu coração. O favor imperial não é sem problemas, porém — o velho quer que fiquemos em Massilia e a construamos, pois é de 'importância estratégica', aparentemente. Bem, muito do lucro foi levado daqui e quero seguir em frente; vamos limpar este fedorento porto de peixes.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Censor. O próprio imperador recomendou sua promoção; ele é um soldado e manter seu vitorioso exército bem alimentado foi uma forma certeira de conquistar seu coração. O favor imperial não é sem problemas, porém — o velho quer que fiquemos em Massilia e a construamos, pois é de 'importância estratégica', aparentemente. Bem, muito do lucro foi levado daqui e quero seguir em frente; vamos limpar este fedorento porto de peixes.      </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1703,7 +1703,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_DIFFICULTY</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Difficulty: </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Dificuldade:</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Dificuldade: </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1799,25 +1799,25 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S14</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The empire is in decline and a new city worthy of the name 'capital' must be built at Constantinople, to rule the Eastern empire. It will need strong walls if it is to withstand the German tribes that this very year have left Rome in flames. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O império está em declínio e uma nova cidade digna do nome 'capital' deve ser construída em Constantinopla para governar o Império Oriental. Precisará de muralhas fortes para resistir às tribos germânicas que este mesmo ano deixaram Roma em chamas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O império está em declínio e uma nova cidade digna do nome 'capital' deve ser construída em Constantinopla para governar o Império Oriental. Precisará de muralhas fortes para resistir às tribos germânicas que este mesmo ano deixaram Roma em chamas. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S15</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">At Tingis in Africa the blue Mediterranean ends and the uncharted waters that lead to the edge of the world begin. If our traders are ever to venture beyond here, they need safety and encouragement.  Your task here is to build such a lighthouse that every sailor that passes below, will gaze and marvel upon it.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Em Tingis, na África, o Mediterrâneo azul termina e as águas inexploradas que levam ao fim do mundo começam. Se nossos comerciantes devem se aventurar além daqui, precisam de segurança e encorajamento. Sua tarefa é construir tal farol que todo marinheiro que passar abaixo olhará maravilhado.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Em Tingis, na África, o Mediterrâneo azul termina e as águas inexploradas que levam ao fim do mundo começam. Se nossos comerciantes devem se aventurar além daqui, precisam de segurança e encorajamento. Sua tarefa é construir tal farol que todo marinheiro que passar abaixo olhará maravilhado.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S16</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The memory of conquest has faded in the minds of the British tribes and they are now eager to embrace the Roman way of life. Build a fabulous new city at Londinium and win the hearts of these people. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A memória da conquista desapareceu da mente das tribos britânicas e elas agora estão ansiosas para abraçar o modo de vida romano. Construa uma fabulosa nova cidade em Londinium e conquiste os corações dessas pessoas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A memória da conquista desapareceu da mente das tribos britânicas e elas agora estão ansiosas para abraçar o modo de vida romano. Construa uma fabulosa nova cidade em Londinium e conquiste os corações dessas pessoas. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S17</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The power of Carthage is growing and we can no longer afford to ignore their arrogant expansion, attacking Roman colonies and taking control of our trading ports. We must take the fight to them. You will establish a new city, right in the heart of their lands. Be warned however, the enemy will blockade you and no trader will reach the city, only the swords and elephants of Carthage will be there to greet you. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O poder de Cartago está crescendo e não podemos mais ignorar sua expansão arrogante, atacando colônias romanas e controlando nossos portos comerciais. Devemos levar a luta até eles. Você estabelecerá uma nova cidade no coração de suas terras. Esteja avisado, porém: o inimigo irá bloquear você e nenhum comerciante chegará à cidade — apenas as espadas e elefantes de Cartago.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O poder de Cartago está crescendo e não podemos mais ignorar sua expansão arrogante, atacando colônias romanas e controlando nossos portos comerciais. Devemos levar a luta até eles. Você estabelecerá uma nova cidade no coração de suas terras. Esteja avisado, porém: o inimigo irá bloquear você e nenhum comerciante chegará à cidade — apenas as espadas e elefantes de Cartago. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1829,7 +1829,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S19</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">As a reward for your services to the empire, the emperor had gifted you a vast purse of public money to build yourself a glorious new settlement on this island off the coast of Crete. Build and govern with your usual wisdom.   </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Como recompensa por seus serviços ao império, o imperador presenteou-o com uma grande quantia para construir um glorioso novo assentamento nesta ilha próxima a Creta. Construa e governe com sua costumeira sabedoria.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Como recompensa por seus serviços ao império, o imperador presenteou-o com uma grande quantia para construir um glorioso novo assentamento nesta ilha próxima a Creta. Construa e governe com sua costumeira sabedoria.   </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1841,13 +1841,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S21</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The rugged land to the north of Greece is peaceful now, but large areas of it remain unsettled. It is up to Rome to show how modern engineering and building practices can bring life to even the most unpromising of sites. You will need to import some goods here, but a profit should not be beyond the skills of a talented governor, such as yourself.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A terra acidentada ao norte da Grécia está pacífica agora, mas grandes áreas permanecem desocupadas. Cabe a Roma mostrar como a engenharia e as práticas de construção modernas podem trazer vida até aos locais menos promissores. Você precisará importar alguns bens, mas um lucro não deve estar além das habilidades de um governador talentoso como você.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A terra acidentada ao norte da Grécia está pacífica agora, mas grandes áreas permanecem desocupadas. Cabe a Roma mostrar como a engenharia e as práticas de construção modernas podem trazer vida até aos locais menos promissores. Você precisará importar alguns bens, mas um lucro não deve estar além das habilidades de um governador talentoso como você.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_S22</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Rome is slowly and peacefully taking full control of Aegyptus but a recent revolt has overthrown the ruler who up to now has been most helpful to us. Our precious wheat supply is once more under threat, put down the rebellion and prepare a large shipment of the vital grain. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Roma está assumindo gradativamente o controle do Egito, mas uma recente revolta derrubou o governante que até agora nos foi muito útil. Nosso precioso suprimento de trigo está novamente ameaçado; suprima a rebelião e prepare um grande carregamento do vital grão.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Roma está assumindo gradativamente o controle do Egito, mas uma recente revolta derrubou o governante que até agora nos foi muito útil. Nosso precioso suprimento de trigo está novamente ameaçado; suprima a rebelião e prepare um grande carregamento do vital grão. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1895,7 +1895,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BUILDING_ARCH</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Arch </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Arco</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Arco </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -3533,7 +3533,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits1</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Game Design </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Design do Jogo</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Game Design </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -3911,7 +3911,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits156</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">David Boutry </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">David Boutry </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -3923,13 +3923,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits158</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Scott DeFreitas </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Scott DeFreitas </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits159</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">David Edwards  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">David Edwards  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -3947,7 +3947,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits161</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">David Gershik </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">David Gershik </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4031,7 +4031,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits174</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">International Product Manager </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Gerente Internacional de Produto</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Gerente Internacional de Produto </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4103,7 +4103,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits185</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Denby Grace </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Denby Grace </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4175,7 +4175,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits196</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">2K Games International QA </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Controle de Qualidade 2K Games Internacional</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Controle de Qualidade 2K Games Internacional </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4223,7 +4223,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits202</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Iain Willows </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Iain Willows </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4241,7 +4241,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits205</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Lead QA Technician </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Técnico Líder de CQ</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Técnico Líder de CQ </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4367,7 +4367,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits224</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">European Publishing Team </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Equipe de Publicação Europeia</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Equipe de Publicação Europeia </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4529,7 +4529,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits249</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Jonnie Bryant </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Jonnie Bryant </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4595,7 +4595,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits259</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Raquel Garcia Gonzalez </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Raquel Garcia Gonzalez </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4757,37 +4757,37 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits284</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Lawrence Durham </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Lawrence Durham </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits285</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Lead Tester </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Testador Principal</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Testador Principal </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits286</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Angel Gonzalez </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Angel Gonzalez </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits287</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Senior Tester </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Testador Sênior</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Testador Sênior </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits288</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Steve Allstead Jr. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Steve Allstead Jr. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits289</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Quality Assurance Team </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Equipe de Controle de Qualidade</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Equipe de Controle de Qualidade </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4871,7 +4871,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits300</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Jason Wilson </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Jason Wilson </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -4979,7 +4979,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits46</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Additional Design </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Design Adicional</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Design Adicional </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -5015,7 +5015,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">Credits51</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Darrin Horbal </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Darrin Horbal </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -5813,7 +5813,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_BARBER</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The barber will attend to the needs of your richer citizens, removing areas of unwanted hair. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O barbeiro atenderá às necessidades de seus cidadãos mais ricos, removendo pelos indesejados.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O barbeiro atenderá às necessidades de seus cidadãos mais ricos, removendo pelos indesejados. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -5861,7 +5861,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_CHARIOTMAKER</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The chariot maker takes wood from the warehouse to create chariots for the chariot trainer. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O fabricante de bigas usa madeira do armazém para criar bigas para o treinador de cocheiros.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O fabricante de bigas usa madeira do armazém para criar bigas para o treinador de cocheiros. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -5933,7 +5933,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_DRESSMAKERSHOP</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The dressmaker takes linen and produces delightful dresses for the more demanding citizen. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A costureira usa linho e produz lindos vestidos para os cidadãos mais exigentes.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A costureira usa linho e produz lindos vestidos para os cidadãos mais exigentes. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -5969,7 +5969,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_FARMGRAPE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Grapes are grown here, before they are taken to the winemakers. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">As uvas são cultivadas aqui antes de serem levadas aos produtores de vinho.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">As uvas são cultivadas aqui antes de serem levadas aos produtores de vinho. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -5981,7 +5981,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_FARMPIG</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Pigs provide a good supply of meat for the butcher. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os porcos fornecem bom suprimento de carne para o açougueiro.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os porcos fornecem bom suprimento de carne para o açougueiro. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6029,7 +6029,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_FORT</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">This legionary fort houses 3 cohorts. Soldiers can be used to defend the city or sent out to fight for the empire. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Este forte legionário abriga 3 coortes. Os soldados podem defender a cidade ou ser enviados para lutar pelo Império.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Este forte legionário abriga 3 coortes. Os soldados podem defender a cidade ou ser enviados para lutar pelo Império. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6065,7 +6065,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_GRAMATICUS</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Should your citizens have children, the teachers at the grammaticus will provide a basic education for them. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Caso seus cidadãos tenham filhos, os professores do grammaticus proporcionarão educação básica para eles.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Caso seus cidadãos tenham filhos, os professores do grammaticus proporcionarão educação básica para eles. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6083,7 +6083,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_GREATLIBRARY</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The Great Library, takes much stone and time to build and will add considerably to your city's civil services rating. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A Grande Biblioteca leva muito tempo e pedra para ser construída, mas adicionará consideravelmente aos seus serviços civis.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A Grande Biblioteca leva muito tempo e pedra para ser construída, mas adicionará consideravelmente aos seus serviços civis. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6113,7 +6113,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_IDGARDEN</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Gardens make your city look beautiful and increase its splendor rating. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os jardins tornam sua cidade bonita e aumentam sua classificação de esplendor.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os jardins tornam sua cidade bonita e aumentam sua classificação de esplendor. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6233,7 +6233,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_PANTHEON</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The wonder that is the Pantheon. A place of worship to all the gods. This grand hall will boost your cities religious rating. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A maravilha que é o Pantheon. Um lugar de adoração a todos os deuses. Aumentará a classificação religiosa de sua cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A maravilha que é o Pantheon. Um lugar de adoração a todos os deuses. Aumentará a classificação religiosa de sua cidade. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6335,7 +6335,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_SHOPWINERY</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The winemakers shop turns grapes from the grape farm into wine. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A vinícola transforma uvas da fazenda em vinho.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A vinícola transforma uvas da fazenda em vinho. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6407,7 +6407,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_STONECAMP</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The workers in the stone camp quarry nearby deposits of stone. This helps clear the land and provides a supply of stone. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os trabalhadores no acampamento de pedra extraem depósitos de pedra próximos, limpando o terreno e fornecendo pedra à cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os trabalhadores no acampamento de pedra extraem depósitos de pedra próximos, limpando o terreno e fornecendo pedra à cidade. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6491,7 +6491,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_TOWERWATCH</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Combats wild animals and helps prevent rioting in the city. Click on a watch tower to see the risk of rioting.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Combate animais selvagens e ajuda a prevenir distúrbios. Clique para ver o risco de distúrbios.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Combate animais selvagens e ajuda a prevenir distúrbios. Clique para ver o risco de distúrbios.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6503,7 +6503,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESCRIPTION_TOWNCENTER</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The center of your city. All new arrivals gather here, awaiting work. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O centro de sua cidade. Todos os recém-chegados se reúnem aqui aguardando trabalho.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O centro de sua cidade. Todos os recém-chegados se reúnem aqui aguardando trabalho. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -6563,7 +6563,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">DESTINATION</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Destination: </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Destino:</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Destino: </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -7871,7 +7871,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">ELGOVERNOR_17</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Ptolemaios </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Ptolemaios </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row>
@@ -8093,7 +8093,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">ELGOVERNOR_50</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Maxmus Pontifus </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Maxmus Pontifus </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row>
@@ -8111,7 +8111,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">ELGOVERNOR_53</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Gnaeus Homer </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Gnaeus Homer </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row>
@@ -8189,7 +8189,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">ELGOVERNORTEXT</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Governor: </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Governador:</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Governador: </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -8369,13 +8369,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EMPIRECITYPANEL_DENARII</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Denarii: </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Denários:</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Denários: </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EMPIRECITYPANEL_DENARII_SHORT</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String"> dn.</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">dn.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> dn.</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9317,7 +9317,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_15</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">German raiders grow bolder and have sacked several mile forts along the northern frontier. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Invasores germânicos ficam mais ousados e saquearam vários fortes ao longo da fronteira norte.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Invasores germânicos ficam mais ousados e saquearam vários fortes ao longo da fronteira norte. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9329,13 +9329,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_17</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Julius Caesar: It is rare these days to find such an exciting a city as yours in the empire. You and your citizens will always have a special place in my heart. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Júlio César: É raro hoje encontrar uma cidade tão empolgante como a sua no Império. Você e seus cidadãos sempre terão um lugar especial em meu coração.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Júlio César: É raro hoje encontrar uma cidade tão empolgante como a sua no Império. Você e seus cidadãos sempre terão um lugar especial em meu coração. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_18</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Mark Anthony: I came to praise your city and I was not disappointed. My best wishes to you and your people. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Marco Antônio: Vim louvar sua cidade e não fui desapontado. Meus melhores votos a você e seu povo.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Marco Antônio: Vim louvar sua cidade e não fui desapontado. Meus melhores votos a você e seu povo. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9359,7 +9359,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_21</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Nero: Ah what a fine city you have built here. I must pay you a visit one day, perhaps I will bring my fiddle.” </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Nero: Ah, que bela cidade você construiu aqui. Devo fazer-lhe uma visita um dia; talvez eu traga meu violino.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Nero: Ah, que bela cidade você construiu aqui. Devo fazer-lhe uma visita um dia; talvez eu traga meu violino. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9377,7 +9377,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_24</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Vercingetorix: One day my Gauls will rebel and throw off the tyranny of Rome. Beware!” </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Vercingetórix: Um dia meus gauleses se rebelarão e sacudirão a tirania de Roma. Cuidado!</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Vercingetórix: Um dia meus gauleses se rebelarão e sacudirão a tirania de Roma. Cuidado! </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9389,13 +9389,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_26</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Boudicca: My fearless warriors the Iceni have sacked Roman cities before. Do you think we would spare yours! </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Boadiceia: Meus destemidos guerreiros Icenos já saquearam cidades romanas antes. Você acha que pouparíamos a sua?</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Boadiceia: Meus destemidos guerreiros Icenos já saquearam cidades romanas antes. Você acha que pouparíamos a sua? </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_27</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Spartacus: My Slave army roams this empire freely. Maybe one day we will pay your city a visit!” </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Espártaco: Meu exército de escravos percorre este Império livremente. Talvez um dia façamos uma visita à sua cidade!</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Espártaco: Meu exército de escravos percorre este Império livremente. Talvez um dia façamos uma visita à sua cidade! </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9449,7 +9449,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_35</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The entrails of a recently sacrificed bull show bad times ahead. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os intestinos de um touro recentemente sacrificado anunciam tempos difíceis à frente.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os intestinos de um touro recentemente sacrificado anunciam tempos difíceis à frente. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9485,13 +9485,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_40</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The unemployed have started to riot in the city. Citizens are starting to panic </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os desempregados começaram a causar distúrbios na cidade. Os cidadãos estão começando a entrar em pânico.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Os desempregados começaram a causar distúrbios na cidade. Os cidadãos estão começando a entrar em pânico. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_BINK_41</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">An earthquake has hit the city, destroying several buildings and unsettling the population.” </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Um terremoto atingiu a cidade, destruindo vários edifícios e perturbando a população.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Um terremoto atingiu a cidade, destruindo vários edifícios e perturbando a população. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9737,7 +9737,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_RELIGION_TEXT_11</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Mithras is unhappy </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Mithras está insatisfeito</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Mithras está insatisfeito </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9755,7 +9755,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_11</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Victory at the Danube </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Vitória no Danúbio</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Vitória no Danúbio </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9797,31 +9797,31 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_18</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Mark Anthony </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Marco Antônio</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Marco Antônio </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_19</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Brutus </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Brutus</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Brutus </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_2</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Emperor watches Rome burn </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O Imperador assiste Roma arder</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O Imperador assiste Roma arder </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_20</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Crassus </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Crasso</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Crasso </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_21</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Nero </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Nero</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Nero </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9833,7 +9833,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_23</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A message from Romulus </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Rômulo</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma mensagem de Rômulo </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9893,7 +9893,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_32</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Visit by the senate </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Visita do senado</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Visita do senado </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9923,7 +9923,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_37</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Contaminated drinking water </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Água potável contaminada</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Água potável contaminada </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -9935,7 +9935,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_39</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Recent fire in the city </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Incêndio recente na cidade</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Incêndio recente na cidade </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -10019,13 +10019,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_8</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Carthaginian fleet sunk </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Frota cartaginesa afundada</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Frota cartaginesa afundada </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EVENT_REPORT_9</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Picts repelled at Hadrian's wall </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Pictos repelidos na Muralha de Adriano</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Pictos repelidos na Muralha de Adriano </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -11387,7 +11387,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">EXTRATEXT405</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Real Time Shadows</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Sombras em Tempo Real</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Sombras em T. Real</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -12293,13 +12293,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">GAMEOPTIONS_OFF</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Off</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Desligado</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Não</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">GAMEOPTIONS_ON</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">On</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Ligado</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Sim</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13061,7 +13061,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HAPPINESS_HAPPY_GROWING_CITY</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">People are still happy to be a part of this growing city </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">As pessoas ainda estão felizes por fazer parte desta cidade em crescimento</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">As pessoas ainda estão felizes por fazer parte desta cidade em crescimento </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13217,7 +13217,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HAPPINESS_NO_GROWING_CITY</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The excitement people felt at being part of a new city has now gone. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A animação que as pessoas sentiam por fazer parte de uma nova cidade já passou.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A animação que as pessoas sentiam por fazer parte de uma nova cidade já passou. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13697,7 +13697,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L01-M01-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Establish your city by first placing the Town Center in the middle of the valley floor.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Estabeleça sua cidade colocando primeiro o Centro da Cidade no meio do vale.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Estabeleça sua cidade colocando primeiro o Centro da Cidade no meio do vale.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13745,7 +13745,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L01-M02-H04</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Research animal husbandry, it will greatly increase your cities meat production. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Pesquise criação de animais — aumentará muito a produção de carne de sua cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Pesquise criação de animais — aumentará muito a produção de carne de sua cidade. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13769,7 +13769,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L01-M03-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">As well as meat, your houses will need water from wells and tunics from weavers, who in turn will require a supply of linen from a flax farm. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Além de carne, suas casas precisarão de água de poços e túnicas de tecelões, que precisarão de linho de uma fazenda de linho.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Além de carne, suas casas precisarão de água de poços e túnicas de tecelões, que precisarão de linho de uma fazenda de linho. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13787,7 +13787,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L02-M04-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Place fire watches in strategic locations to deal with any fires in the city. Remember to add more as your city expands. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Coloque postos de bombeiros em locais estratégicos. Lembre-se de adicionar mais à medida que sua cidade se expande.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Coloque postos de bombeiros em locais estratégicos. Lembre-se de adicionar mais à medida que sua cidade se expande. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13799,7 +13799,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L02-M04-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">As well as introducing tunic production in the city, you will need to provide olive oil to your citizens to raise your housing to the required level. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Além de túnicas, você precisará fornecer azeite para elevar sua habitação ao nível necessário.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Além de túnicas, você precisará fornecer azeite para elevar sua habitação ao nível necessário. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13811,7 +13811,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L02-M04-H05</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">If houses are not upgrading, make sure they are in range of the necessary shops. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Se as casas não estiverem evoluindo, certifique-se de que estão dentro do alcance das lojas necessárias.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Se as casas não estiverem evoluindo, certifique-se de que estão dentro do alcance das lojas necessárias. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13823,7 +13823,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L02-M05-H02</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Start wood production close to the trees to provide timber and build a carpenters shop to provide beds for your households.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Inicie a produção de madeira perto das árvores e construa uma carpintaria para fornecer camas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Inicie a produção de madeira perto das árvores e construa uma carpintaria para fornecer camas.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13847,7 +13847,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L03-M06-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">A trade route to Rome is already open on the region map, click on Rome to discover what it will trade with you. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma rota comercial para Roma já está aberta no mapa da região; clique em Roma para descobrir o que ela comercializará.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Uma rota comercial para Roma já está aberta no mapa da região; clique em Roma para descobrir o que ela comercializará. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13865,7 +13865,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L03-M06-H04</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Watch out for unrest in your city. Build a watch tower and click on it to show potential trouble spots. These tend to be around areas of poor quality housing. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Fique atento a distúrbios. Construa uma torre de vigia e clique nela para mostrar pontos de problemas potenciais.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Fique atento a distúrbios. Construa uma torre de vigia e clique nela para mostrar pontos de problemas potenciais. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13883,7 +13883,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L03-M07-H02</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Remember, the first tower in your aqueduct system must be placed in a river and cisterns must be sited close to a filled aqueduct chain. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Lembre-se: a primeira torre do aqueduto deve ser colocada em um rio e as cisternas devem ficar perto de um aqueduto.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Lembre-se: a primeira torre do aqueduto deve ser colocada em um rio e as cisternas devem ficar perto de um aqueduto. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13901,13 +13901,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L03-M07-H05</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">You can further boost your entertainment rating and so your civilization rating, by improving city entertainment. Place a piazza or 2 and build a Musicians school to provide musicians to play there.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você pode aumentar sua classificação de entretenimento colocando uma piazza ou duas e construindo uma escola de músicos.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você pode aumentar sua classificação de entretenimento colocando uma piazza ou duas e construindo uma escola de músicos.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L04-M08-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">In this mission you will need to buy wheat by sea, using the existing trade route “To Africanus”. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Nesta missão você precisará comprar trigo pelo mar, usando a rota comercial 'Para Africanus'.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Nesta missão você precisará comprar trigo pelo mar, usando a rota comercial 'Para Africanus'. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13925,7 +13925,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L04-M08-H04</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Attain Empire Points by dispatching wheat to Rome, using the “Requests from the Empire” report in the reports screen. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Acumule Pontos do Império despachando trigo para Roma, usando o relatório 'Pedidos do Império'.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Acumule Pontos do Império despachando trigo para Roma, usando o relatório 'Pedidos do Império'. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13937,7 +13937,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L04-M09-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Build lavish gardens to increase your cities splendor rating.   </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Construa jardins luxuosos para aumentar a classificação de esplendor de sua cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Construa jardins luxuosos para aumentar a classificação de esplendor de sua cidade.   </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13949,7 +13949,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L04-M09-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Examining the research tree will reveal that there are many ways to improve your Civilization rating through research. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Examinar a árvore de pesquisa revelará muitas formas de melhorar sua classificação de civilização.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Examinar a árvore de pesquisa revelará muitas formas de melhorar sua classificação de civilização. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13973,7 +13973,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L05-M11-H02</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">You will have to manually upgrade your insulae to reach the Domus level and a good idea is to plan in advance where you will site them. Keep a large area free and slowly start to build in services in preparation for the big move.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você precisará atualizar manualmente suas insulae para atingir o nível Domus — planeje com antecedência onde as colocará.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você precisará atualizar manualmente suas insulae para atingir o nível Domus — planeje com antecedência onde as colocará.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -13997,19 +13997,19 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L06-M12-H02</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">You have only limited time to win this mission and few funds to start with. Glassware is great way to quickly bring in some trade income. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você tem tempo limitado e poucos fundos iniciais. A vidraçaria é ótima para gerar renda rapidamente.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você tem tempo limitado e poucos fundos iniciais. A vidraçaria é ótima para gerar renda rapidamente. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L06-M12-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Site bridges wisely to avoid unnecessary journey time.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Posicione pontes de forma inteligente para evitar tempo de viagem desnecessário.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Posicione pontes de forma inteligente para evitar tempo de viagem desnecessário.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L06-M12-H04</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Use river ferries where building a bridge would block trade ships. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Use balsas fluviais onde construir uma ponte bloquearia navios comerciais.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Use balsas fluviais onde construir uma ponte bloquearia navios comerciais. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -14021,7 +14021,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L06-M13-H02</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">To hold a chariot race your city must have a horse trainer, Chariot maker, Charioteer School and a Circus. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Para realizar uma corrida de bigas, sua cidade deve ter um treinador de cavalos, fabricante de bigas, escola de cocheiros e um circo.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Para realizar uma corrida de bigas, sua cidade deve ter um treinador de cavalos, fabricante de bigas, escola de cocheiros e um circo. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -14069,7 +14069,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L08-M15-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">You cannot create javelins in the level, so use the ‘change cohort type’ control on the fort interface to set all three cohorts to ‘legionary cohorts’ </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você não pode criar lanças neste nível, então configure todas as coortes como 'coortes de legionários'.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você não pode criar lanças neste nível, então configure todas as coortes como 'coortes de legionários'. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -14099,7 +14099,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L10-M17-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Choose your town center position well as it can decide the fate of the mission. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Escolha bem a posição do centro da cidade pois pode decidir o destino da missão.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Escolha bem a posição do centro da cidade pois pode decidir o destino da missão. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -14135,7 +14135,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L11-M18-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">No olives can grow on this land, so you must establish trade early if you want to see your houses upgrade.  Seek help from the near by city of Tyrus.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Azeitonas não podem crescer nesta terra, então estabeleça comércio cedo. Procure ajuda da cidade próxima de Tyrus.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Azeitonas não podem crescer nesta terra, então estabeleça comércio cedo. Procure ajuda da cidade próxima de Tyrus.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -14309,7 +14309,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L22-H01</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Set up a trade route with the city of Aspendus to import the tunics needed to upgrade your housing. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Estabeleça uma rota comercial com Aspendus para importar as túnicas necessárias para evoluir sua habitação.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Estabeleça uma rota comercial com Aspendus para importar as túnicas necessárias para evoluir sua habitação. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -14321,7 +14321,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">HINTS_L22-H03</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String"> Use research to increase your wheat farms output.</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Use pesquisa para aumentar a produção de suas fazendas de trigo.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> Use pesquisa para aumentar a produção de suas fazendas de trigo.</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -15653,7 +15653,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">LOAN_DENARII</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String"> Denarii (</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Denários (</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> Denários (</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -15665,7 +15665,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">LOANS_AVAILABLE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String"> loans available)</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">empréstimos disponíveis)</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> empréstimos disponíveis)</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -15887,7 +15887,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">MAPDESC_16</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Build freely and peacefully in the open countryside of Britannia. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Construa com liberdade e paz nos campos abertos da Bretanha.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Construa com liberdade e paz nos campos abertos da Bretanha. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -15917,13 +15917,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">MAPDESC_21</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Can you carve out a profitable settlement in the rugged mountains of the east?  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você consegue estabelecer um assentamento lucrativo nas montanhas acidentadas do leste?</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Você consegue estabelecer um assentamento lucrativo nas montanhas acidentadas do leste?  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">MAPDESC_22</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Control a revolt in Egypt while preparing a large shipment of wheat for Rome. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Controle uma revolta no Egito enquanto prepara um grande carregamento de trigo para Roma.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Controle uma revolta no Egito enquanto prepara um grande carregamento de trigo para Roma. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -16109,7 +16109,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">MAPTITLE_18</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">The city on the hill </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A cidade na colina</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">A cidade na colina </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -19223,7 +19223,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">RPT_HAPPINESS_70</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">People marvel at the latest advance in </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O povo admira o mais recente avanço em</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O povo admira o mais recente avanço em </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -20585,7 +20585,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TempleLarge</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">[TempleLarge] Should not show up, use DISPLAYNAME_TEMPLELARGE0 </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">[TempleLarge] Should not show up, use DISPLAYNAME_TEMPLELARGE0 </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row>
@@ -21869,7 +21869,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TRIGGER_GOODS_STORED</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Acquire </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Adquirir</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Adquirir </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -22889,7 +22889,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_08</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Houses grow in stature as you fulfill their next need.  So the humble shack needs only water from a well to improve to the next level, where as a mighty villa needs many exotic goods to allow it to advance to a grand palace. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">As casas crescem em estatura à medida que você satisfaz suas necessidades. O humilde barraco só precisa de água de um poço para melhorar ao próximo nível, enquanto uma poderosa villa precisa de muitos bens exóticos para avançar a um grande palácio.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">As casas crescem em estatura à medida que você satisfaz suas necessidades. O humilde barraco só precisa de água de um poço para melhorar ao próximo nível, enquanto uma poderosa villa precisa de muitos bens exóticos para avançar a um grande palácio. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -22901,7 +22901,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_10</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">One point to remember is that each house only has a limited range its citizens will go and collect the goods they need. Citizens will not walk the length of the city to get their goods. This range is shown by the green circle displayed on the map once a house is selected.   As houses grow and they get more needs, this range will also increase. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Cada casa tem um alcance limitado em que seus cidadãos irão buscar os bens que precisam. Os cidadãos não caminharão por toda a cidade para pegar seus bens. Este alcance é mostrado pelo círculo verde exibido no mapa quando uma casa é selecionada.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Cada casa tem um alcance limitado em que seus cidadãos irão buscar os bens que precisam. Os cidadãos não caminharão por toda a cidade para pegar seus bens. Este alcance é mostrado pelo círculo verde exibido no mapa quando uma casa é selecionada. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -22937,13 +22937,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_16</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">As your city population rises, so does the bar that Rome expects your city to reach. If your city rating does not measure up to this bar you will suffer a hit to your city happiness, however if you exceed Rome’s expectations you will gain a positive boost to city happiness. This is often a good way to boost city happiness in the early days of a cities life.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">À medida que a população de sua cidade aumenta, também aumenta o padrão que Roma espera que sua cidade atinja. Se o nível de sua cidade não atingir esse padrão, você sofrerá uma queda na felicidade da cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">À medida que a população de sua cidade aumenta, também aumenta o padrão que Roma espera que sua cidade atinja. Se o nível de sua cidade não atingir esse padrão, você sofrerá uma queda na felicidade da cidade.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_17</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">While your city can in fact manage without roads, no real Roman city planner would neglect to build them. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Embora sua cidade possa de fato funcionar sem estradas, nenhum planejador de cidades romano de verdade negligenciaria construí-las.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Embora sua cidade possa de fato funcionar sem estradas, nenhum planejador de cidades romano de verdade negligenciaria construí-las. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -22967,7 +22967,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_21</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Your first source of income will usually be from your houses and improving their quality to increase your tax revenue. The other main source of income is through trade receipts, setting up trade routes with nearby cities in the wider empire and establishing local industries to profit by them.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Sua primeira fonte de renda geralmente será de suas casas e melhorando sua qualidade para aumentar sua receita de impostos. A outra principal fonte de renda é através de receitas comerciais.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Sua primeira fonte de renda geralmente será de suas casas e melhorando sua qualidade para aumentar sua receita de impostos. A outra principal fonte de renda é através de receitas comerciais.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -22991,13 +22991,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_25</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Finally, the number in the center of the menu bar, is your empire points, these are awarded for opening trade routes, building roads here and capturing enemy towns. They are often used by Rome as a mission objective.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O número no centro da barra de menu são seus pontos do Império, concedidos por abrir rotas de comércio, construir estradas e capturar cidades inimigas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O número no centro da barra de menu são seus pontos do Império, concedidos por abrir rotas de comércio, construir estradas e capturar cidades inimigas.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_26</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Empire points can be lost or gained by fulfilling or failing a request for goods from the senate. As you open up new cities for trade on the empire, the senate will start to ask you to help them by sending them various shipments of goods.  If you have the goods in a city warehouse or granary, you can dispatch them at any time by going to the relevant report screen.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Pontos do Império podem ser perdidos ou ganhos ao cumprir ou falhar um pedido de bens do senado. O senado começará a pedir que você o ajude enviando diversos carregamentos de bens.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Pontos do Império podem ser perdidos ou ganhos ao cumprir ou falhar um pedido de bens do senado. O senado começará a pedir que você o ajude enviando diversos carregamentos de bens.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -23009,7 +23009,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_28</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">There are many research trees and technologies to explore, each research providing a unique benefit to your city. Examples are: faster ships, improved butcher output, increased taxes or even just faster research!  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Há muitas árvores de pesquisa e tecnologias a explorar, cada pesquisa fornecendo um benefício único à sua cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Há muitas árvores de pesquisa e tecnologias a explorar, cada pesquisa fornecendo um benefício único à sua cidade.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -23021,7 +23021,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_30</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">There are several wonders that can be built in the game. These are the only buildings in the game that take time to build. As well as requiring a long time to build, they also typically need a large amount of stone. Once built, a wonder will confer several and varied permanent benefits upon your city, such as boosts to city happiness or your civilization rating. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Há várias maravilhas que podem ser construídas no jogo. Esses são os únicos edifícios que levam tempo para ser construídos. Uma vez construída, uma maravilha conferirá vários benefícios permanentes à sua cidade.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Há várias maravilhas que podem ser construídas no jogo. Esses são os únicos edifícios que levam tempo para ser construídos. Uma vez construída, uma maravilha conferirá vários benefícios permanentes à sua cidade. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -23039,7 +23039,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_33</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Combat can also take place in the empire, in which case, no control is needed and the outcome of the battle is decided on troop numbers and quality.  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O combate também pode ocorrer no Império, caso em que nenhum controle é necessário e o resultado da batalha é decidido por números e qualidade das tropas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">O combate também pode ocorrer no Império, caso em que nenhum controle é necessário e o resultado da batalha é decidido por números e qualidade das tropas.  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -23063,7 +23063,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TEXT_PRE_02</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">To rotate the map hold down the middle mouse button and move the mouse to the left or the  right.  Alternatively you can use the Q and E keys. You can change the direction in which buildings are facing by spinning the mouse wheel before you place them. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Para girar o mapa, segure o botão do meio do mouse e mova para a esquerda ou direita. Use também as teclas Q e E. Você pode mudar a direção dos edifícios rodando a roda do mouse antes de colocá-los.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Para girar o mapa, segure o botão do meio do mouse e mova para a esquerda ou direita. Use também as teclas Q e E. Você pode mudar a direção dos edifícios rodando a roda do mouse antes de colocá-los. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -23153,13 +23153,13 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TITLE_15</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Civilization rating  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Nível de Civilização</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Nível de Civilização  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TITLE_16</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Civilization rating  </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Nível de Civilização</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Nível de Civilização  </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -23243,7 +23243,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">TUTORIAL_TITLE_30</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Wonders </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Maravilhas</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Maravilhas </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
