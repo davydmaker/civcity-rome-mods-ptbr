@@ -48,11 +48,12 @@ jobs:
 
           # Áudios dublados
           if [ -d "fx/speech" ]; then
-            cp -r fx/speech/ release-staging/fx/speech/
+            mkdir -p release-staging/fx
+            cp -r "fx/speech" "release-staging/fx/speech"
           fi
           if [ -d "meshes/heads" ]; then
             mkdir -p release-staging/meshes/heads
-            cp meshes/heads/*.wav release-staging/meshes/heads/ 2>/dev/null || true
+            cp "meshes/heads"/*.wav "release-staging/meshes/heads/" 2>/dev/null || true
           fi
 
           cd release-staging
