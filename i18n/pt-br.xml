@@ -15665,7 +15665,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">LOANS_AVAILABLE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String"> loans available)</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> empréstimos disponíveis)</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> empr. disponíveis)</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
