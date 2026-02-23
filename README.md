@@ -1,116 +1,113 @@
-# CivCity: Rome — Tradução PT-BR + Bug Fixes
+# CivCity: Rome — Tradução PT-BR + Dublagem IA + Bug Fixes
 
-> Tradução completa para **Português Brasileiro** do jogo CivCity: Rome (2006, Firefly Studios / 2K Games), com correções de bugs.
+[![Latest Release](https://img.shields.io/github/v/release/davydmaker/civcity-rome-mods-ptbr?label=vers%C3%A3o&color=blue)](https://github.com/davydmaker/civcity-rome-mods-ptbr/releases/latest)
+[![License](https://img.shields.io/badge/licen%C3%A7a-apenas%20tradu%C3%A7%C3%A3o-green)](LICENSE)
+
+> Tradução completa, dublagem com IA e correção de bugs para **CivCity: Rome** (2006, Firefly Studios / 2K Games) em **Português Brasileiro**.
 
 ---
 
 ## Conteúdo do mod
 
 ### Tradução PT-BR
-- **3.366 strings** traduzidas — menus, missões, briefings, tooltips, nomes de edifícios, eventos, tecnologias e muito mais
+- **3.366 strings** traduzidas — menus, missões, briefings, tooltips, nomes de edifícios, eventos, tecnologias
 - **Ajuda in-game** (`F1`) completamente traduzida
-- Status: **100% completo** · revisão em andamento — contribuições são bem-vindas!
+- Status: **100% completo** · revisão contínua — contribuições são bem-vindas!
+
+### Dublagem PT-BR com IA
+- **1.253 arquivos de áudio** dublados em Português Brasileiro
+- Cobre todas as vozes do jogo: conselheiro, narrador de campanha, cidadãos (5 classes sociais), mulheres, crianças, vagabundos, pedidos do império, eventos e personagens históricos
+- Gerada com **XTTS v2** (Coqui TTS) — modelo de clonagem de voz multilíngue
+- As **vozes originais em inglês** do jogo foram usadas como referência para a clonagem, preservando o timbre e tom de cada personagem
+- O processo: transcrição do áudio original (Whisper) > tradução do texto (Claude AI) > síntese de voz PT-BR com clonagem (XTTS v2)
 
 ### Correções de bugs (scripts Lua)
 Três bugs nos scripts de comportamento dos cidadãos foram identificados e corrigidos:
 
 | Arquivo | Bug | Correção |
 |---------|-----|----------|
-| `scripts/BlacksmithSword.lua` | Ferreiro de Espadas usava animação de *Ferreiro de Lanças* ao carregar a espada ao caminhar | Corrigido para usar `BlacksmithSword` |
-| `scripts/ArenaFighters.lua` | Nome de áudio `"FX_GLAD_sHIELD3"` com letra minúscula indevida, o som do escudo não tocava em 4 tipos de luta na arena | Corrigido para `"FX_GLAD_SHIELD3"` |
+| `scripts/BlacksmithSword.lua` | Ferreiro usava tabela de cache do *forjador de lanças* ao carregar a espada, causando animação incorreta ao caminhar | Corrigido para usar a tabela `BlacksmithSword` correta |
+| `scripts/ArenaFighters.lua` | Chave de som `"FX_GLAD_sHIELD3"` com letra minúscula indevida, o som do escudo não tocava em 4 tipos de luta na arena | Corrigido para `"FX_GLAD_SHIELD3"` |
 
 ---
 
 ## Instalação
 
-### Método 1 — Download direto (recomendado)
+### Método 1 — Download da release (recomendado)
 
-1. Baixe o repositório como ZIP: clique em **Code → Download ZIP**
-2. Extraia o conteúdo
-3. Copie **todos os arquivos e pastas** para dentro do diretório do jogo, **sobrescrevendo** os originais:
+1. Acesse a [página de releases](https://github.com/davydmaker/civcity-rome-mods-ptbr/releases/latest)
+2. Baixe o arquivo `.zip` da versão mais recente
+3. Extraia o conteúdo dentro do diretório do jogo, **sobrescrevendo** os originais:
    ```
    Steam\steamapps\common\CivCity Rome\
    ```
 4. Inicie o jogo — o idioma será detectado automaticamente
 
-> O arquivo `i18n/lang.txt` contém `pt-br`, que instrui o jogo a carregar a tradução.
+### Método 2 — Download direto do repositório
 
-### Método 2 — Git clone
+1. Clique em **Code → Download ZIP**
+2. Extraia e copie **todos os arquivos e pastas** para o diretório do jogo
+3. Inicie o jogo
+
+### Método 3 — Git clone
 
 ```bash
-# Navegue até o diretório do jogo
 cd "C:\Program Files (x86)\Steam\steamapps\common\CivCity Rome"
-
-# Clone o repositório diretamente na pasta do jogo
-git clone https://github.com/SEU_USUARIO/civcity-rome-ptbr .
+git clone https://github.com/davydmaker/civcity-rome-mods-ptbr .
 ```
 
 ### Verificando a instalação
 
 Ao iniciar o jogo, você verá:
 - Menus e textos em Português Brasileiro
-- O título "CivCity: Roma" nas telas de menu
+- Vozes e narração em Português Brasileiro
 - A ajuda in-game (tecla `F1`) em português
 
 ### Revertendo para o inglês
 
-Para voltar ao inglês, edite o arquivo `i18n/lang.txt` e substitua `pt-br` por `en-us`.
+Para voltar ao inglês, edite `i18n/lang.txt` e substitua `pt-br` por `en-us`.
+Para restaurar as vozes originais em inglês, reinstale o jogo ou verifique a integridade dos arquivos pelo Steam.
 
 ---
 
-## Tradução de vozes com IA *(em desenvolvimento)*
+## Como a dublagem foi feita
 
-O jogo original possui narração e vozes (diálogos de missão, comentários dos personagens históricos, falas do conselheiro). Está em andamento um projeto experimental de **dublagem em Português Brasileiro gerada por IA**, utilizando modelos de síntese de voz para substituir os arquivos de áudio originais.
+A dublagem foi gerada através de um pipeline automatizado em 4 etapas:
 
-Esta etapa é significativamente mais complexa que a tradução textual e está em fase inicial de pesquisa. Atualizações serão publicadas neste repositório conforme o trabalho avançar.
+| Etapa | Ferramenta | Descrição |
+|-------|-----------|-----------|
+| 1. Transcrição | **OpenAI Whisper** (modelo medium) | Transcreve o áudio original em inglês para texto |
+| 2. Tradução | **Claude AI** (Haiku) | Traduz o texto para PT-BR mantendo o registro de cada personagem (formal para o conselheiro, coloquial para vagabundos, etc.) |
+| 3. Síntese de voz | **XTTS v2** (Coqui TTS) | Gera áudio PT-BR usando clonagem de voz, e as vozes originais em inglês servem como referência para preservar o timbre de cada personagem |
+| 4. Deploy | **ffmpeg** | Converte WAV para MP3 e substitui os arquivos no jogo |
 
-Se você tem experiência com síntese de voz (TTS), clonagem de voz ou pós-produção de áudio e quer colaborar, **abra uma issue** ou entre em contato.
+A clonagem de voz usa amostras de 3-5 arquivos de áudio originais de cada personagem como "speaker reference", permitindo que o modelo XTTS v2 reproduza as características vocais (tom, ritmo, timbre) ao falar em português.
 
 ---
 
 ## Como contribuir
 
-Toda contribuição é bem-vinda! As principais frentes abertas são:
-
 ### Revisão da tradução textual
-A tradução foi feita com auxílio de IA e pode conter:
-- Termos técnicos romanos traduzidos de forma imprecisa
-- Frases com construção estranha ou pouco natural
-- Nomes próprios (cidades, personagens históricos) que deveriam ser mantidos em latim
+A tradução foi feita com auxílio de IA e pode conter termos imprecisos ou frases com construção estranha. **Como reportar:** abra uma [Issue](../../issues) com a string original, a tradução atual e sua sugestão.
 
-**Como reportar:** abra uma [Issue](../../issues) com:
-- A string em inglês (original)
-- A tradução atual (incorreta)
-- Sua sugestão de correção
-
-### Correção de bugs nos scripts Lua
-O jogo possui 65+ scripts Lua que controlam o comportamento dos cidadãos. Além dos 2 já corrigidos, há outros bugs para corrigir.
-
-**Como contribuir com código:**
-1. Fork este repositório
-2. Crie uma branch: `git checkout -b fix/nome-do-bug`
-3. Faça a correção no arquivo `.lua` correspondente
-4. Abra um Pull Request descrevendo o bug e a correção
-
-### Tradução de vozes (IA)
-Ver seção acima. Abra uma issue para discutir abordagens.
+### Revisão da dublagem
+Se notar áudios com pronúncia estranha, palavras cortadas ou tom inadequado, abra uma issue indicando o arquivo de áudio.
 
 ---
 
 ## Contexto técnico
 
-O sistema de localização do CivCity: Rome funciona da seguinte forma:
-
 - `i18n/lang.txt` define o idioma ativo (ex: `pt-br`)
-- `i18n/pt-br.xml` é um Excel XML Spreadsheet com pares `chave -> tradução`
+- `i18n/pt-br.xml` é um Excel XML Spreadsheet com pares `chave → tradução`
 - `help/*.ffh` é um formato binário proprietário para a ajuda in-game
-- Os scripts `scripts/*.lua` controlam animações e sons dos cidadãos via engine Lua embutida
+- `scripts/*.lua` controlam animações e sons dos cidadãos via engine Lua embutida
+- `fx/speech/*.mp3` e `meshes/heads/*.wav` são os arquivos de áudio de voz
 
 ---
 
 ## Créditos
 
-- Tradução e bug fixes: contribuidores deste repositório
+- Tradução, dublagem e bug fixes: contribuidores deste repositório
 - Jogo original: **Firefly Studios / 2K Games** (2006)
 - CivCity: Rome não tem mais suporte oficial — este é um projeto de preservação e acessibilidade para falantes de Português Brasileiro
 
@@ -118,6 +115,6 @@ O sistema de localização do CivCity: Rome funciona da seguinte forma:
 
 ## Licença
 
-Este projeto contém apenas arquivos de tradução, scripts de comportamento e ferramentas de geração — **não distribui assets protegidos** do jogo original (executáveis, texturas, meshes, áudio).
+Este projeto contém apenas arquivos de tradução, áudios gerados por IA, scripts de comportamento e ferramentas de geração, e **não distribui assets protegidos** do jogo original (executáveis, texturas, meshes).
 
 O jogo CivCity: Rome deve ser adquirido legalmente. Disponível na [Steam](https://store.steampowered.com/app/24680/CivCity_Rome/).
