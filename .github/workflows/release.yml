@@ -1,0 +1,82 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Versão da release (ex: 1.0.0, 1.1.0)"
+        required: true
+        type: string
+      prerelease:
+        description: "Marcar como pre-release?"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validar formato da versão
+        run: |
+          if ! echo "${{ inputs.version }}" | grep -qE '^[0-9]+\.[0-9]+\.[0-9]+$'; then
+            echo "::error::Formato inválido. Use X.Y.Z (ex: 1.0.0)"
+            exit 1
+          fi
+
+      - name: Verificar se tag já existe
+        run: |
+          if git rev-parse "v${{ inputs.version }}" >/dev/null 2>&1; then
+            echo "::error::Tag v${{ inputs.version }} já existe!"
+            exit 1
+          fi
+
+      - name: Empacotar arquivos de tradução
+        run: |
+          mkdir -p release-staging
+
+          # Tradução textual
+          cp -r i18n/ release-staging/i18n/
+          cp -r help/ release-staging/help/
+
+          # Áudios dublados
+          if [ -d "fx/speech" ]; then
+            cp -r fx/speech/ release-staging/fx/speech/
+          fi
+          if [ -d "meshes/heads" ]; then
+            mkdir -p release-staging/meshes/heads
+            cp meshes/heads/*.wav release-staging/meshes/heads/ 2>/dev/null || true
+          fi
+
+          cd release-staging
+          zip -r "../civcity-rome-ptbr-v${{ inputs.version }}.zip" . \
+            -x "*.git*" "README.md" "scripts/*"
+
+      - name: Criar tag e release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "v${{ inputs.version }}"
+          name: "CivCity: Rome PT-BR v${{ inputs.version }}"
+          body: |
+            ## CivCity: Rome — Tradução + Dublagem PT-BR v${{ inputs.version }}
+
+            ### Conteúdo
+            - **Tradução:** 3.366 strings (menus, missões, tooltips, ajuda in-game)
+            - **Dublagem:** 1.253 arquivos de áudio em PT-BR (gerados com XTTS v2)
+
+            ### Instalação
+            1. Baixe o arquivo `civcity-rome-ptbr-v${{ inputs.version }}.zip`
+            2. Extraia dentro da pasta do jogo (`Steam\steamapps\common\CivCity Rome\`), sobrescrevendo os arquivos
+            3. Inicie o jogo
+
+            Para reverter ao inglês: edite `i18n/lang.txt` e troque `pt-br` por `en-us`.
+          draft: false
+          prerelease: ${{ inputs.prerelease }}
+          files: "civcity-rome-ptbr-v${{ inputs.version }}.zip"
