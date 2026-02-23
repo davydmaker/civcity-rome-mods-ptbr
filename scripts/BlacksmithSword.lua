@@ -127,7 +127,7 @@ function BlacksmithSword.MakeSword( action, actor )
 		--Attach the sword to a bone
 		actor:addModelBone( Model(BlacksmithSword, "meshes/models/Obj_Sword-02.GR2"), PROP1 );
 		--Start the walk animation for the sword prop
-		actor:setWalkAnim( Animation( BlacksmithSpear, "ARM_WALKSWORD" ));
+		actor:setWalkAnim( Animation( BlacksmithSword, "ARM_WALKSWORD" ));
 
 		-- Stop steam
 		actor:removeWorkBuildingParticle( 9, "Node_Obj_Water" );
