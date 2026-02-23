@@ -1201,7 +1201,7 @@ function Fights.Murmillo_w_Retiarius( action, actor )
 			actor:playSound( "FX_GLAD_SWIPE1" );
 			actor:playSound( "FX_GLAD_TRITON2" );
 			actor:playSound( "FX_GLAD_SWIPE2" );
-			actor:playSound( "FX_GLAD_sHIELD3" );
+			actor:playSound( "FX_GLAD_SHIELD3" );
 			actor:playSound( "FX_GLAD_SWIPE3" );
 			actor:playSound( "FX_GLAD_TRITON4" );
 			actor:playSound( "FX_GLAD_SHIELD5" );
@@ -1272,7 +1272,7 @@ function Fights.Retiarius_l_Murmillo( action, actor )
 			actor:playSound( "FX_GLAD_SWIPE1" );
 			actor:playSound( "FX_GLAD_TRITON2" );
 			actor:playSound( "FX_GLAD_SWIPE2" );
-			actor:playSound( "FX_GLAD_sHIELD3" );
+			actor:playSound( "FX_GLAD_SHIELD3" );
 			actor:playSound( "FX_GLAD_SWIPE3" );
 			actor:playSound( "FX_GLAD_TRITON4" );
 			actor:playSound( "FX_GLAD_SHIELD5" );
