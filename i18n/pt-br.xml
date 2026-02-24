@@ -1871,7 +1871,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFINGSCREEN_BACKGROUND_IMAGE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\Briefing_screen_base.tga</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROMA\\Briefing_screen_base.tga</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\Briefing_screen_base.tga</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -3527,7 +3527,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">CREDITS_BACKGROUND_IMAGE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\CreditFrame.tga</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROMA\\CreditFrame.tga</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\CreditFrame.tga</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -11753,7 +11753,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">FILEPATH_INTROSCREEN_LOCALIZED</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\LoadScreen-Frame.tga</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROMA\\LoadScreen-Frame.tga</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\LoadScreen-Frame.tga</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -15785,7 +15785,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">MAINMENU_BACKGROUND_IMAGE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">ui\\Localization Graphics\\Rome\\Main_Menu.bmp</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROMA\\Main_Menu.bmp</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\Main_Menu.bmp</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -18209,7 +18209,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">PLAYSCREEN_LOCALIZED_IMAGE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\FE-Play Screen.bmp</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROMA\\FE-Play Screen.bmp</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">ui\\Localization Graphics\\ROME\\FE-Play Screen.bmp</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
