@@ -18935,7 +18935,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">ROME_HELPFILE_PATH</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">help\\rome_help_us.ffh</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">help\\rome_help_us.ffh</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">help\\rome_help_pt-br.ffh</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
