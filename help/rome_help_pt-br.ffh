@@ -301,7 +301,7 @@ Edif�cios:
 <newparagraph/>
 <link linkfile="SlaveStation" linkname="Posto de Escravos"/>
 <newparagraph/>
-<link linkfile="Senate" linkname="Senate"/>
+<link linkfile="Senate" linkname="Senado"/>
 <newparagraph/>
 
 
@@ -653,7 +653,7 @@ Edif�cios:
 <newparagraph/>
 <link linkfile="WonderPantheon" linkname="O Pantheon"/>
 <newparagraph/>
-<link linkfile="Senate" linkname="Senate"/>
+<link linkfile="Senate" linkname="Senado"/>
 <newparagraph/>
 <link linkfile="Fountain" linkname="Fonte"/>
 <newparagraph/>
@@ -880,7 +880,7 @@ Edif�cios:
 <newparagraph/>
 <link linkfile="WonderPantheon" linkname="O Pantheon"/>
 <newparagraph/>
-<link linkfile="Senate" linkname="Senate"/>
+<link linkfile="Senate" linkname="Senado"/>
 <newparagraph/>
 <link linkfile="Fountain" linkname="Fonte"/>
 <newparagraph/>
@@ -1143,7 +1143,7 @@ Os agricultores de linho que trabalham aqui produzem linho para seus fabricantes
 Os agricultores cultivar�o, colher�o e fiar�o uma grande quantidade de linho antes de levar uma carro�a de tecido ao armaz�m pr�ximo. Os tecel�es coletar�o o linho da fazenda ou do armaz�m, o que estiver mais pr�ximo.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="WeaverShop" linkname="Weaver Shop"/>
+<link linkfile="WeaverShop" linkname="Loja de T�nicas"/>
 <newparagraph/>
 <link linkfile="TailorShop" linkname="Alfaiataria"/>
 <newparagraph/>
