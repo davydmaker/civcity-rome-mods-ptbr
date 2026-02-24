@@ -17,6 +17,7 @@
 ### Dublagem PT-BR com IA
 - **1.253 arquivos de áudio** dublados em Português Brasileiro
 - Cobre todas as vozes do jogo: conselheiro, narrador de campanha, cidadãos (5 classes sociais), mulheres, crianças, vagabundos, pedidos do império, eventos e personagens históricos
+- Abertura do jogo também dublada
 - Gerada com **XTTS v2** (Coqui TTS) — modelo de clonagem de voz multilíngue
 - As **vozes originais em inglês** do jogo foram usadas como referência para a clonagem, preservando o timbre e tom de cada personagem
 - O processo: transcrição do áudio original (Whisper) > tradução do texto (Claude AI) > síntese de voz PT-BR com clonagem (XTTS v2)
@@ -102,6 +103,7 @@ Se notar áudios com pronúncia estranha, palavras cortadas ou tom inadequado, a
 - `help/*.ffh` é um formato binário proprietário para a ajuda in-game
 - `scripts/*.lua` controlam animações e sons dos cidadãos via engine Lua embutida
 - `fx/speech/*.mp3` e `meshes/heads/*.wav` são os arquivos de áudio de voz
+- `binks/intro.bik` é o vídeo de abertura do jogo
 
 ---
 
