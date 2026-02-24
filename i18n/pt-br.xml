@@ -1577,7 +1577,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_1</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail citizen, I am Gaius Peitonus, master of works. If this enterprise that we call Rome is to succeed, our fledgling city needs stone, much stone. Our surveyor has reported a promising quantity in a valley to the south, go there and secure it. I have given to your assistant Marius, a purse of denarii, this should be enough to set up the small mining concern needed. The locals nearby are placid enough and should easily be recruited. Apart from a few wild beasts nearby, I expect you to encounter no problems.</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve cidadão, sou Gaius Peitonus, mestre das obras. Para que este empreendimento chamado Roma seja bem-sucedido, nossa nascente cidade precisa de pedra, muita pedra. Nosso agrimensor relatou uma quantidade promissora num vale ao sul; vá lá e assegure-a. Dei ao seu assistente Marius uma bolsa de denários — suficiente para montar a pequena mina necessária. Os nativos da região são pacatos e devem ser facilmente recrutados. Além de alguns animais selvagens, não espero que encontre problemas.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações cidadão, sou Gaius Peitonus, mestre das obras. Para que este empreendimento chamado Roma seja bem-sucedido, nossa nascente cidade precisa de pedra, muita pedra. Nosso agrimensor relatou uma quantidade promissora num vale ao sul; vá lá e assegure-a. Dei ao seu assistente Marius uma bolsa de denários — suficiente para montar a pequena mina necessária. Os nativos da região são pacatos e devem ser facilmente recrutados. Além de alguns animais selvagens, não espero que encontre problemas.</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1589,7 +1589,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_11</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Censor. Our project goes well. The young city you have built here is strong and vibrant. But it is not enough, I would have you take it further. I know you can Increase the population further but can you give it a veneer of elegance that will make our province the envy of the region?    </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Censor. Nosso projeto vai bem. A jovem cidade que você construiu aqui é forte e vibrante. Mas não é suficiente — quero que a leve ainda mais longe. Sei que você pode aumentar ainda mais a população, mas pode também dar-lhe um verniz de elegância que tornará nossa província a inveja da região?    </Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações Censor. Nosso projeto vai bem. A jovem cidade que você construiu aqui é forte e vibrante. Mas não é suficiente — quero que a leve ainda mais longe. Sei que você pode aumentar ainda mais a população, mas pode também dar-lhe um verniz de elegância que tornará nossa província a inveja da região?    </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1601,7 +1601,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_13</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Praetor. You have some ability it would seem. Let me put it to good use. The strategic importance of your city is grain, the fertile valley gives a guarantee of high yields that other areas simply don’t. The supply here is vital to Rome and your orders now are two- fold, cement our hold on the population by returning their standard of living to the levels they enjoyed before the war  and build the biggest wheat farm in the empire!.   </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Pretor. Você tem habilidade, ao que parece. Deixe-me usá-la bem. A importância estratégica de sua cidade é o grão — o vale fértil garante altas colheitas que outras áreas simplesmente não têm. O suprimento aqui é vital para Roma e suas ordens agora são duplas: consolide nosso domínio sobre a população restaurando seu padrão de vida aos níveis anteriores à guerra, e construa a maior fazenda de trigo do império!   </Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações Pretor. Você tem habilidade, ao que parece. Deixe-me usá-la bem. A importância estratégica de sua cidade é o grão — o vale fértil garante altas colheitas que outras áreas simplesmente não têm. O suprimento aqui é vital para Roma e suas ordens agora são duplas: consolide nosso domínio sobre a população restaurando seu padrão de vida aos níveis anteriores à guerra, e construa a maior fazenda de trigo do império!   </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1643,7 +1643,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_2</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail citizen, your first shipment of stone has arrived, but it seems you still have much work to do. I am told that your savages spend long periods of their time scavenging for food and water, this is not the Roman way. They must be made more efficient, sink some wells for them, give them a few goats… Rome needs her stone.</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve cidadão, seu primeiro carregamento de pedra chegou, mas parece que você ainda tem muito trabalho a fazer. Dizem-me que seus selvagens passam longos períodos catando comida e água — este não é o jeito romano. Eles devem ser mais eficientes; cave alguns poços para eles, dê-lhes algumas cabras... Roma precisa de sua pedra.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações cidadão, seu primeiro carregamento de pedra chegou, mas parece que você ainda tem muito trabalho a fazer. Dizem-me que seus selvagens passam longos períodos catando comida e água — este não é o jeito romano. Eles devem ser mais eficientes; cave alguns poços para eles, dê-lhes algumas cabras... Roma precisa de sua pedra.</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1655,19 +1655,19 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_3</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail citizen, the stone from your village now flows freely into Rome. However, the supply is not limitless and we must plan ahead to the time the stone runs out. Your savages work well and they will make good citizens, where once they provided Rome with stone, soon they will provide her with tax! Build your village into a town, give them protection, give them proper clothing… turn them into Romans.</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve cidadão, a pedra de sua aldeia agora flui livremente para Roma. Porém, o suprimento não é ilimitado e devemos planejar para quando acabar. Seus selvagens trabalham bem e se tornarão bons cidadãos; onde antes forneciam pedra a Roma, logo fornecerão impostos! Transforme sua aldeia em uma cidade, dê-lhes proteção e roupas adequadas... transforme-os em romanos.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações cidadão, a pedra de sua aldeia agora flui livremente para Roma. Porém, o suprimento não é ilimitado e devemos planejar para quando acabar. Seus selvagens trabalham bem e se tornarão bons cidadãos; onde antes forneciam pedra a Roma, logo fornecerão impostos! Transforme sua aldeia em uma cidade, dê-lhes proteção e roupas adequadas... transforme-os em romanos.</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_4</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail citizen, most of Rome’s Olive oil flows from Capena, that is it used to… The town was recently hit badly by disease, many have died and many more are still very sick there. This has allowed the summer fires to burn out of control, badly damaging the town and destroying the oil stocks. Rebuild this little town and replenish our oil supplies. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve cidadão, a maior parte do azeite de Roma vem de Capena — ou costumava vir... A cidade foi recentemente assolada por doenças; muitos morreram e muitos ainda estão doentes. Isso permitiu que os incêndios de verão se alastrassem, danificando a cidade e destruindo os estoques de azeite. Reconstrua esta pequena cidade e reabasteça nossos suprimentos de azeite. </Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações cidadão, a maior parte do azeite de Roma vem de Capena — ou costumava vir... A cidade foi recentemente assolada por doenças; muitos morreram e muitos ainda estão doentes. Isso permitiu que os incêndios de verão se alastrassem, danificando a cidade e destruindo os estoques de azeite. Reconstrua esta pequena cidade e reabasteça nossos suprimentos de azeite. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_5</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Quaestor, you do well and Rome smiles upon you, honoring you with this high rank and title.. I would like you to stay on in Capena for a while. The people here are scared and believe their illness brought on by evil spirits, we must show that Roman Gods are stronger. Erect some temples and encourage the locals to marry, this town is important to Rome, let's put some backbone into it.</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Questor, você vai bem e Roma sorri para você, honrando-o com este alto posto. Gostaria que ficasse em Capena por um tempo. O povo aqui está assustado e acredita que sua doença foi causada por espíritos malignos; devemos mostrar que os deuses romanos são mais fortes. Construa alguns templos e encoraje os locais a se casarem — esta cidade é importante para Roma, vamos fortalecê-la.</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações Questor, você vai bem e Roma sorri para você, honrando-o com este alto posto. Gostaria que ficasse em Capena por um tempo. O povo aqui está assustado e acredita que sua doença foi causada por espíritos malignos; devemos mostrar que os deuses romanos são mais fortes. Construa alguns templos e encoraje os locais a se casarem — esta cidade é importante para Roma, vamos fortalecê-la.</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1679,7 +1679,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_7</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Quaestor, ah such success, Rome is awash with our wine! I have my investment returned and our baby city is the envy of every merchant in town! Now we must breathe some civilization into your streets and show Rome what you have achieved here. There is no greater mark of civilized man, than to take a regular bath and this is what you will provide for Tarentum. When water flows not only in Rome but into a second city of the empire, our triumph will be complete. </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Questor, que sucesso! Roma está inundada de nosso vinho! Recuperei meu investimento e nossa jovem cidade é a inveja de todo comerciante da cidade! Agora devemos trazer civilização às suas ruas e mostrar a Roma o que você alcançou. Não há maior marca de homem civilizado do que tomar banho regularmente, e é isso que você proporcionará a Tarentum. </Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações Questor, que sucesso! Roma está inundada de nosso vinho! Recuperei meu investimento e nossa jovem cidade é a inveja de todo comerciante da cidade! Agora devemos trazer civilização às suas ruas e mostrar a Roma o que você alcançou. Não há maior marca de homem civilizado do que tomar banho regularmente, e é isso que você proporcionará a Tarentum. </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1691,7 +1691,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_9</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Hail Censor. The emperor himself recommended your promotion, he is a soldier and keeping his victorious army well fed, was a sure fire way to his heart. Imperial favor is not without its problems however, the old boy wants us to stay in Massilia and build it up, its of ‘strategic importance’, apparently. Well much of the profit has been taken here and I want to move on, lets get this stinking fish port cleaned up..      </Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Salve Censor. O próprio imperador recomendou sua promoção; ele é um soldado e manter seu vitorioso exército bem alimentado foi uma forma certeira de conquistar seu coração. O favor imperial não é sem problemas, porém — o velho quer que fiquemos em Massilia e a construamos, pois é de 'importância estratégica', aparentemente. Bem, muito do lucro foi levado daqui e quero seguir em frente; vamos limpar este fedorento porto de peixes.      </Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Saudações Censor. O próprio imperador recomendou sua promoção; ele é um soldado e manter seu vitorioso exército bem alimentado foi uma forma certeira de conquistar seu coração. O favor imperial não é sem problemas, porém — o velho quer que fiquemos em Massilia e a construamos, pois é de 'importância estratégica', aparentemente. Bem, muito do lucro foi levado daqui e quero seguir em frente; vamos limpar este fedorento porto de peixes.      </Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -1739,7 +1739,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">BRIEFING_KIDS_TT</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String">Kids</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Crianças</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String">Novato</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
@@ -15665,7 +15665,7 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 <Row>
 <Cell ss:StyleID="sTag"><Data ss:Type="String">LOANS_AVAILABLE</Data></Cell>
 <Cell ss:StyleID="sReadOnly"><Data ss:Type="String"> loans available)</Data></Cell>
-<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> empr. disponíveis)</Data></Cell>
+<Cell ss:StyleID="sReadWrite"><Data ss:Type="String"> disponíveis)</Data></Cell>
 <Cell ss:StyleID="sReadWrite"><Data ss:Type="String">*</Data></Cell>
 </Row>
 <Row>
