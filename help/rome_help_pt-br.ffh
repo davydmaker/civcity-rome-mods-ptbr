@@ -15,7 +15,7 @@
 
 <!-- Table of Contents -->
 
-<section name="table of contents" loadpic="contents.tga" title="ï¿½ndice.">
+<section name="table of contents" loadpic="contents.tga" title="Índice.">
 <contentspage/>
 
 <newparagraph/>
@@ -23,7 +23,7 @@ Conceitos-chave:
 <newparagraph/>
 <link linkfile="GettingStarted" linkname="Primeiros Passos"/>
 <newparagraph/>
-<link linkfile="ImmigrationEmigration" linkname="Imigraï¿½ï¿½o e Emigraï¿½ï¿½o"/>
+<link linkfile="ImmigrationEmigration" linkname="Imigração e Emigração"/>
 <newparagraph/>
 <link linkfile="Happiness" linkname="Felicidade da Cidade"/>
 <newparagraph/>
@@ -31,13 +31,13 @@ Conceitos-chave:
 <newparagraph/>
 <link linkfile="WorkTimeFreeTime" linkname="Tempo de Trabalho e Tempo Livre"/>
 <newparagraph/>
-<link linkfile="CivilizationRating" linkname="ï¿½ndice de Civilizaï¿½ï¿½o"/>
+<link linkfile="CivilizationRating" linkname="Índice de Civilização"/>
 <newparagraph/>
 <link linkfile="Roads" linkname="Estradas"/>
 <newparagraph/>
 <link linkfile="MoneyBuildings" linkname="Dinheiro"/>
 <newparagraph/>
-<link linkfile="EmpireMap" linkname="Comï¿½rcio e o Impï¿½rio"/>
+<link linkfile="EmpireMap" linkname="Comércio e o Império"/>
 <newparagraph/>
 <link linkfile="SenateRequests" linkname="Pedidos do Senado"/>
 <newparagraph/>
@@ -51,31 +51,31 @@ Conceitos-chave:
 <newparagraph/>
 <link linkfile="workshoprange" linkname="Alcance das Oficinas"/>
 <newparagraph/>
-<link linkfile="fireinthecity" linkname="Incï¿½ndio na Cidade"/>
+<link linkfile="fireinthecity" linkname="Incêndio na Cidade"/>
 <newparagraph/>
 <link linkfile="riotinginthecity" linkname="Tumultos na Cidade"/>
 <newparagraph/>
 <link linkfile="earthquakesinthecity" linkname="Terremotos na Cidade"/>
 <newparagraph/>
-<link linkfile="transportinggoods" linkname="Transporte de mercadorias entre armazï¿½ns e celeiros"/>
+<link linkfile="transportinggoods" linkname="Transporte de mercadorias entre armazéns e celeiros"/>
 <newparagraph/>
 
 
 
 <newparagraph/>
-Edifï¿½cios:
+Edifícios:
 <newparagraph/>
 <link linkfile="Infrastructure" linkname="Infraestrutura"/>
 <newparagraph/>
 <link linkfile="FarmsFishing" linkname="Fazendas e Pesca"/>
 <newparagraph/>
-<link linkfile="Commerce" linkname="Comï¿½rcio"/>
+<link linkfile="Commerce" linkname="Comércio"/>
 <newparagraph/>
 <link linkfile="Entertainment" linkname="Entretenimento"/>
 <newparagraph/>
-<link linkfile="Services" linkname="Serviï¿½os"/>
+<link linkfile="Services" linkname="Serviços"/>
 <newparagraph/>
-<link linkfile="Security" linkname="Seguranï¿½a"/>
+<link linkfile="Security" linkname="Segurança"/>
 <newparagraph/>
 <link linkfile="Beautification" linkname="Embelezamento"/>
 <newparagraph/>
@@ -98,13 +98,13 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="Shack" linkname="Barraco"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 <newparagraph/>
 <link linkfile="Granary" linkname="Celeiro"/>
 <newparagraph/>
 <link linkfile="Roads" linkname="Estradas"/>
 <newparagraph/>
-<link linkfile="Well" linkname="Poï¿½o"/>
+<link linkfile="Well" linkname="Poço"/>
 <newparagraph/>
 <link linkfile="AqueductTower" linkname="Aquedutos"/>
 <newparagraph/>
@@ -112,7 +112,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="StoneBridge" linkname="Ponte de Pedra"/>
 <newparagraph/>
-<link linkfile="TransportJetty" linkname="Pï¿½er de Transporte"/>
+<link linkfile="TransportJetty" linkname="Píer de Transporte"/>
 <newparagraph/>
 <link linkfile="StoneCamp" linkname="Acampamento de Pedra"/>
 <newparagraph/>
@@ -120,7 +120,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="IronMine" linkname="Mina de Ferro"/>
 <newparagraph/>
-<link linkfile="MarbleQuarry" linkname="Pedreira de Mï¿½rmore"/>
+<link linkfile="MarbleQuarry" linkname="Pedreira de Mármore"/>
 <newparagraph/>
 </section>
 
@@ -144,13 +144,13 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="FarmWheat" linkname="Fazenda de Trigo"/>
 <newparagraph/>
-<link linkfile="FarmDate" linkname="Fazenda de Tï¿½maras"/>
+<link linkfile="FarmDate" linkname="Fazenda de Tâmaras"/>
 <newparagraph/>
 <link linkfile="FarmGoat" linkname="Fazenda de Cabras"/>
 <newparagraph/>
 <link linkfile="FarmGoose" linkname="Fazenda de Gansos"/>
 <newparagraph/>
-<link linkfile="FishingJetty" linkname="Pï¿½er de Pesca"/>
+<link linkfile="FishingJetty" linkname="Píer de Pesca"/>
 <newparagraph/>
 <link linkfile="BoatYardSmall" linkname="Estaleiro Pequeno"/>
 <newparagraph/>
@@ -165,7 +165,7 @@ Edifï¿½cios:
 
 <!-- Commerce -->
 
-<section name="Commerce" title="Comï¿½rcio.">
+<section name="Commerce" title="Comércio.">
 <contentspage/>
 
 <link linkfile="ShopCarpenter" linkname="Carpintaria"/>
@@ -174,7 +174,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="ShopWinery" linkname="Adega"/>
 <newparagraph/>
-<link linkfile="ButcherShop" linkname="Aï¿½ougue"/>
+<link linkfile="ButcherShop" linkname="Açougue"/>
 <newparagraph/>
 <link linkfile="CabinetMaker" linkname="Marceneiro"/>
 <newparagraph/>
@@ -184,11 +184,11 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="FishMonger" linkname="Peixeiro"/>
 <newparagraph/>
-<link linkfile="ShopFruitStand1" linkname="Banca de Tï¿½maras"/>
+<link linkfile="ShopFruitStand1" linkname="Banca de Tâmaras"/>
 <newparagraph/>
 <link linkfile="GooseShop" linkname="Loja de Gansos"/>
 <newparagraph/>
-<link linkfile="WeaverShop" linkname="Loja de Tï¿½nicas"/>
+<link linkfile="WeaverShop" linkname="Loja de Túnicas"/>
 <newparagraph/>
 <link linkfile="ShopOlivePress" linkname="Prensa de Azeite"/>
 <newparagraph/>
@@ -221,7 +221,7 @@ Edifï¿½cios:
 
 <link linkfile="Tavern" linkname="Taberna"/>
 <newparagraph/>
-<link linkfile="SchoolMusician" linkname="Escola de Mï¿½sicos"/>
+<link linkfile="SchoolMusician" linkname="Escola de Músicos"/>
 <newparagraph/>
 <link linkfile="Piazza6" linkname="Piazza"/>
 <newparagraph/>
@@ -229,11 +229,11 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="Theatre" linkname="Teatro"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 <newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
@@ -243,7 +243,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -271,13 +271,13 @@ Edifï¿½cios:
 
 <!-- Services -->
 
-<section name="Services" title="Serviï¿½os.">
+<section name="Services" title="Serviços.">
 <contentspage/>
 
 
 <link linkfile="StreetCleaner" linkname="Limpeza de Ruas"/>
 <newparagraph/>
-<link linkfile="ShopDoctor" linkname="Consultï¿½rio Mï¿½dico"/>
+<link linkfile="ShopDoctor" linkname="Consultório Médico"/>
 <newparagraph/>
 <link linkfile="ShopHospital" linkname="Hospital"/>
 <newparagraph/>
@@ -317,24 +317,24 @@ Edifï¿½cios:
 
 <!-- Security -->
 
-<section name="Security" title="Seguranï¿½a.">
+<section name="Security" title="Segurança.">
 <contentspage/>
 
 <link linkfile="Fort" linkname="Forte"/>
 <newparagraph/>
 <link linkfile="WeaponsArmorer" linkname="Ferreiro de Espadas"/>
 <newparagraph/>
-<link linkfile="WeaponsSpear" linkname="Fabricante de Lanï¿½as"/>
+<link linkfile="WeaponsSpear" linkname="Fabricante de Lanças"/>
 <newparagraph/>
 <link linkfile="TowerWatch" linkname="Torre de Vigia"/>
 <newparagraph/>
-<link linkfile="FireWatch" linkname="Posto de Vigï¿½lias"/>
+<link linkfile="FireWatch" linkname="Posto de Vigílias"/>
 <newparagraph/>
 <link linkfile="StoneWall" linkname="Muralha de Pedra"/>
 <newparagraph/>
 <link linkfile="TowerStone" linkname="Torre de Pedra"/>
 <newparagraph/>
-<link linkfile="CityGate" linkname="Portï¿½o da Cidade"/>
+<link linkfile="CityGate" linkname="Portão da Cidade"/>
 <newparagraph/>
 
 
@@ -424,7 +424,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="ShopOlivePress" linkname="Prensa de Azeite"/>
 <newparagraph/>
-<link linkfile="FireWatch" linkname="Posto de Vigï¿½lias"/>
+<link linkfile="FireWatch" linkname="Posto de Vigílias"/>
 <newparagraph/>
 <link linkfile="WoodCamp" linkname="Acampamento Madeireiro"/>
 <newparagraph/>
@@ -467,7 +467,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="AqueductTower" linkname="Aquedutos"/>
 <newparagraph/>
-<link linkfile="SchoolMusician" linkname="Escola de Mï¿½sicos"/>
+<link linkfile="SchoolMusician" linkname="Escola de Músicos"/>
 <newparagraph/>
 <link linkfile="Piazza6" linkname="Piazza"/>
 <newparagraph/>
@@ -492,7 +492,7 @@ Edifï¿½cios:
 <contentspage/>
 
 <newparagraph/>
-<link linkfile="MarbleQuarry" linkname="Pedreira de Mï¿½rmore"/>
+<link linkfile="MarbleQuarry" linkname="Pedreira de Mármore"/>
 <newparagraph/>
 <link linkfile="BoatYardLarge" linkname="Estaleiro Grande"/>
 <newparagraph/>
@@ -502,7 +502,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="Gramaticus" linkname="Grammaticus"/>
 <newparagraph/>
-<link linkfile="FishingJetty" linkname="Pï¿½er de Pesca"/>
+<link linkfile="FishingJetty" linkname="Píer de Pesca"/>
 <newparagraph/>
 <link linkfile="FishMonger" linkname="Peixeiro"/>
 <newparagraph/>
@@ -510,7 +510,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="BoatYardSmall" linkname="Estaleiro Pequeno"/>
 <newparagraph/>
-<link linkfile="ShopDoctor" linkname="Consultï¿½rio Mï¿½dico"/>
+<link linkfile="ShopDoctor" linkname="Consultório Médico"/>
 <newparagraph/>
 <link linkfile="FarmFruit" linkname="Fazenda de Frutas"/>
 <newparagraph/>
@@ -535,7 +535,7 @@ Edifï¿½cios:
 <contentspage/>
 
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
 <newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
@@ -547,7 +547,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="Garden1x1" linkname="Jardim"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
 <newparagraph/>
 <link linkfile="TailorShop" linkname="Alfaiataria"/>
 <newparagraph/>
@@ -576,11 +576,11 @@ Edifï¿½cios:
 <contentspage/>
 
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 <newparagraph/>
 <link linkfile="StoneBridge" linkname="Ponte de Pedra"/>
 <newparagraph/>
-<link linkfile="TransportJetty" linkname="Pï¿½er de Transporte"/>
+<link linkfile="TransportJetty" linkname="Píer de Transporte"/>
 <newparagraph/>
 <link linkfile="BathHouseLarge" linkname="Termas de Luxo"/>
 <newparagraph/>
@@ -592,9 +592,9 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="Barber" linkname="Barbeiro"/>
 <newparagraph/>
-<link linkfile="FarmDate" linkname="Fazenda de Tï¿½maras"/>
+<link linkfile="FarmDate" linkname="Fazenda de Tâmaras"/>
 <newparagraph/>
-<link linkfile="ShopFruitStand1" linkname="Banca de Tï¿½maras"/>
+<link linkfile="ShopFruitStand1" linkname="Banca de Tâmaras"/>
 <newparagraph/>
 <link linkfile="Theatre" linkname="Teatro"/>
 <newparagraph/>
@@ -641,7 +641,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -719,7 +719,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="FarmWheat" linkname="Fazenda de Trigo"/>
 <newparagraph/>
-<link linkfile="ShopDoctor" linkname="Consultï¿½rio Mï¿½dico"/>
+<link linkfile="ShopDoctor" linkname="Consultório Médico"/>
 <newparagraph/>
 <link linkfile="ShopHospital" linkname="Hospital"/>
 <newparagraph/>
@@ -752,7 +752,7 @@ Edifï¿½cios:
 <contentspage/>
 
 <newparagraph/>
-<link linkfile="WeaponsSpear" linkname="Fabricante de Lanï¿½as"/>
+<link linkfile="WeaponsSpear" linkname="Fabricante de Lanças"/>
 <newparagraph/>
 <link linkfile="Theatre" linkname="Teatro"/>
 <newparagraph/>
@@ -760,11 +760,11 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
 <newparagraph/>
 <link linkfile="BoatYardSmall" linkname="Estaleiro Pequeno"/>
 <newparagraph/>
-<link linkfile="FishingJetty" linkname="Pï¿½er de Pesca"/>
+<link linkfile="FishingJetty" linkname="Píer de Pesca"/>
 <newparagraph/>
 <link linkfile="FishMonger" linkname="Peixeiro"/>
 <newparagraph/>
@@ -801,7 +801,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="BathHouseLarge" linkname="Termas de Luxo"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
 <newparagraph/>
 -->
 
@@ -826,7 +826,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="Barber" linkname="Barbeiro"/>
 <newparagraph/>
-<link linkfile="TransportJetty" linkname="Pï¿½er de Transporte"/>
+<link linkfile="TransportJetty" linkname="Píer de Transporte"/>
 <newparagraph/>
 <link linkfile="StoneBridge" linkname="Ponte de Pedra"/>
 <newparagraph/>
@@ -834,7 +834,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="TowerStone" linkname="Torre de Pedra"/>
 <newparagraph/>
-<link linkfile="CityGate" linkname="Portï¿½o da Cidade"/>
+<link linkfile="CityGate" linkname="Portão da Cidade"/>
 <newparagraph/>
 <link linkfile="ChariotMaker" linkname="Fabricante de Carruagens"/>
 <newparagraph/>
@@ -844,13 +844,13 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="ChariotTrainer" linkname="Escola de Aurigas"/>
 <newparagraph/>
-<link linkfile="FarmDate" linkname="Fazenda de Tï¿½maras"/>
+<link linkfile="FarmDate" linkname="Fazenda de Tâmaras"/>
 <newparagraph/>
-<link linkfile="ShopFruitStand1" linkname="Banca de Tï¿½maras"/>
+<link linkfile="ShopFruitStand1" linkname="Banca de Tâmaras"/>
 <newparagraph/>
 <link linkfile="LargeArch" linkname="Arco Grande"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 <newparagraph/>
 <link linkfile="SchoolActor" linkname="Escola de Atores"/>
 <newparagraph/>
@@ -866,7 +866,7 @@ Edifï¿½cios:
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -909,10 +909,10 @@ Edifï¿½cios:
 
 <section name="TownCenter" loadpic="Forum.tga" title="Centro da Cidade">
 <newparagraph/>
-O primeiro edifï¿½cio a ser construï¿½do em uma nova cidade e o centro vital da cidade, onde todos os novos chegantes se reï¿½nem ï¿½ espera de trabalho. Escolha bem o local para este edifï¿½cio!
+O primeiro edifício a ser construído em uma nova cidade e o centro vital da cidade, onde todos os novos chegantes se reúnem à espera de trabalho. Escolha bem o local para este edifício!
 <newparagraph/>
 <newparagraph/>
-ï¿½ medida que o jogo avanï¿½a, este simples centro da cidade crescerï¿½ e se tornarï¿½ um centro muito mais elaborado.
+À medida que o jogo avança, este simples centro da cidade crescerá e se tornará um centro muito mais elaborado.
 
 </section>
 
@@ -925,13 +925,13 @@ O primeiro edifï¿½cio a ser construï¿½do em uma nova cidade e o centro vital da 
 
 <section name="Shack" loadpic="Shack.tga" title="Barraco">
 <newparagraph/>
-Construir esta habitaï¿½ï¿½o oferece um lar bï¿½sico para um cidadï¿½o desabrigado e ajuda a agradar sua populaï¿½ï¿½o ao aumentar a proporï¿½ï¿½o de cidadï¿½os abrigados.
+Construir esta habitação oferece um lar básico para um cidadão desabrigado e ajuda a agradar sua população ao aumentar a proporção de cidadãos abrigados.
 <newparagraph/>
-Conforme o jogo avanï¿½a, esses simples barracos se transformarï¿½o em casas mais nobres se as necessidades do lar forem atendidas. Clicando na casa 
- mostra quais necessidades foram atendidas (ï¿½ esquerda) e o que os ocupantes precisam antes que a casa possa evoluir mais (ï¿½ direita). O principal motivo
- para evoluir uma casa para o prï¿½ximo nï¿½vel ï¿½ que cada novo nï¿½vel traz um aumento nos impostos coletados da casa.
+As the game progresses, these simple shacks will grow into grander houses if their household needs are met.  Clicking on the house 
+ shows you what needs it has met (on the left) and what the occupants need before the house can grow further (on the right). The main reason
+ to grow a house to the next level is that each new level brings an increase in the tax collected from the house.
 <newparagraph/>
-Clicar nos retratos dos ocupantes permite selecionar moradores individuais, e o botï¿½o de mover casa permite reposicionar a casa, por exemplo, mais prï¿½xima ao local de trabalho.
+Clicar nos retratos dos ocupantes permite selecionar moradores individuais, e o botão de mover casa permite reposicionar a casa, por exemplo, mais próxima ao local de trabalho.
 
 </section>
 
@@ -942,13 +942,13 @@ Clicar nos retratos dos ocupantes permite selecionar moradores individuais, e o 
 
 <!-- Well -->
 
-<section name="Well" loadpic="Well.tga" title="Poï¿½o">
+<section name="Well" loadpic="Well.tga" title="Poço">
 <newparagraph/>
-O poï¿½o fornecerï¿½ ï¿½gua ao seu povo. Um suprimento de ï¿½gua ï¿½ necessï¿½rio antes que seus barracos possam evoluir para pequenas cabanas. Uma vez colocado, um
- trabalhador do poï¿½o chegarï¿½ e comeï¿½arï¿½ a tirar ï¿½gua e despejï¿½-la em ï¿½nforas para serem coletadas. Em uma ï¿½rea densamente povoada, vï¿½rios trabalhadores de poï¿½o podem ser necessï¿½rios.
+The well will provide your people with water.  A supply of water is required before your shacks can grow into small huts. Once placed a
+ well worker will arrive and start to draw water and pour it into amphorae to be collected. In a heavily populated area, several well workers may be needed.
 <newparagraph/>
 <newparagraph/>
-Os poï¿½os podem ser posteriormente substituï¿½dos por ï¿½gua encanada atravï¿½s de um sistema de aquedutos e cisternas.
+Os poços podem ser posteriormente substituídos por água encanada através de um sistema de aquedutos e cisternas.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="AqueductTower" linkname="Aquedutos"/>
@@ -966,15 +966,15 @@ Os poï¿½os podem ser posteriormente substituï¿½dos por ï¿½gua encanada atravï¿½s
 
 <section name="FarmGoat" loadpic="FarmGoat.tga" title="Fazenda de Cabras">
 <newparagraph/>
-Cabras sï¿½o criadas aqui; uma vez abatidas pelo pastor, suas carcaï¿½as sï¿½o coletadas por aï¿½ougueiros na cidade que as convertem em
- carne. Carne ï¿½ necessï¿½ria antes que suas cabanas pequenas possam evoluir para cabanas mï¿½dias.
+Goats are bred here, once slaughtered by the goatherd their carcasses are collected by any butchers in the city who then convert them into
+ meat. Meat is needed before your small huts can grow into medium huts.
 <newparagraph/>
 <newparagraph/>
-ï¿½ uma boa ideia construir aï¿½ougues prï¿½ximos ï¿½s fazendas de cabras e ao celeiro, para que possam recolher as carcaï¿½as rapidamente e depositar a carne excedente no celeiro.
+É uma boa ideia construir açougues próximos às fazendas de cabras e ao celeiro, para que possam recolher as carcaças rapidamente e depositar a carne excedente no celeiro.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-<link linkfile="ButcherShop" linkname="Aï¿½ougue"/>
+<link linkfile="ButcherShop" linkname="Açougue"/>
 <newparagraph/>
 <link linkfile="Granary" linkname="Celeiro"/>
 </section>
@@ -987,13 +987,13 @@ Cabras sï¿½o criadas aqui; uma vez abatidas pelo pastor, suas carcaï¿½as sï¿½o c
 <!-- ButcherShop-->
 
 
-<section name="ButcherShop" loadpic="ButcherShop.tga" title="Aï¿½ougue">
+<section name="ButcherShop" loadpic="ButcherShop.tga" title="Açougue">
 <newparagraph/>
-O aï¿½ougueiro buscarï¿½ animais abatidos de uma fazenda de cabras prï¿½xima e os cortarï¿½ em carne para vender aos cidadï¿½os. Qualquer carne excedente ï¿½ entï¿½o
- entregue em um celeiro prï¿½ximo, onde ï¿½ usada para fornecer raï¿½ï¿½es para a populaï¿½ï¿½o em geral.
+The butcher will fetch slaughtered animals from a nearby goat farm and cut them into meat to be sold to citizens. Any spare meat is then
+ dropped off in a nearby granary where it is used to provide rations for the general population.
 <newparagraph/>
 <newparagraph/>
-O aï¿½ougueiro ï¿½ especialista em aproveitar ao mï¿½ximo a carne e transforma uma carcaï¿½a em vï¿½rias peï¿½as. Tente construir seus aï¿½ougues o mais prï¿½ximo possï¿½vel das fazendas de cabras.
+O açougueiro é especialista em aproveitar ao máximo a carne e transforma uma carcaça em várias peças. Tente construir seus açougues o mais próximo possível das fazendas de cabras.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmGoat" linkname="Fazenda de Cabras"/>
@@ -1011,7 +1011,7 @@ O aï¿½ougueiro ï¿½ especialista em aproveitar ao mï¿½ximo a carne e transforma u
 
 <section name="FarmPig" loadpic="FarmPig.tga" title="Fazenda de Porcos">
 <newparagraph/>
-Nï¿½O UTILIZADO.
+NÃO UTILIZADO.
 
 </section>
 
@@ -1025,10 +1025,10 @@ Nï¿½O UTILIZADO.
 
 <section name="WoodCamp" loadpic="WoodCamp.tga" title="Acampamento Madeireiro">
 <newparagraph/>
-Os dois trabalhadores do acampamento madeireiro cortarï¿½o as ï¿½rvores prï¿½ximas; isso limpa o terreno para construï¿½ï¿½o e fornece ao armazï¿½m um suprimento de madeira.
+Os dois trabalhadores do acampamento madeireiro cortarão as árvores próximas; isso limpa o terreno para construção e fornece ao armazém um suprimento de madeira.
 <newparagraph/>
 <newparagraph/>
-A madeira ï¿½ um recurso vital e necessï¿½ria para uma grande variedade de artesï¿½os, incluindo carpinteiros, marceneiros, fabricantes de carruagens, fabricantes de lanï¿½as e estaleiros. Em mapas sem ï¿½rvores, pode ser necessï¿½rio importar madeira de cidades prï¿½ximas.
+A madeira é um recurso vital e necessária para uma grande variedade de artesãos, incluindo carpinteiros, marceneiros, fabricantes de carruagens, fabricantes de lanças e estaleiros. Em mapas sem árvores, pode ser necessário importar madeira de cidades próximas.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -1040,11 +1040,11 @@ A madeira ï¿½ um recurso vital e necessï¿½ria para uma grande variedade de artes
 <newparagraph/>
 <link linkfile="BoatYardLarge" linkname="Estaleiro Grande"/>
 <newparagraph/>
-<link linkfile="WeaponsSpear" linkname="Fabricante de Lanï¿½as"/>
+<link linkfile="WeaponsSpear" linkname="Fabricante de Lanças"/>
 <newparagraph/>
 <link linkfile="BoatYardSmall" linkname="Estaleiro Pequeno"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -1059,16 +1059,16 @@ A madeira ï¿½ um recurso vital e necessï¿½ria para uma grande variedade de artes
 
 <section name="BoatYardSmall" loadpic="BoatYardSmall.tga" title="Estaleiro Pequeno">
 <newparagraph/>
-Os construtores de barcos fabricarï¿½o embarcaï¿½ï¿½es de pesca para seus pescadores. A construï¿½ï¿½o de barcos pode levar muito tempo e requer muita madeira.
+Os construtores de barcos fabricarão embarcações de pesca para seus pescadores. A construção de barcos pode levar muito tempo e requer muita madeira.
 <newparagraph/>
 <newparagraph/>
-Os estaleiros podem ser construï¿½dos tanto em rios quanto no mar, mas precisam ser colocados metade dentro da ï¿½gua. Pode ser necessï¿½rio girar o edifï¿½cio com a roda do mouse para encontrar a orientaï¿½ï¿½o correta.
+Os estaleiros podem ser construídos tanto em rios quanto no mar, mas precisam ser colocados metade dentro da água. Pode ser necessário girar o edifício com a roda do mouse para encontrar a orientação correta.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
 <link linkfile="WoodCamp" linkname="Acampamento Madeireiro"/>
 <newparagraph/>
-<link linkfile="FishingJetty" linkname="Pï¿½er de Pesca"/>
+<link linkfile="FishingJetty" linkname="Píer de Pesca"/>
 
 </section>
 
@@ -1080,16 +1080,16 @@ Os estaleiros podem ser construï¿½dos tanto em rios quanto no mar, mas precisam 
 <!-- FishingJetty-->
 
 
-<section name="FishingJetty" loadpic="FishingJetty.tga" title="Pï¿½er de Pesca">
+<section name="FishingJetty" loadpic="FishingJetty.tga" title="Píer de Pesca">
 <newparagraph/>
-Cada pï¿½er pode sustentar trï¿½s pescadores que pescarï¿½o para seus peixeiros. Seu peixeiro pode entï¿½o filetar o peixe para fornecer ao seu
- povo carne. ï¿½ recomendï¿½vel que vocï¿½ construa seu peixeiro perto de seus pï¿½eres de pesca.
-<newparagraph/>
-<newparagraph/>
-Vocï¿½ precisarï¿½ que construtores de barcos de um estaleiro pequeno construam uma embarcaï¿½ï¿½o de pesca antes que qualquer peixe possa ser capturado.
+Each jetty can support three fishermen who will catch fish for your fishmongers.  Your fishmonger can then fillet the fish to provide your
+ people with meat.  It is recommended that you build your fishmonger close to your fishing jetties.
 <newparagraph/>
 <newparagraph/>
-A pesca ï¿½ uma ï¿½tima forma de alimentar sua populaï¿½ï¿½o quando o espaï¿½o em terra ï¿½ escasso, pois ocupa menos espaï¿½o do que a agricultura ï¿½ beira-mar.
+Você precisará que construtores de barcos de um estaleiro pequeno construam uma embarcação de pesca antes que qualquer peixe possa ser capturado.
+<newparagraph/>
+<newparagraph/>
+A pesca é uma ótima forma de alimentar sua população quando o espaço em terra é escasso, pois ocupa menos espaço do que a agricultura à beira-mar.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -1111,15 +1111,15 @@ A pesca ï¿½ uma ï¿½tima forma de alimentar sua populaï¿½ï¿½o quando o espaï¿½o e
 
 <section name="FishMonger" loadpic="FishMonger.tga" title="Peixeiro">
 <newparagraph/>
-O peixeiro processarï¿½ os peixes capturados pelos pescadores e fornecerï¿½ aos cidadï¿½os um suprimento constante de carne. A carne excedente pode ser levada ao celeiro para alimentar a populaï¿½ï¿½o geral.
+O peixeiro processará os peixes capturados pelos pescadores e fornecerá aos cidadãos um suprimento constante de carne. A carne excedente pode ser levada ao celeiro para alimentar a população geral.
 <newparagraph/>
 <newparagraph/>
-Tente construï¿½-lo o mais prï¿½ximo possï¿½vel de um pï¿½er de pesca.
+Tente construí-lo o mais próximo possível de um píer de pesca.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="BoatYardSmall" linkname="Estaleiro Pequeno"/>
 <newparagraph/>
-<link linkfile="FishingJetty" linkname="Pï¿½er de Pesca"/>
+<link linkfile="FishingJetty" linkname="Píer de Pesca"/>
 <newparagraph/>
 <link linkfile="Granary" linkname="Celeiro"/>
 
@@ -1137,19 +1137,19 @@ Tente construï¿½-lo o mais prï¿½ximo possï¿½vel de um pï¿½er de pesca.
 
 <section name="FarmFlax" loadpic="FarmFlax.tga" title="Fazenda de Linho">
 <newparagraph/>
-Os agricultores de linho que trabalham aqui produzem linho para seus fabricantes de tï¿½nicas, togas e costureiras. As tï¿½nicas que seus tecelï¿½es produzem sï¿½o
- necessï¿½rias antes que suas cabanas mï¿½dias possam evoluir para cabanas grandes. 
+The flax farmers who work here produce linen for your tunic makers, toga makers and dressmakers.  The tunics your weavers produce are
+ needed before your medium huts can grow into large huts. 
 <newparagraph/>
-Os agricultores cultivarï¿½o, colherï¿½o e fiarï¿½o uma grande quantidade de linho antes de levar uma carroï¿½a de tecido ao armazï¿½m prï¿½ximo. Os tecelï¿½es coletarï¿½o o linho da fazenda ou do armazï¿½m, o que estiver mais prï¿½ximo.
+Os agricultores cultivarão, colherão e fiarão uma grande quantidade de linho antes de levar uma carroça de tecido ao armazém próximo. Os tecelões coletarão o linho da fazenda ou do armazém, o que estiver mais próximo.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="WeaverShop" linkname="Loja de Tï¿½nicas"/>
+<link linkfile="WeaverShop" linkname="Loja de Túnicas"/>
 <newparagraph/>
 <link linkfile="TailorShop" linkname="Alfaiataria"/>
 <newparagraph/>
 <link linkfile="DressMakerShop" linkname="Loja da Costureira"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -1163,9 +1163,9 @@ Os agricultores cultivarï¿½o, colherï¿½o e fiarï¿½o uma grande quantidade de lin
 
 <section name="GooseShop" loadpic="GooseShop.tga" title="Loja de Gansos">
 <newparagraph/>
-O aï¿½ougueiro trabalha aqui e coletarï¿½ um ganso da fazenda de gansos e produzirï¿½ carne que seus cidadï¿½os poderï¿½o coletar.
+O açougueiro trabalha aqui e coletará um ganso da fazenda de gansos e produzirá carne que seus cidadãos poderão coletar.
 <newparagraph/>
-Os gansos sï¿½o necessï¿½rios antes que sua villa possa se tornar um palï¿½cio.
+Os gansos são necessários antes que sua villa possa se tornar um palácio.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmGoose" linkname="Fazenda de Gansos"/>
@@ -1182,18 +1182,18 @@ Os gansos sï¿½o necessï¿½rios antes que sua villa possa se tornar um palï¿½cio.
 <!-- WeaverShop -->
 
 
-<section name="WeaverShop" loadpic="WeaverShop.tga" title="Loja de Tï¿½nicas">
+<section name="WeaverShop" loadpic="WeaverShop.tga" title="Loja de Túnicas">
 <newparagraph/>
-Seus tecelï¿½es produzem tï¿½nicas com o linho armazenado nas fazendas de linho ou armazï¿½ns. As tï¿½nicas sï¿½o produzidas lentamente e vï¿½rios fabricantes podem ser necessï¿½rios em ï¿½reas residenciais.
+Seus tecelões produzem túnicas com o linho armazenado nas fazendas de linho ou armazéns. As túnicas são produzidas lentamente e vários fabricantes podem ser necessários em áreas residenciais.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-As tï¿½nicas sï¿½o necessï¿½rias antes que suas cabanas mï¿½dias possam se tornar grandes cabanas.
+As túnicas são necessárias antes que suas cabanas médias possam se tornar grandes cabanas.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmFlax" linkname="Fazenda de Linho"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -1208,20 +1208,20 @@ As tï¿½nicas sï¿½o necessï¿½rias antes que suas cabanas mï¿½dias possam se torna
 
 <section name="AqueductTower" loadpic="AqueductTower.tga" title="Aqueduto">
 <newparagraph/>
-Vocï¿½ pode trazer ï¿½gua fresca para o coraï¿½ï¿½o de sua cidade usando um sistema de aquedutos e cisternas.
+Você pode trazer água fresca para o coração de sua cidade usando um sistema de aquedutos e cisternas.
 <newparagraph/>
 <newparagraph/>
-Os aquedutos permitem que a ï¿½gua seja transportada de um rio ou lago por terra atï¿½ uma cisterna, onde pode entï¿½o ser distribuï¿½da para suas casas. A
- primeira torre de uma cadeia de aquedutos deve sempre ser colocada em ï¿½gua doce; ï¿½gua do mar nï¿½o pode ser usada e, portanto, essas torres nï¿½o podem ser colocadas
- no mar. Os elos subsequentes do sistema de aqueduto podem ser encadeados a partir da ï¿½ltima torre colocada atï¿½ que a torre final esteja na posiï¿½ï¿½o desejada;
- entï¿½o colocar uma cisterna distribuirï¿½ a ï¿½gua para uma ampla ï¿½rea. 
+The aqueducts allow the water to be carried from a river or lake over land to a cistern where it can then be distributed to your houses. The
+ first tower of an aqueduct chain should always be placed in fresh water, sea water cannot be used and so these towers can not be placed
+ in the sea. Subsequent links of the aqueduct system can be chained off the last tower placed until the final tower is in the desired position,
+ then placing a cistern will deliver the water to a wide area. 
 <newparagraph/>
 <newparagraph/>
-Se uma cadeia de aquedutos for construï¿½da corretamente, ï¿½gua azul serï¿½ vista fluindo ao longo do topo. Se houver um problema na cadeia, nenhuma ï¿½gua serï¿½ vista.
+Se uma cadeia de aquedutos for construída corretamente, água azul será vista fluindo ao longo do topo. Se houver um problema na cadeia, nenhuma água será vista.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-<link linkfile="Well" linkname="Poï¿½o"/>
+<link linkfile="Well" linkname="Poço"/>
 <newparagraph/>
 <link linkfile="Cistern" linkname="Cisterna"/>
 
@@ -1237,7 +1237,7 @@ Se uma cadeia de aquedutos for construï¿½da corretamente, ï¿½gua azul serï¿½ vis
 
 <section name="FarmSheep" loadpic="FarmSheep.tga" title="Fazenda de Ovelhas">
 <newparagraph/>
-Nï¿½O UTILIZADO
+NÃO UTILIZADO
 
 </section>
 
@@ -1250,9 +1250,9 @@ Nï¿½O UTILIZADO
 <!-- StreetCleaner-->
 
 
-<section name="StreetCleaner" loadpic="StreetCleaner.tga" title="Depï¿½sito de Limpeza">
+<section name="StreetCleaner" loadpic="StreetCleaner.tga" title="Depósito de Limpeza">
 <newparagraph/>
-Seu limpador de ruas limparï¿½ qualquer sujeira que apareï¿½a nas suas ruas. Sem ele, sua cidade logo ficarï¿½ muito suja. Isso terï¿½ um efeito negativo no ï¿½ndice de Esplendor da sua cidade.
+Your street cleaner will clear away any mess that appears on your streets.  Without him, your city will soon become very dirty.  This will have a negative effect on your cities Splendor rating.
 
 
 </section>
@@ -1267,14 +1267,14 @@ Seu limpador de ruas limparï¿½ qualquer sujeira que apareï¿½a nas suas ruas. Sem
 
 <section name="Cistern" loadpic="Cistern.tga" title="Cisterna">
 <newparagraph/>
-Uma cisterna fornece ï¿½gua fresca para casas dentro de um certo alcance, para que os ocupantes nï¿½o precisem mais buscar ï¿½gua no poï¿½o. Para que isso
- funcione, vocï¿½ precisa ter um aqueduto sendo alimentado por uma fonte de ï¿½gua doce. Clicar em uma cisterna mostrarï¿½ o alcance em que ela distribuirï¿½ ï¿½gua pela cidade.
+A cistern provides fresh water to houses within a certain range so the occupants no longer have to fetch water from the well.  For this to
+ work you must have an aqueduct being fed from a supply of fresh water. Clicking on a cistern will show the range it will distribute water around the city.
 <newparagraph/> 
 <newparagraph/>
-Se sua cisterna aparecer vazia, pode ser porque seu aqueduto nï¿½o estï¿½ conectado a uma fonte de ï¿½gua fresca  foi colocado incorretamente ou danificado por invasores bï¿½rbaros.
+Se sua cisterna aparecer vazia, pode ser porque seu aqueduto não está conectado a uma fonte de água fresca - foi colocado incorretamente ou danificado por invasores bárbaros.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="Well" linkname="Poï¿½o"/>
+<link linkfile="Well" linkname="Poço"/>
 <newparagraph/>
 <link linkfile="AqueductTower" linkname="Aquedutos"/>
 
@@ -1291,12 +1291,12 @@ Se sua cisterna aparecer vazia, pode ser porque seu aqueduto nï¿½o estï¿½ conect
 
 <section name="FarmOlive" loadpic="FarmOlive.tga" title="Fazenda de Azeitonas">
 <newparagraph/>
-Os agricultores de azeitonas que trabalham aqui cultivarï¿½o as azeitonas necessï¿½rias para suas prensas de azeite. Quaisquer azeitonas extras serï¿½o levadas a um celeiro prï¿½ximo. O
- trabalhador de uma prensa de azeite coletarï¿½ cestos de azeitonas tanto da fazenda
-de azeitonas quanto de um celeiro, o que estiver mais perto.
+The olive farmers who work here will grow the olives you need for your oil presses. Any extra olives will be taken to a nearby granary. The
+ worker at an olive press will collect olive baskets from either the olive
+farm or a granary, which ever is closer.
 <newparagraph/>
 <newparagraph/>
-O azeite produzido ajudarï¿½ suas grandes cabanas a evoluï¿½rem para pequenas moradias.
+O azeite produzido ajudará suas grandes cabanas a evoluírem para pequenas moradias.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="ShopOlivePress" linkname="Prensa de Azeite"/>
@@ -1316,16 +1316,16 @@ O azeite produzido ajudarï¿½ suas grandes cabanas a evoluï¿½rem para pequenas mo
 
 <section name="ShopOlivePress" loadpic="ShopOlivePress.tga" title="Prensa de Azeite">
 <newparagraph/>
-O trabalhador da prensa pega azeitonas da fazenda ou do celeiro e as pressiona para extrair o azeite, que ï¿½ vendido aos cidadï¿½os. O azeite excedente ï¿½ levado ao armazï¿½m prï¿½ximo.
+O trabalhador da prensa pega azeitonas da fazenda ou do celeiro e as pressiona para extrair o azeite, que é vendido aos cidadãos. O azeite excedente é levado ao armazém próximo.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-O azeite ï¿½ necessï¿½rio antes que suas grandes cabanas possam evoluir para pequenas moradias.
+O azeite é necessário antes que suas grandes cabanas possam evoluir para pequenas moradias.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmOlive" linkname="Fazenda de Azeitonas"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -1340,16 +1340,16 @@ O azeite ï¿½ necessï¿½rio antes que suas grandes cabanas possam evoluir para peq
 
 <section name="ShopCarpenter" loadpic="ShopCarpenter.tga" title="Carpintaria">
 <newparagraph/>
-O carpinteiro coleta madeira do armazï¿½m e a transforma em camas para seus cidadï¿½os. Certifique-se de ter acampamentos madeireiros trazendo a
- madeira, ou seus carpinteiros nï¿½o conseguirï¿½o fazer nada. Camas extras podem ser armazenadas em um armazï¿½m prï¿½ximo.
+The carpenter collects wood from the warehouse and fashions it into beds for your citizens.  Make sure you have wood camps bringing in the
+ wood or your carpenters will not be able to do anything. Spare beds can be stored in a nearby warehouse.
 <newparagraph/>
 <newparagraph/>
-As camas sï¿½o necessï¿½rias antes que suas pequenas moradias evoluam para moradias mï¿½dias. O morador tambï¿½m precisarï¿½ de uma esposa, obtida em uma cerimï¿½nia de casamento no templo prï¿½ximo.
+As camas são necessárias antes que suas pequenas moradias evoluam para moradias médias. O morador também precisará de uma esposa, obtida em uma cerimônia de casamento no templo próximo.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="WoodCamp" linkname="Acampamento Madeireiro"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 
 </section>
@@ -1365,11 +1365,11 @@ As camas sï¿½o necessï¿½rias antes que suas pequenas moradias evoluam para morad
 
 <section name="TempleSmall" loadpic="TempleSmall.tga" title="Templo Pequeno">
 <newparagraph/>
-Antes que seus pequenos casebres possam evoluir para casebres mï¿½dios, seu povo desejarï¿½ um lugar para adorar os numerosos deuses romanos. ï¿½ aï¿½
- que entram seus sacerdotes; construa um templo e um sacerdote virï¿½ trabalhar lï¿½, realizando cerimï¿½nias e celebrando casamentos. Construir templos tambï¿½m ï¿½ a melhor maneira de melhorar o ï¿½ndice religioso da sua cidade.
+Before your small hovels can evolve into medium hovels, your people will want somewhere to worship the numerous Roman gods. This is
+ where your priests come in, build a temple and a priest will come and work there, holding services and conducting marriages. Building temples is also the best way to improve your cities religious rating.
 <newparagraph/>
 <newparagraph/>
-ï¿½ importante ter uma variedade de templos para prestar homenagem ao maior nï¿½mero possï¿½vel de deuses. Vocï¿½ nï¿½o quer irritar nenhum deles!
+É importante ter uma variedade de templos para prestar homenagem ao maior número possível de deuses. Você não quer irritar nenhum deles!
 
 </section>
 
@@ -1384,12 +1384,12 @@ Antes que seus pequenos casebres possam evoluir para casebres mï¿½dios, seu povo
 
 <section name="TempleLarge" loadpic="TempleLarge.tga" title="Templo Grande">
 <newparagraph/>
-Templos grandes funcionam de maneira similar aos templos pequenos, atendendo ï¿½s necessidades religiosas do seu povo; a principal diferenï¿½a ï¿½ que eles sï¿½o
-<newparagraph/>maiores e mais caros. No entanto, se vocï¿½ precisar maximizar o ï¿½ndice religioso da cidade, poderï¿½ precisar construir essas grandiosas estruturas.
+Large temples work in a similar way to small temples, providing for the religious needs of your people, the main difference is that they are
+<newparagraph/>maiores e mais caros. No entanto, se você precisar maximizar o índice religioso da cidade, poderá precisar construir essas grandiosas estruturas.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Locais de adoraï¿½ï¿½o sï¿½o necessï¿½rios antes que suas pequenas moradias possam crescer para moradias mï¿½dias.
+Locais de adoração são necessários antes que suas pequenas moradias possam crescer para moradias médias.
 
 </section>
 
@@ -1404,11 +1404,11 @@ Locais de adoraï¿½ï¿½o sï¿½o necessï¿½rios antes que suas pequenas moradias poss
 
 <section name="Tavern" loadpic="Tavern.tga" title="Taberna">
 <newparagraph/>
-Esta ï¿½ a maneira mais simples de atender ï¿½s necessidades de entretenimento dos seus cidadï¿½os. Visitar a taberna ï¿½ uma forma barata de satisfazer a necessidade, mas seu
- efeito passa rapidamente. Alï¿½m disso, diferente de outras formas de entretenimento, tabernas nï¿½o fornecem nenhum impulso ao ï¿½ndice de entretenimento da sua cidade.
+This is the simplest way of providing for your citizens entertainment needs. Visiting the taverna is a cheap way to fulfill the need, but its
+ effect wears off quickly. Also unlike other forms of entertainment, tavernas will provide no boost to your cities entertainment rating.
 <newparagraph/>
 <newparagraph/>
-Vocï¿½ precisarï¿½ entreter seus cidadï¿½os antes que suas moradias mï¿½dias possam evoluir para grandes moradias. Alï¿½m do entretenimento, vocï¿½ tambï¿½m precisarï¿½ fornecer pï¿½o das padarias.
+Você precisará entreter seus cidadãos antes que suas moradias médias possam evoluir para grandes moradias. Além do entretenimento, você também precisará fornecer pão das padarias.
 
 </section>
 
@@ -1423,21 +1423,21 @@ Vocï¿½ precisarï¿½ entreter seus cidadï¿½os antes que suas moradias mï¿½dias pos
 
 <section name="FarmWheat" loadpic="FarmWheat.tga" title="Fazenda de Trigo">
 <newparagraph/>
-Os agricultores de trigo que trabalham aqui cultivam e colhem trigo para que seus cidadï¿½os possam eventualmente comer pï¿½o. O trigo cultivado aqui serï¿½ levado pelos
- moleiros para ser moï¿½do em farinha antes de ser enviado ï¿½s suas padarias e transformado em pï¿½o para seus cidadï¿½os sempre exigentes. O trigo excedente serï¿½ levado pelos agricultores a um armazï¿½m prï¿½ximo para ser armazenado.
+The wheat farmers who work here grow and harvest wheat so your citizens can eventually eat bread. Wheat grown here will be taken by the
+ millers to be ground into flour before being sent to your bakeries and baked into bread for your ever demanding citizens. Excess wheat will be taken to a nearby warehouse by the farmers to be stored.
 <newparagraph/>
 <newparagraph/>
-Recomenda-se construir moinhos prï¿½ximos ï¿½s fazendas de trigo para maximizar a produï¿½ï¿½o de farinha.
+Recomenda-se construir moinhos próximos às fazendas de trigo para maximizar a produção de farinha.
 <newparagraph/>
 <newparagraph/>
-Pï¿½o e entretenimento sï¿½o necessï¿½rios antes que suas moradias mï¿½dias possam evoluir para as muito mais grandiosas grandes moradias.
+Pão e entretenimento são necessários antes que suas moradias médias possam evoluir para as muito mais grandiosas grandes moradias.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="Mill" linkname="Moinho"/>
 <newparagraph/>
 <link linkfile="ShopBaker" linkname="Padaria"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 
 </section>
@@ -1453,14 +1453,14 @@ Pï¿½o e entretenimento sï¿½o necessï¿½rios antes que suas moradias mï¿½dias poss
 
 <section name="Mill" loadpic="Mill.tga" title="Moinho">
 <newparagraph/>
-O moinho pega trigo das fazendas de trigo ou dos armazï¿½ns e o mï¿½i em farinha para as padarias. O excesso de farinha ï¿½ armazenado em um armazï¿½m.
+O moinho pega trigo das fazendas de trigo ou dos armazéns e o mói em farinha para as padarias. O excesso de farinha é armazenado em um armazém.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="ShopBaker" linkname="Padaria"/>
 <newparagraph/>
 <link linkfile="FarmWheat" linkname="Fazenda de Trigo"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -1475,15 +1475,15 @@ O moinho pega trigo das fazendas de trigo ou dos armazï¿½ns e o mï¿½i em farinha
 
 <section name="ShopBaker" loadpic="ShopBaker.tga" title="Padaria">
 <newparagraph/>
-Sua padaria buscarï¿½ a farinha moï¿½da nos moinhos e a assarï¿½ em pï¿½o.
+Sua padaria buscará a farinha moída nos moinhos e a assará em pão.
 <newparagraph/>
 <newparagraph/>
-Para que suas padarias funcionem corretamente, vocï¿½ precisarï¿½ de fazendas de trigo produzindo trigo para que seus moinhos possam produzir farinha. Se as fazendas de trigo
- nï¿½o estiverem disponï¿½veis em uma missï¿½o, vocï¿½ pode importar o trigo de uma cidade vizinha. Qualquer pï¿½o excedente que nï¿½o for pego pelos cidadï¿½os para
- satisfazer suas necessidades serï¿½ levado a um celeiro prï¿½ximo, onde pode ser consumido pela populaï¿½ï¿½o em geral como parte de suas raï¿½ï¿½es. 
+For your bakeries to work correctly you will want wheat farms producing wheat so your mills can produce flour. If wheat farms are
+ not available in a mission, you may be able to import the wheat from a nearby city instead. Any excess bread that is not taken by citizens to
+ fulfil their needs will be taken to a nearby granary where it can be consumed by the general population as part of their rations. 
 <newparagraph/>
 <newparagraph/>
-Tanto o pï¿½o quanto o entretenimento devem estar disponï¿½veis antes que suas moradias mï¿½dias possam evoluir para grandes moradias.
+Tanto o pão quanto o entretenimento devem estar disponíveis antes que suas moradias médias possam evoluir para grandes moradias.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="Mill" linkname="Moinho"/>
@@ -1503,14 +1503,14 @@ Tanto o pï¿½o quanto o entretenimento devem estar disponï¿½veis antes que suas m
 <!-- SchoolMusician -->
 
 
-<section name="SchoolMusician" loadpic="SchoolMusician.tga" title="Escola de Mï¿½sicos">
+<section name="SchoolMusician" loadpic="SchoolMusician.tga" title="Escola de Músicos">
 <newparagraph/>
-ï¿½ aqui que seus mï¿½sicos aprendem seu ofï¿½cio. Os cidadï¿½os podem visitar as apresentaï¿½ï¿½es musicais realizadas nas piazzas prï¿½ximas para satisfazer suas necessidades de entretenimento.
+É aqui que seus músicos aprendem seu ofício. Os cidadãos podem visitar as apresentações musicais realizadas nas piazzas próximas para satisfazer suas necessidades de entretenimento.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Assim que seus mï¿½sicos forem treinados, eles irï¿½o atï¿½ uma piazza vazia prï¿½xima para se apresentar.
-Tocar mï¿½sica para seu povo dï¿½ ï¿½ sua cidade um impulso no ï¿½ndice de entretenimento.
+As soon as your musicians have been trained they will travel to a nearby empty piazza to perform.
+Playing music to your people gives your city a boost to its entertainment rating.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -1529,15 +1529,15 @@ Tocar mï¿½sica para seu povo dï¿½ ï¿½ sua cidade um impulso no ï¿½ndice de entre
 
 <section name="Piazza6" loadpic="Piazza6.tga" title="Piazza">
 <newparagraph/>
-Este ï¿½ um espaï¿½o aberto atraente com piso de mosaico. Depois que os mï¿½sicos forem treinados na escola de mï¿½sicos, eles virï¿½o aqui para
+This is an attractive open space with a mosaic floor.  After musicians have been trained in the musician school they will come here to
 <newparagraph/>
-se apresentar ao seu povo, que satisfarï¿½ sua necessidade de entretenimento assistindo ao espetï¿½culo.
-<newparagraph/>
-<newparagraph/>
-Seus mï¿½sicos tendem a ir para a piazza mais prï¿½xima da escola de mï¿½sica, portanto, vocï¿½ provavelmente precisarï¿½ de uma escola por piazza.
+se apresentar ao seu povo, que satisfará sua necessidade de entretenimento assistindo ao espetáculo.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="SchoolMusician" linkname="Escola de Mï¿½sicos"/>
+Seus músicos tendem a ir para a piazza mais próxima da escola de música, portanto, você provavelmente precisará de uma escola por piazza.
+<newparagraph/>
+<newparagraph/>
+<link linkfile="SchoolMusician" linkname="Escola de Músicos"/>
 
 
 
@@ -1554,12 +1554,12 @@ Seus mï¿½sicos tendem a ir para a piazza mais prï¿½xima da escola de mï¿½sica, p
 
 <section name="SchoolActor" loadpic="SchoolActor.tga" title="Escola de Atores">
 <newparagraph/>
-Colocar uma escola de atores concede ï¿½ sua cidade dois atores disponï¿½veis para apresentaï¿½ï¿½es em qualquer teatro prï¿½ximo. Os cidadï¿½os virï¿½o assistir
- espetï¿½culos para satisfazer suas necessidades de entretenimento. Assistir a uma peï¿½a dï¿½ um impulso maior ï¿½ necessidade de entretenimento do cidadï¿½o do que uma taberna ou show musical, mas nï¿½o tï¿½o grande quanto visitar a arena ou o circo.
+Placing an actor school grants your city two actors who are available for performances at any nearby theatre. Citizens will come to watch
+ shows to meet their needs for entertainment. Watching a play gives a better boost to a citizens entertainment need than a taverna or musical show, but not as great a one as visiting the arena or circus.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-As peï¿½as atraem pessoas de longas distï¿½ncias, aumentando assim o ï¿½ndice de entretenimento da cidade.
+As peças atraem pessoas de longas distâncias, aumentando assim o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="Theatre" linkname="Teatro"/>
@@ -1577,10 +1577,10 @@ As peï¿½as atraem pessoas de longas distï¿½ncias, aumentando assim o ï¿½ndice de
 
 <section name="BathHouse" loadpic="BathHouse.tga" title="Termas">
 <newparagraph/>
-As termas oferecem aos cidadï¿½os um lugar para relaxar e se banhar. Esta ï¿½ uma de suas muitas necessidades.
+As termas oferecem aos cidadãos um lugar para relaxar e se banhar. Esta é uma de suas muitas necessidades.
 <newparagraph/>
 <newparagraph/>
-Suas grandes moradias podem evoluir para as altas e esbeltas insulae se essa necessidade for atendida. No entanto, desta vez vocï¿½ terï¿½ que clicar no botï¿½o de melhorar casa e reposicionar o novo estilo de casa manualmente. Tambï¿½m ï¿½ interessante notar que uma nova Insulae pode ser colocada sobre uma loja existente  ela simplesmente se encaixarï¿½ em cima dela.
+Suas grandes moradias podem evoluir para as altas e esbeltas insulae se essa necessidade for atendida. No entanto, desta vez você terá que clicar no botão de melhorar casa e reposicionar o novo estilo de casa manualmente. Também é interessante notar que uma nova Insulae pode ser colocada sobre uma loja existente - ela simplesmente se encaixará em cima dela.
 
 </section>
 
@@ -1593,18 +1593,18 @@ Suas grandes moradias podem evoluir para as altas e esbeltas insulae se essa nec
 <!-- SchoolGladiator -->
 
 
-<section name="SchoolGladiator" loadpic="SchoolGladiator.tga" title="Escola de Retiï¿½rios">
+<section name="SchoolGladiator" loadpic="SchoolGladiator.tga" title="Escola de Retiários">
 <newparagraph/>
-Gladiadores sï¿½o treinados aqui para lutas na arena; o Retiï¿½rio ï¿½ habilidoso com rede e lanï¿½a. Cada escola de gladiadores que vocï¿½ colocar
- supply two gladiators. For a gladiatorial battle to start you need an arena built and at least one kind of gladiator school. Os cidadï¿½os que visitarem um espetï¿½culo na arena receberï¿½o um grande impulso ï¿½s suas necessidades de entretenimento.
-<newparagraph/>
-<newparagraph/>
-Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais espetaculares serï¿½o os combates e maior serï¿½ o bï¿½nus no ï¿½ndice de entretenimento da cidade.
+Gladiators are trained here for fights in the arena, the Retiarius is skilled with the net and spear.  Each gladiator school you place will
+ supply two gladiators. For a gladiatorial battle to start you need an arena built and at least one kind of gladiator school. Os cidadãos que visitarem um espetáculo na arena receberão um grande impulso às suas necessidades de entretenimento.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais espetaculares serão os combates e maior será o bônus no índice de entretenimento da cidade.
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<newparagraph/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
+<newparagraph/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 <newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 
@@ -1620,20 +1620,20 @@ Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais e
 <!-- SchoolGladiator1 -->
 
 
-<section name="SchoolGladiator1" loadpic="SchoolGladiator1.tga" title="Escola de Murmilï¿½es">
+<section name="SchoolGladiator1" loadpic="SchoolGladiator1.tga" title="Escola de Murmilões">
 <newparagraph/>
-Gladiadores sï¿½o treinados aqui para lutas na arena; o Murmilï¿½o ï¿½ um gladiador pesadamente armado com um grande escudo. Cada escola de gladiadores
- que vocï¿½ colocar fornecerï¿½ dois gladiadores. Para que uma batalha de gladiadores comece, vocï¿½ precisa de uma arena construï¿½da e pelo menos um tipo de escola de gladiadores.
+Gladiators are trained here for fights in the arena; the Murmillo is a heavily armored gladiator with a large shield.  Each gladiator school
+ you place will supply two gladiators. For a gladiatorial battle to start you need an arena built and at least one kind of gladiator school.
 <newparagraph/>
-Os cidadï¿½os que visitarem um espetï¿½culo na arena receberï¿½o um grande impulso ï¿½s suas necessidades de entretenimento.
-<newparagraph/>
-<newparagraph/>
-Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais espetaculares serï¿½o os combates e maior serï¿½ o bï¿½nus no ï¿½ndice de entretenimento da cidade.
+Os cidadãos que visitarem um espetáculo na arena receberão um grande impulso às suas necessidades de entretenimento.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
+Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais espetaculares serão os combates e maior será o bônus no índice de entretenimento da cidade.
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<newparagraph/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
+<newparagraph/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 <newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 
@@ -1650,20 +1650,20 @@ Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais e
 <!-- SchoolGladiator2 -->
 
 
-<section name="SchoolGladiator2" loadpic="SchoolGladiator2.tga" title="Escola de Trï¿½cios">
+<section name="SchoolGladiator2" loadpic="SchoolGladiator2.tga" title="Escola de Trácios">
 <newparagraph/>
-Gladiadores sï¿½o treinados aqui para lutas na arena; os Trï¿½cios usavam uma mistura de velocidade e armadura leve para derrotar seus adversï¿½rios. Cada
- escola de gladiadores que vocï¿½ colocar fornecerï¿½ dois gladiadores. Para que uma batalha de gladiadores comece, vocï¿½ precisa de uma arena construï¿½da e pelo menos um tipo
- of gladiator school. Os cidadï¿½os que visitarem um espetï¿½culo na arena receberï¿½o um grande impulso ï¿½s suas necessidades de entretenimento.
-<newparagraph/>
-<newparagraph/>
-Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais espetaculares serï¿½o os combates e maior serï¿½ o bï¿½nus no ï¿½ndice de entretenimento da cidade.
+Gladiators are trained here for fights in the arena; the Thracians used a mixture of speed and light armor to defeat their adversaries. Each
+ gladiator school you place will supply two gladiators. For a gladiatorial battle to start you need an arena built and at least one kind
+ of gladiator school. Os cidadãos que visitarem um espetáculo na arena receberão um grande impulso às suas necessidades de entretenimento.
 <newparagraph/>
 <newparagraph/>
+Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais espetaculares serão os combates e maior será o bônus no índice de entretenimento da cidade.
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+<newparagraph/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
+<newparagraph/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
 <newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 
@@ -1678,10 +1678,10 @@ Quanto maior a variedade de gladiadores e animais lutando em suas arenas, mais e
 
 <section name="Theatre" loadpic="Theatre.tga" title="Teatro">
 <newparagraph/>
-Este edifï¿½cio, combinado com uma escola de atores, ajuda a atender ï¿½s necessidades de entretenimento do seu povo.
+Este edifício, combinado com uma escola de atores, ajuda a atender às necessidades de entretenimento do seu povo.
 <newparagraph/>
 <newparagraph/>
-O efeito deste edifï¿½cio dura mais do que o da taberna, e as pessoas vï¿½m de longas distï¿½ncias para assistir ï¿½s peï¿½as, aumentando o ï¿½ndice de entretenimento da cidade.
+O efeito deste edifício dura mais do que o da taberna, e as pessoas vêm de longas distâncias para assistir às peças, aumentando o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -1700,12 +1700,12 @@ O efeito deste edifï¿½cio dura mais do que o da taberna, e as pessoas vï¿½m de l
 
 <section name="TradeMarket" loadpic="TradeMarket.tga" title="Mercado Comercial">
 <newparagraph/>
-Este edifï¿½cio permite que vocï¿½ comercialize mercadorias de qualquer cidade conectada ï¿½ sua por terra. O mercado se especializarï¿½ em um tipo de mercadoria por vez e o
- comï¿½rcio serï¿½ conduzido automaticamente pela caravana de mulas associada ao mercado.
+This building allows you to trade goods from any city joined to yours by land. The market will specialize in one type of good at a time and the
+ trading will be conducted automatically by the mule train associated with the market.
 <newparagraph/>
 <newparagraph/>
-Para abrir uma rota comercial, abra o mapa mundial clicando no botï¿½o de mapa da regiï¿½o no canto superior direito da barra de menu. Clique em uma cidade para pagar para
- abrir uma rota comercial. Depois, vocï¿½ pode construir uma estrada atï¿½ a cidade recï¿½m-aberta; estradas sï¿½o caras mas permitem que suas caravanas viajem muito mais rï¿½pido.
+To open a trade route bring up the world map by clicking on the region map button in the top right of the menu bar.  Click on a city to pay to
+ open a trade route with. Later you can build a road to the newly opened city; roads are expensive but allow your mule trains to travel much faster.
 <newparagraph/>
 <newparagraph/>
 Por fim, selecione o mercado comercial e indique qual mercadoria negociar, quanto negociar e se deseja comprar ou vender.
@@ -1722,12 +1722,12 @@ Por fim, selecione o mercado comercial e indique qual mercadoria negociar, quant
 
 <section name="TradeDock" loadpic="TradeDock.tga" title="Doca Comercial">
 <newparagraph/>
-Este edifï¿½cio permite que vocï¿½ comercialize mercadorias de qualquer cidade conectada ï¿½ sua por mar. Um ï¿½nico navio comercial precisarï¿½ ser construï¿½do para a doca e
- cada doca sï¿½ comercializarï¿½ um tipo de mercadoria por vez. Vocï¿½ pode construir este navio comercial no estaleiro grande, e isso precisarï¿½ ser feito antes que o comï¿½rcio possa comeï¿½ar.
+This building lets you to trade goods from any city joined to yours by sea.  A single trade ship will need to be constructed for the dock and
+ each dock will only trade in one good type at a time.  You can construct this trade ship in the large boatyard and this will need to be done before trading can start.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Para abrir uma rota comercial, abra o mapa mundial clicando no botï¿½o do mapa regional. Clique em uma cidade alï¿½m-mar para abrir uma rota comercial, depois selecione a doca e indique qual mercadoria negociar e se deseja comprar ou vender.
+Para abrir uma rota comercial, abra o mapa mundial clicando no botão do mapa regional. Clique em uma cidade além-mar para abrir uma rota comercial, depois selecione a doca e indique qual mercadoria negociar e se deseja comprar ou vender.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -1747,11 +1747,11 @@ Para abrir uma rota comercial, abra o mapa mundial clicando no botï¿½o do mapa r
 
 <section name="Gramaticus" loadpic="Gramaticus.tga" title="Grammaticus">
 <newparagraph/>
-Quando as famï¿½lias se mudam para uma pequena insulae, ficam preocupadas com a educaï¿½ï¿½o dos filhos. Este edifï¿½cio atende a essa necessidade e permite que suas insulae pequenas cresï¿½am para insulae mï¿½dias.
+Quando as famílias se mudam para uma pequena insulae, ficam preocupadas com a educação dos filhos. Este edifício atende a essa necessidade e permite que suas insulae pequenas cresçam para insulae médias.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-O professor que trabalha aqui pode educar muitas crianï¿½as de uma vez. Quando a aula comeï¿½a, as crianï¿½as correrï¿½o para cï¿½ e ocuparï¿½o um lugar por ordem de chegada. Mais tarde, o tamanho das turmas pode ser aumentado atravï¿½s de pesquisa.
+O professor que trabalha aqui pode educar muitas crianças de uma vez. Quando a aula começa, as crianças correrão para cá e ocuparão um lugar por ordem de chegada. Mais tarde, o tamanho das turmas pode ser aumentado através de pesquisa.
 
 
 </section>
@@ -1768,12 +1768,12 @@ O professor que trabalha aqui pode educar muitas crianï¿½as de uma vez. Quando a
 
 <section name="FarmFruit" loadpic="FarmFruit.tga" title="Fazenda de Frutas">
 <newparagraph/>
-Trï¿½s agricultores de frutas cultivam frutas aqui; donos de bancas de frutas virï¿½o coletï¿½-las para que possam ser compradas por seus cidadï¿½os. Qualquer excesso
- de frutas serï¿½ entregue ao celeiro, onde pode ser consumido como parte
- das raï¿½ï¿½es gerais da cidade. 
+Three fruit farmers grow fruit here; fruit stall holders will come and collect it from where it can be purchased by your citizens. Any excess
+ fruit will be delivered to the granary where it can be consumed as part
+ of city wide rations. 
 <newparagraph/>
 <newparagraph/>
-Seus cidadï¿½os preocupados com a saï¿½de vï¿½o querer frutas frescas e acesso a um consultï¿½rio mï¿½dico antes de melhorar sua casa de uma insulae mï¿½dia para uma insulae grande.
+Seus cidadãos preocupados com a saúde vão querer frutas frescas e acesso a um consultório médico antes de melhorar sua casa de uma insulae média para uma insulae grande.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -1795,9 +1795,9 @@ Seus cidadï¿½os preocupados com a saï¿½de vï¿½o querer frutas frescas e acesso a
 
 <section name="ShopFruitStand" loadpic="ShopFruitStand.tga" title="Banca de Frutas">
 <newparagraph/>
-ï¿½ aqui que as frutas cultivadas nas fazendas de frutas sï¿½o vendidas.
+É aqui que as frutas cultivadas nas fazendas de frutas são vendidas.
 <newparagraph/>
-Acesso a frutas e a um mï¿½dico sï¿½o necessï¿½rios antes que sua insulae mï¿½dia possa crescer para uma grande.
+Acesso a frutas e a um médico são necessários antes que sua insulae média possa crescer para uma grande.
 <newparagraph/><newparagraph/>
 <link linkfile="FarmFruit" linkname="Fazenda de Frutas"/>
 
@@ -1810,12 +1810,12 @@ Acesso a frutas e a um mï¿½dico sï¿½o necessï¿½rios antes que sua insulae mï¿½di
 <!-- ShopDoctor-->
 
 
-<section name="ShopDoctor" loadpic="ShopDoctor.tga" title="Consultï¿½rio Mï¿½dico">
+<section name="ShopDoctor" loadpic="ShopDoctor.tga" title="Consultório Médico">
 <newparagraph/>
-Seu povo torna-se bastante preocupado com a saï¿½de ao se mudar para uma insulae mï¿½dia, e os mï¿½dicos que trabalham aqui atendem a essa nova necessidade.
+Seu povo torna-se bastante preocupado com a saúde ao se mudar para uma insulae média, e os médicos que trabalham aqui atendem a essa nova necessidade.
 <newparagraph/>
 <newparagraph/>
-Antes de seus cidadï¿½os evoluï¿½rem para uma insulae grande, eles esperam ter frutas frescas e acesso a um consultï¿½rio mï¿½dico.
+Antes de seus cidadãos evoluírem para uma insulae grande, eles esperam ter frutas frescas e acesso a um consultório médico.
 
 </section>
 
@@ -1831,19 +1831,19 @@ Antes de seus cidadï¿½os evoluï¿½rem para uma insulae grande, eles esperam ter f
 
 <section name="AnimalStationSmall" loadpic="AnimalStationSmall.tga" title="Treinador de Avestruzes">
 <newparagraph/>
-As avestruzes sï¿½o trazidas do exterior e treinadas para se tornarem mortï¿½feras mï¿½quinas de combate!
+As avestruzes são trazidas do exterior e treinadas para se tornarem mortíferas máquinas de combate!
 <newparagraph/>
 <newparagraph/>
-Ter esses animais lutando em seus anfiteatros grandes nï¿½o sï¿½ satisfaz as necessidades de entretenimento do povo, como tambï¿½m melhora o ï¿½ndice de entretenimento da cidade.
+Ter esses animais lutando em seus anfiteatros grandes não só satisfaz as necessidades de entretenimento do povo, como também melhora o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
-Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
+Para realizar lutas de animais na cidade, você precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
 <newparagraph/><newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -1865,19 +1865,19 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 
 <section name="AnimalStationSmall1" loadpic="AnimalStationSmall1.tga" title="Treinador de Crocodilos">
 <newparagraph/>
-As pessoas vï¿½o se apressar para comprar ingressos para ver as lutas de crocodilos!
+As pessoas vão se apressar para comprar ingressos para ver as lutas de crocodilos!
 <newparagraph/>
 <newparagraph/>
-Ter esses animais lutando em seus anfiteatros grandes nï¿½o sï¿½ satisfaz as necessidades de entretenimento do povo, como tambï¿½m melhora o ï¿½ndice de entretenimento da cidade.
+Ter esses animais lutando em seus anfiteatros grandes não só satisfaz as necessidades de entretenimento do povo, como também melhora o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
-Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
+Para realizar lutas de animais na cidade, você precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
 <newparagraph/><newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
 <link linkfile="AnimalStationSmall" linkname="Treinador de Avestruzes"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -1895,15 +1895,15 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 <!-- AnimalStationMedium-->
 
 
-<section name="AnimalStationMedium" loadpic="AnimalStationMedium.tga" title="Treinador de Leï¿½es">
+<section name="AnimalStationMedium" loadpic="AnimalStationMedium.tga" title="Treinador de Leões">
 <newparagraph/>
-Lutar contra um leï¿½o na arena ï¿½ um grande desafio  nunca tente isso em casa.
-<newparagraph/>
-<newparagraph/>
-Ter esses animais lutando em seus anfiteatros grandes nï¿½o sï¿½ satisfaz as necessidades de entretenimento do povo, como tambï¿½m melhora o ï¿½ndice de entretenimento da cidade.
+Lutar contra um leão na arena é um grande desafio - nunca tente isso em casa.
 <newparagraph/>
 <newparagraph/>
-Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
+Ter esses animais lutando em seus anfiteatros grandes não só satisfaz as necessidades de entretenimento do povo, como também melhora o índice de entretenimento da cidade.
+<newparagraph/>
+<newparagraph/>
+Para realizar lutas de animais na cidade, você precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
 <newparagraph/><newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
@@ -1929,13 +1929,13 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 
 <section name="AnimalStationMedium1" loadpic="AnimalStationMedium1.tga" title="Treinador de Leopardos">
 <newparagraph/>
-Leopardos sï¿½o criaturas rï¿½pidas e ï¿½geis e eram adiï¿½ï¿½es valorizadas em qualquer luta de arena.
+Leopardos são criaturas rápidas e ágeis e eram adições valorizadas em qualquer luta de arena.
 <newparagraph/>
 <newparagraph/>
-Ter esses animais lutando em seus anfiteatros grandes nï¿½o sï¿½ satisfaz as necessidades de entretenimento do povo, como tambï¿½m melhora o ï¿½ndice de entretenimento da cidade.
+Ter esses animais lutando em seus anfiteatros grandes não só satisfaz as necessidades de entretenimento do povo, como também melhora o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
-Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
+Para realizar lutas de animais na cidade, você precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
 <newparagraph/><newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
@@ -1943,7 +1943,7 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationLarge" linkname="Treinador de Elefantes"/>
 <newparagraph/>
@@ -1963,13 +1963,13 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 
 <section name="AnimalStationLarge" loadpic="AnimalStationLarge.tga" title="Treinador de Elefantes">
 <newparagraph/>
-Os maiores de todos os animais na arena, os elefantes podem nï¿½o parecer tï¿½o perigosos, mas ï¿½ melhor sair do caminho se eles carregarem!
+Os maiores de todos os animais na arena, os elefantes podem não parecer tão perigosos, mas é melhor sair do caminho se eles carregarem!
 <newparagraph/>
 <newparagraph/>
-Ter esses animais lutando em seus anfiteatros grandes nï¿½o sï¿½ satisfaz as necessidades de entretenimento do povo, como tambï¿½m melhora o ï¿½ndice de entretenimento da cidade.
+Ter esses animais lutando em seus anfiteatros grandes não só satisfaz as necessidades de entretenimento do povo, como também melhora o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
-Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
+Para realizar lutas de animais na cidade, você precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
 <newparagraph/><newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
@@ -1977,7 +1977,7 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -1996,13 +1996,13 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 
 <section name="AnimalStationLarge1" loadpic="AnimalStationLarge1.tga" title="Treinador de Girafas">
 <newparagraph/>
-A girafa com suas longas pernas certamente nï¿½o parece ameaï¿½adora, mas se encurralada, seu coice ï¿½ poderoso o suficiente para esmagar o crï¿½nio de um homem.
+A girafa com suas longas pernas certamente não parece ameaçadora, mas se encurralada, seu coice é poderoso o suficiente para esmagar o crânio de um homem.
 <newparagraph/>
 <newparagraph/>
-Ter esses animais lutando em seus anfiteatros grandes nï¿½o sï¿½ satisfaz as necessidades de entretenimento do povo, como tambï¿½m melhora o ï¿½ndice de entretenimento da cidade.
+Ter esses animais lutando em seus anfiteatros grandes não só satisfaz as necessidades de entretenimento do povo, como também melhora o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
-Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
+Para realizar lutas de animais na cidade, você precisa de um anfiteatro grande e pelo menos dois treinadores de animais.
 <newparagraph/><newparagraph/>
 <link linkfile="AmphitheatreSmall" linkname="Anfiteatro Pequeno"/>
 <newparagraph/>
@@ -2010,7 +2010,7 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -2030,10 +2030,10 @@ Para realizar lutas de animais na cidade, vocï¿½ precisa de um anfiteatro grande
 
 <section name="SlaveStation" loadpic="SlaveStation.tga" title="Posto de Escravos">
 <newparagraph/>
-ï¿½ aqui que seus cidadï¿½os mais ricos compram seus escravos. Os escravos buscam e carregam as muitas mercadorias necessï¿½rias para manter o estilo de vida luxuoso de seus donos.
+É aqui que seus cidadãos mais ricos compram seus escravos. Os escravos buscam e carregam as muitas mercadorias necessárias para manter o estilo de vida luxuoso de seus donos.
 <newparagraph/>
 <newparagraph/>
-O traficante de escravos associado a este edifï¿½cio compra escravos de terras conquistadas e os vende aos seus cidadï¿½os.
+O traficante de escravos associado a este edifício compra escravos de terras conquistadas e os vende aos seus cidadãos.
 <newparagraph/>
 <newparagraph/>
 Seu povo vai querer um escravo e acesso a um hospital antes de considerar deixar sua grande insulae e assumir a responsabilidade de administrar uma pequena domus.
@@ -2053,10 +2053,10 @@ Seu povo vai querer um escravo e acesso a um hospital antes de considerar deixar
 
 <section name="ShopHospital" loadpic="ShopHospital.tga" title="Hospital">
 <newparagraph/>
-O hospital oferece assistï¿½ncia mï¿½dica avanï¿½ada para seus cidadï¿½os.
+O hospital oferece assistência médica avançada para seus cidadãos.
 <newparagraph/>
 <newparagraph/>
-Cada hospital vem com muitos mï¿½dicos, portanto, provavelmente vocï¿½ sï¿½ precisarï¿½ de um deles em uma localizaï¿½ï¿½o central.
+Cada hospital vem com muitos médicos, portanto, provavelmente você só precisará de um deles em uma localização central.
 <newparagraph/>
 <newparagraph/>
 Seu povo exige acesso a um hospital e um escravo antes de estar disposto a se mudar para uma pequena domus.
@@ -2076,15 +2076,15 @@ Seu povo exige acesso a um hospital e um escravo antes de estar disposto a se mu
 
 <section name="TailorShop" loadpic="TailorShop.tga" title="Alfaiataria">
 <newparagraph/>
-O alfaiate costura linho em togas refinadas para os cidadï¿½os mais ricos. As togas excedentes serï¿½o armazenadas em um armazï¿½m prï¿½ximo.
+O alfaiate costura linho em togas refinadas para os cidadãos mais ricos. As togas excedentes serão armazenadas em um armazém próximo.
 <newparagraph/>
 <newparagraph/>
-Uma toga bem-feita e educaï¿½ï¿½o avanï¿½ada na biblioteca sï¿½o essenciais antes que uma pequena domus possa evoluir para uma domus mï¿½dia.
+Uma toga bem-feita e educação avançada na biblioteca são essenciais antes que uma pequena domus possa evoluir para uma domus média.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmFlax" linkname="Fazenda de Linho"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 </section>
 
 
@@ -2101,13 +2101,13 @@ Uma toga bem-feita e educaï¿½ï¿½o avanï¿½ada na biblioteca sï¿½o essenciais ante
 
 <section name="GlassBlowerShop" loadpic="GlassBlowerShop.tga" title="Vidreiro">
 <newparagraph/>
-O vidreiro molda louï¿½as de vidro elegantes, vitais para qualquer jantar. O excesso de louï¿½as ï¿½ armazenado em um armazï¿½m prï¿½ximo.
+O vidreiro molda louças de vidro elegantes, vitais para qualquer jantar. O excesso de louças é armazenado em um armazém próximo.
 <newparagraph/>
 <newparagraph/>
-Louï¿½as de vidro, vinho para colocar nelas e acesso ï¿½s termas de luxo sï¿½o necessï¿½rios antes que uma domus mï¿½dia possa crescer para uma grande domus.
+Louças de vidro, vinho para colocar nelas e acesso às termas de luxo são necessários antes que uma domus média possa crescer para uma grande domus.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -2123,11 +2123,11 @@ Louï¿½as de vidro, vinho para colocar nelas e acesso ï¿½s termas de luxo sï¿½o n
 
 <section name="BathHouseLarge" loadpic="BathHouseLarge.tga" title="Termas de Luxo">
 <newparagraph/>
-As termas de luxo sï¿½o um lugar de relaxamento e cuidados. Possuem muitas piscinas em diferentes temperaturas, projetadas para acalmar e rejuvenescer os mï¿½sculos tensos dos romanos estressados.
+As termas de luxo são um lugar de relaxamento e cuidados. Possuem muitas piscinas em diferentes temperaturas, projetadas para acalmar e rejuvenescer os músculos tensos dos romanos estressados.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Antes que uma domus mï¿½dia possa evoluir para uma grande domus, vocï¿½ precisarï¿½ dar aos cidadï¿½os acesso ï¿½s termas de luxo, vinhos finos e louï¿½as de vidro.
+Antes que uma domus média possa evoluir para uma grande domus, você precisará dar aos cidadãos acesso às termas de luxo, vinhos finos e louças de vidro.
 
 </section>
 
@@ -2144,11 +2144,11 @@ Antes que uma domus mï¿½dia possa evoluir para uma grande domus, vocï¿½ precisar
 
 <section name="FarmGrape" loadpic="FarmGrape.tga" title="Fazenda de Uvas">
 <newparagraph/>
-Trï¿½s agricultores de uvas trabalham aqui cultivando as uvas necessï¿½rias para a adega. Vocï¿½ precisarï¿½ construir uma adega antes que o vinho seja produzido. As uvas excedentes serï¿½o armazenadas em um celeiro prï¿½ximo.
+Três agricultores de uvas trabalham aqui cultivando as uvas necessárias para a adega. Você precisará construir uma adega antes que o vinho seja produzido. As uvas excedentes serão armazenadas em um celeiro próximo.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Vinho, louï¿½as de vidro e acesso ï¿½s termas de luxo sï¿½o necessï¿½rios antes que uma domus mï¿½dia possa crescer para uma grande domus.
+Vinho, louças de vidro e acesso às termas de luxo são necessários antes que uma domus média possa crescer para uma grande domus.
 
 <newparagraph/>
 <newparagraph/>
@@ -2170,12 +2170,12 @@ Vinho, louï¿½as de vidro e acesso ï¿½s termas de luxo sï¿½o necessï¿½rios antes 
 
 <section name="ShopWinery" loadpic="ShopWinery.tga" title="Adega">
 <newparagraph/>
-A adega transforma uvas da fazenda de uvas em vinho, parte essencial do estilo de vida decadente de qualquer romano. O vinho excedente serï¿½ levado ao celeiro prï¿½ximo.
+A adega transforma uvas da fazenda de uvas em vinho, parte essencial do estilo de vida decadente de qualquer romano. O vinho excedente será levado ao celeiro próximo.
 <newparagraph/>
 <newparagraph/>
-Vocï¿½ deve construir uma fazenda de uvas prï¿½xima para acelerar a produï¿½ï¿½o de vinho.
+Você deve construir uma fazenda de uvas próxima para acelerar a produção de vinho.
 <newparagraph/>
-Antes que sua domus mï¿½dia possa evoluir para uma grande domus, seu povo precisarï¿½ de vinho, louï¿½as de vidro e acesso ï¿½s termas de luxo.
+Antes que sua domus média possa evoluir para uma grande domus, seu povo precisará de vinho, louças de vidro e acesso às termas de luxo.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmGrape" linkname="Fazenda de Uvas"/>
@@ -2197,15 +2197,15 @@ Antes que sua domus mï¿½dia possa evoluir para uma grande domus, seu povo precis
 
 <section name="CabinetMaker" loadpic="CabinetMaker.tga" title="Marceneiro">
 <newparagraph/>
-O marceneiro fabrica habilmente reclinï¿½veis com a madeira fornecida pelos acampamentos madeireiros. Os reclinï¿½veis excedentes sï¿½o levados ao armazï¿½m local.
+O marceneiro fabrica habilmente reclináveis com a madeira fornecida pelos acampamentos madeireiros. Os reclináveis excedentes são levados ao armazém local.
 <newparagraph/>
-Seus cidadï¿½os abastados precisam de reclinadores, tï¿½maras e acesso a um barbeiro antes de deixarem seu grande domus para trï¿½s e se mudarem para uma
- villa. Note, porï¿½m, que como o formato de uma nova villa ï¿½ diferente, vocï¿½ precisarï¿½ atualizï¿½-la manualmente.
+Your well-to-do citizens need recliners, dates and access to a barbershop before they leave their large domus behind and move into a
+ villa. Note however as the shape of a new villa is different you will need to upgrade it manually.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="WoodCamp" linkname="Acampamento Madeireiro"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -2218,18 +2218,18 @@ Seus cidadï¿½os abastados precisam de reclinadores, tï¿½maras e acesso a um barb
 <!-- FarmDate-->
 
 
-<section name="FarmDate" loadpic="FarmDate.tga" title="Fazenda de Tï¿½maras">
+<section name="FarmDate" loadpic="FarmDate.tga" title="Fazenda de Tâmaras">
 <newparagraph/>
-Trï¿½s agricultores trabalham aqui, subindo em palmeiras para colher tï¿½maras para os cidadï¿½os mais ricos. Construir uma banca de tï¿½maras prï¿½xima facilita muito a distribuiï¿½ï¿½o das tï¿½maras.
+Três agricultores trabalham aqui, subindo em palmeiras para colher tâmaras para os cidadãos mais ricos. Construir uma banca de tâmaras próxima facilita muito a distribuição das tâmaras.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Tï¿½maras, reclinï¿½veis e acesso a um barbeiro sï¿½o necessï¿½rios antes que uma grande domus possa crescer e se tornar uma villa. Note que, como o formato de uma nova villa ï¿½ diferente, vocï¿½ precisarï¿½ fazer a evoluï¿½ï¿½o manualmente.
+Tâmaras, reclináveis e acesso a um barbeiro são necessários antes que uma grande domus possa crescer e se tornar uma villa. Note que, como o formato de uma nova villa é diferente, você precisará fazer a evolução manualmente.
 
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-<link linkfile="ShopFruitStand1" linkname="Banca de Tï¿½maras"/>
+<link linkfile="ShopFruitStand1" linkname="Banca de Tâmaras"/>
 
 
 </section>
@@ -2246,17 +2246,17 @@ Tï¿½maras, reclinï¿½veis e acesso a um barbeiro sï¿½o necessï¿½rios antes que um
 <!-- ShopFruitStand1-->
 
 
-<section name="ShopFruitStand1" loadpic="ShopFruitStand1.tga" title="Banca de Tï¿½maras">
+<section name="ShopFruitStand1" loadpic="ShopFruitStand1.tga" title="Banca de Tâmaras">
 <newparagraph/>
-O vendedor de tï¿½maras vende as tï¿½maras das fazendas prï¿½ximas. Assim como a banca de frutas, este edifï¿½cio nï¿½o aumenta a produï¿½ï¿½o de alimentos  simplesmente fornece distribuiï¿½ï¿½o para as tï¿½maras.
-<newparagraph/>
-<newparagraph/>
-<newparagraph/>
-Tï¿½maras, reclinï¿½veis e acesso a um barbeiro sï¿½o necessï¿½rios antes que uma grande domus possa crescer e se tornar uma villa. Note que, como o formato de uma nova villa ï¿½ diferente, vocï¿½ precisarï¿½ fazer a evoluï¿½ï¿½o manualmente.
+O vendedor de tâmaras vende as tâmaras das fazendas próximas. Assim como a banca de frutas, este edifício não aumenta a produção de alimentos - simplesmente fornece distribuição para as tâmaras.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-<link linkfile="FarmDate" linkname="Fazenda de Tï¿½maras"/>
+Tâmaras, reclináveis e acesso a um barbeiro são necessários antes que uma grande domus possa crescer e se tornar uma villa. Note que, como o formato de uma nova villa é diferente, você precisará fazer a evolução manualmente.
+<newparagraph/>
+<newparagraph/>
+<newparagraph/>
+<link linkfile="FarmDate" linkname="Fazenda de Tâmaras"/>
 </section>
 
 
@@ -2273,11 +2273,11 @@ Tï¿½maras, reclinï¿½veis e acesso a um barbeiro sï¿½o necessï¿½rios antes que um
 
 <section name="Barber" loadpic="Barber.tga" title="Barbeiro">
 <newparagraph/>
-O barbeiro cuida das necessidades de cuidados pessoais dos cidadï¿½os mais ricos, mantendo-os atualizados com os ï¿½ltimos penteados de Roma e removendo pelos indesejados.
+O barbeiro cuida das necessidades de cuidados pessoais dos cidadãos mais ricos, mantendo-os atualizados com os últimos penteados de Roma e removendo pelos indesejados.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Seu povo recusa-se a morar em uma villa sem o penteado adequado. Eles tambï¿½m exigirï¿½o um reclinï¿½vel e algumas tï¿½maras antes de deixar a domus. Note que, como o formato de uma nova villa ï¿½ diferente, vocï¿½ precisarï¿½ fazer a evoluï¿½ï¿½o manualmente.
+Seu povo recusa-se a morar em uma villa sem o penteado adequado. Eles também exigirão um reclinável e algumas tâmaras antes de deixar a domus. Note que, como o formato de uma nova villa é diferente, você precisará fazer a evolução manualmente.
 
 </section>
 
@@ -2294,18 +2294,18 @@ Seu povo recusa-se a morar em uma villa sem o penteado adequado. Eles tambï¿½m e
 
 <section name="DressMakerShop" loadpic="DressMakerShop.tga" title="Costureira">
 <newparagraph/>
-A costureira pega linho e produz vestidos encantadores para as exigentes esposas dos seus patrï¿½cios.
+A costureira pega linho e produz vestidos encantadores para as exigentes esposas dos seus patrícios.
 <newparagraph/>
-Antes que seus cidadï¿½os mais ricos e poderosos se mudem de suas villas, eles insistem em algumas coisas simples, como acesso ao
- senado, gansos assados rechonchudos para a mesa de jantar, flores para o corredor e vestidos finamente tecidos para suas esposas.
+Before your richest and most powerful citizens will move out of their villas they insist on a few simple things from you such as access to the
+ senate, plump roast geese for the dinner table, flowers for the hallway and finely woven dresses for their wives.
 <newparagraph/>
 <newparagraph/>
-Note que, como o formato de um novo palï¿½cio ï¿½ diferente, vocï¿½ precisarï¿½ fazer a evoluï¿½ï¿½o manualmente.
+Note que, como o formato de um novo palácio é diferente, você precisará fazer a evolução manualmente.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="FarmFlax" linkname="Fazenda de Linho"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 </section>
 
 
@@ -2320,9 +2320,9 @@ Note que, como o formato de um novo palï¿½cio ï¿½ diferente, vocï¿½ precisarï¿½ 
 <!-- GardenDepot-->
 
 
-<section name="GardenDepot" loadpic="GardenDepot.tga" title="Depï¿½sito de Jardim">
+<section name="GardenDepot" loadpic="GardenDepot.tga" title="Depósito de Jardim">
 <newparagraph/>
-Nï¿½O UTILIZADO
+NÃO UTILIZADO
 
 </section>
 
@@ -2340,10 +2340,10 @@ Nï¿½O UTILIZADO
 
 <section name="FlowerShop" loadpic="FlowerShop.tga" title="Floricultura">
 <newparagraph/>
-O floricultor vende belos buquï¿½s aos cidadï¿½os mais ricos.
+O floricultor vende belos buquês aos cidadãos mais ricos.
 <newparagraph/>
 <newparagraph/>
-Vestidos, acesso ao senado, gansos e flores sï¿½o necessï¿½rios antes que suas villas possam evoluir para palï¿½cios.
+Vestidos, acesso ao senado, gansos e flores são necessários antes que suas villas possam evoluir para palácios.
 
 
 
@@ -2361,9 +2361,9 @@ Vestidos, acesso ao senado, gansos e flores sï¿½o necessï¿½rios antes que suas v
 
 <section name="FarmGoose" loadpic="FarmGoose.tga" title="Fazenda de Gansos">
 <newparagraph/>
-Os gansos sï¿½o criados aqui antes de serem vendidos aos cidadï¿½os mais ricos para os seus banquetes.
+Os gansos são criados aqui antes de serem vendidos aos cidadãos mais ricos para os seus banquetes.
 <newparagraph/>
-Vestidos, acesso ao senado, gansos e flores sï¿½o necessï¿½rios antes que suas villas possam evoluir para palï¿½cios.
+Vestidos, acesso ao senado, gansos e flores são necessários antes que suas villas possam evoluir para palácios.
 
 
 </section>
@@ -2379,11 +2379,11 @@ Vestidos, acesso ao senado, gansos e flores sï¿½o necessï¿½rios antes que suas v
 
 <section name="StoneBridge" loadpic="StoneBridge.tga" title="Ponte de Pedra">
 <newparagraph/>
-Esta ponte de pedra permite que seu povo atravesse rios livremente, porï¿½m dificulta a navegaï¿½ï¿½o, portanto, construa-a apenas a montante de um porto comercial, por exemplo.
+Esta ponte de pedra permite que seu povo atravesse rios livremente, porém dificulta a navegação, portanto, construa-a apenas a montante de um porto comercial, por exemplo.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Para construir, clique e arraste o mouse. Solte o botï¿½o quando estiver satisfeito com o layout. Ambas as extremidades da ponte devem terminar em terra firme.
+Para construir, clique e arraste o mouse. Solte o botão quando estiver satisfeito com o layout. Ambas as extremidades da ponte devem terminar em terra firme.
 
 </section>
 
@@ -2399,14 +2399,14 @@ Para construir, clique e arraste o mouse. Solte o botï¿½o quando estiver satisfe
 
 <section name="IronMine" loadpic="IronMine.tga" title="Mina de Ferro">
 <newparagraph/>
-Estas devem ser colocadas em ï¿½reas com ferro. Dois trabalhadores minerarï¿½o o minï¿½rio e o fundirï¿½o em ferro para ser levado ao armazï¿½m prï¿½ximo.
+Estas devem ser colocadas em áreas com ferro. Dois trabalhadores minerarão o minério e o fundirão em ferro para ser levado ao armazém próximo.
 <newparagraph/>
 <newparagraph/>
-Este ferro ï¿½ usado pelos ferreiros para fabricar armas para seu exï¿½rcito.
+Este ferro é usado pelos ferreiros para fabricar armas para seu exército.
 <newparagraph/><newparagraph/>
 <link linkfile="WeaponsArmorer" linkname="Ferreiro de Espadas"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 </section>
 
 
@@ -2422,21 +2422,21 @@ Este ferro ï¿½ usado pelos ferreiros para fabricar armas para seu exï¿½rcito.
 
 <section name="AmphitheatreSmall" loadpic="AmphitheatreSmall.tga" title="Anfiteatro Pequeno">
 <newparagraph/>
-Este anfiteatro permite que vocï¿½ realize lutas de gladiadores para o prazer do seu povo.
+Este anfiteatro permite que você realize lutas de gladiadores para o prazer do seu povo.
 <newparagraph/>
 <newparagraph/>
-Para que uma batalha de gladiadores comece, vocï¿½ precisa de pelo menos um tipo de escola de gladiadores construï¿½da, alï¿½m de uma arena.
+Para que uma batalha de gladiadores comece, você precisa de pelo menos um tipo de escola de gladiadores construída, além de uma arena.
 <newparagraph/>
 <newparagraph/>
-Quanto maior a variedade de gladiadores em suas arenas, mais espetaculares serï¿½o os combates e maior serï¿½ o ï¿½ndice de Civilizaï¿½ï¿½o obtido do entretenimento.
+Quanto maior a variedade de gladiadores em suas arenas, mais espetaculares serão os combates e maior será o índice de Civilização obtido do entretenimento.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 </section>
 
 
@@ -2455,24 +2455,24 @@ Quanto maior a variedade de gladiadores em suas arenas, mais espetaculares serï¿
 Este anfiteatro permite realizar eventos de combate misto com animais e lutas de gladiadores para o prazer do seu povo.
 <newparagraph/>
 <newparagraph/>
-Para que uma batalha comece, vocï¿½ precisa de pelo menos um tipo de escola de gladiadores ou duas gaiolas de animais, alï¿½m de uma arena.
+Para que uma batalha comece, você precisa de pelo menos um tipo de escola de gladiadores ou duas gaiolas de animais, além de uma arena.
 <newparagraph/>
 <newparagraph/>
-Quanto maior a variedade de gladiadores e animais em suas arenas, mais espetaculares serï¿½o os combates e maiores serï¿½o o ï¿½ndice de Civilizaï¿½ï¿½o e o ï¿½ndice de entretenimento da cidade.
+Quanto maior a variedade de gladiadores e animais em suas arenas, mais espetaculares serão os combates e maiores serão o índice de Civilização e o índice de entretenimento da cidade.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-<link linkfile="SchoolGladiator" linkname="Escola de Retiï¿½rios"/>
+<link linkfile="SchoolGladiator" linkname="Escola de Retiários"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator1" linkname="Escola de Murmilï¿½es"/>
+<link linkfile="SchoolGladiator1" linkname="Escola de Murmilões"/>
 <newparagraph/>
-<link linkfile="SchoolGladiator2" linkname="Escola de Trï¿½cios"/>
+<link linkfile="SchoolGladiator2" linkname="Escola de Trácios"/>
 <newparagraph/>
 <link linkfile="AnimalStationSmall" linkname="Treinador de Avestruzes"/>
 <newparagraph/>
 <link linkfile="AnimalStationSmall1" linkname="Treinador de Crocodilos"/>
 <newparagraph/>
-<link linkfile="AnimalStationMedium" linkname="Treinador de Leï¿½es"/>
+<link linkfile="AnimalStationMedium" linkname="Treinador de Leões"/>
 <newparagraph/>
 <link linkfile="AnimalStationMedium1" linkname="Treinador de Leopardos"/>
 <newparagraph/>
@@ -2494,10 +2494,10 @@ Quanto maior a variedade de gladiadores e animais em suas arenas, mais espetacul
 
 <section name="ChariotMaker" loadpic="ChariotMaker.tga" title="Fabricante de Carruagens">
 <newparagraph/>
-O fabricante de carruagens constrï¿½i carruagens com madeira. Elas sï¿½o coletadas pelo treinador de aurigas junto com dois cavalos do treinador de cavalos.
+O fabricante de carruagens constrói carruagens com madeira. Elas são coletadas pelo treinador de aurigas junto com dois cavalos do treinador de cavalos.
 <newparagraph/>
 <newparagraph/>
-Quando dois aurigas estiverem completamente treinados, eles irï¿½o correr no circo. Isso aumentarï¿½ significativamente o ï¿½ndice de entretenimento.
+Quando dois aurigas estiverem completamente treinados, eles irão correr no circo. Isso aumentará significativamente o índice de entretenimento.
 <newparagraph/><newparagraph/>
 <link linkfile="HorseTrainer" linkname="Treinador de Cavalos"/>
 <newparagraph/>
@@ -2522,10 +2522,10 @@ Quando dois aurigas estiverem completamente treinados, eles irï¿½o correr no cir
 
 <section name="ChariotTrainer" loadpic="ChariotTrainer.tga" title="Escola de Aurigas">
 <newparagraph/>
-O treinador de aurigas coleta uma carruagem pronta do fabricante e dois cavalos do treinador de cavalos antes de treinar uma nova equipe para enviï¿½-los para as corridas no circo prï¿½ximo.
+O treinador de aurigas coleta uma carruagem pronta do fabricante e dois cavalos do treinador de cavalos antes de treinar uma nova equipe para enviá-los para as corridas no circo próximo.
 <newparagraph/>
 <newparagraph/>
-Vocï¿½ precisa de duas escolas de aurigas em funcionamento e um circo antes que uma corrida possa comeï¿½ar.
+Você precisa de duas escolas de aurigas em funcionamento e um circo antes que uma corrida possa começar.
 
 <newparagraph/>
 <newparagraph/>
@@ -2548,10 +2548,10 @@ Vocï¿½ precisa de duas escolas de aurigas em funcionamento e um circo antes que 
 
 <section name="HorseTrainer" loadpic="HorseTrainer.tga" title="Treinador de Cavalos">
 <newparagraph/>
-O treinador de cavalos cria cavalos valorosos atï¿½ que estejam prontos para ser coletados pelo treinador de aurigas.
+O treinador de cavalos cria cavalos valorosos até que estejam prontos para ser coletados pelo treinador de aurigas.
 <newparagraph/>
 <newparagraph/>
-Quando dois aurigas estiverem completamente treinados, eles irï¿½o correr no circo. Isso aumentarï¿½ significativamente o ï¿½ndice de entretenimento.
+Quando dois aurigas estiverem completamente treinados, eles irão correr no circo. Isso aumentará significativamente o índice de entretenimento.
 
 <newparagraph/>
 <newparagraph/>
@@ -2577,10 +2577,10 @@ Quando dois aurigas estiverem completamente treinados, eles irï¿½o correr no cir
 
 <section name="CircusMinimus" loadpic="CircusMinimus.tga" title="Circo">
 <newparagraph/>
-O circo proporciona um grande espetï¿½culo de corridas para seu povo. Vocï¿½ precisa de dois aurigas completamente treinados antes que uma corrida possa comeï¿½ar.
+O circo proporciona um grande espetáculo de corridas para seu povo. Você precisa de dois aurigas completamente treinados antes que uma corrida possa começar.
 <newparagraph/>
 <newparagraph/>
-Quando isso estiver funcionando, vocï¿½ pode esperar um grande impulso no ï¿½ndice de entretenimento.
+Quando isso estiver funcionando, você pode esperar um grande impulso no índice de entretenimento.
 
 <newparagraph/>
 <newparagraph/>
@@ -2606,14 +2606,14 @@ Quando isso estiver funcionando, vocï¿½ pode esperar um grande impulso no ï¿½ndi
 
 <section name="Fort" loadpic="Fort.tga" title="Forte">
 <newparagraph/>
-Cada forte abriga uma legiï¿½o. Esta legiï¿½o ï¿½ composta por trï¿½s coortes de vinte e cinco soldados cada. Os soldados leais estï¿½o
- dispostos a defender sua cidade com suas vidas ou marchar para a batalha no mapa regional.
+Each fort houses one legion.  This legion is depicted as being made up of three cohorts of twenty five soldiers each. The loyal soldiers are
+ willing to defend your city with their lives or march forth into battle on the region map.
 <newparagraph/>
 <newparagraph/>
-O Senado decretou que nenhuma cidade pode guarnecer mais do que trï¿½s legiï¿½es (por razï¿½es de seguranï¿½a nacional, como vocï¿½ entenderï¿½).
+O Senado decretou que nenhuma cidade pode guarnecer mais do que três legiões (por razões de segurança nacional, como você entenderá).
 <newparagraph/>
 <newparagraph/>
-Os soldados aparecerï¿½o no forte, mas antes que seu exï¿½rcito possa crescer, vocï¿½ precisarï¿½ de um suprimento constante de lanï¿½as e espadas. Certifique-se de ter muitos fabricantes de armas. Hï¿½ dois tipos de soldados: legionï¿½rios e velites; vocï¿½ pode selecionar o tipo de coorte clicando nos quartï¿½is do forte.
+Os soldados aparecerão no forte, mas antes que seu exército possa crescer, você precisará de um suprimento constante de lanças e espadas. Certifique-se de ter muitos fabricantes de armas. Há dois tipos de soldados: legionários e velites; você pode selecionar o tipo de coorte clicando nos quartéis do forte.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
@@ -2621,7 +2621,7 @@ Os soldados aparecerï¿½o no forte, mas antes que seu exï¿½rcito possa crescer, v
 <newparagraph/>
 <link linkfile="WeaponsArmorer" linkname="Ferreiro de Espadas"/>
 <newparagraph/>
-<link linkfile="WeaponsSpear" linkname="Fabricante de Lanï¿½as"/>
+<link linkfile="WeaponsSpear" linkname="Fabricante de Lanças"/>
 
 </section>
 
@@ -2637,12 +2637,12 @@ Os soldados aparecerï¿½o no forte, mas antes que seu exï¿½rcito possa crescer, v
 
 <section name="WeaponsArmorer" loadpic="WeaponsArmourer.tga" title="Ferreiro de Espadas">
 <newparagraph/>
-O armeiro trabalha aqui, pega ferro do armazï¿½m e forja espadas. Vocï¿½ precisa de espadas para equipar legionï¿½rios para seu forte.
+O armeiro trabalha aqui, pega ferro do armazém e forja espadas. Você precisa de espadas para equipar legionários para seu forte.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="Fort" linkname="Forte"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 </section>
 
 
@@ -2654,15 +2654,15 @@ O armeiro trabalha aqui, pega ferro do armazï¿½m e forja espadas. Vocï¿½ precisa
 <!-- WeaponsSpear-->
 
 
-<section name="WeaponsSpear" loadpic="WeaponsSpear.tga" title="Fabricante de Lanï¿½as">
+<section name="WeaponsSpear" loadpic="WeaponsSpear.tga" title="Fabricante de Lanças">
 <newparagraph/>
-O fabricante de lanï¿½as pega madeira do armazï¿½m e fabrica lanï¿½as com ela. Estas sï¿½o necessï¿½rias antes que vocï¿½ possa equipar e preparar os velites levemente armados para um forte.
+O fabricante de lanças pega madeira do armazém e fabrica lanças com ela. Estas são necessárias antes que você possa equipar e preparar os velites levemente armados para um forte.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
 <link linkfile="Fort" linkname="Forte"/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -2679,11 +2679,11 @@ O fabricante de lanï¿½as pega madeira do armazï¿½m e fabrica lanï¿½as com ela. E
 
 <section name="TowerWatch" loadpic="TowerWatch.tga" title="Torre de Vigia">
 <newparagraph/>
-Esta torre oferece dois vigias aptos a lidar com nativos agitados e animais selvagens, porï¿½m farï¿½o muito pouco contra uma invasï¿½o em grande escala.
+Esta torre oferece dois vigias aptos a lidar com nativos agitados e animais selvagens, porém farão muito pouco contra uma invasão em grande escala.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Seus vigias tentam trabalhar em turnos opostos para maximizar o tempo em que a torre ï¿½ eficaz.
+Seus vigias tentam trabalhar em turnos opostos para maximizar o tempo em que a torre é eficaz.
 
 </section>
 
@@ -2699,13 +2699,13 @@ Seus vigias tentam trabalhar em turnos opostos para maximizar o tempo em que a t
 <!-- FireWatch-->
 
 
-<section name="FireWatch" loadpic="FireWatch.tga" title="Posto de Vigï¿½lias">
+<section name="FireWatch" loadpic="FireWatch.tga" title="Posto de Vigílias">
 <newparagraph/>
-Esta torre fornece dois bombeiros chamados vigï¿½lias, que ajudam a prevenir que os incï¿½ndios fiquem fora de controle, idealmente apagando-os antes que alcancem a cidade.
+Esta torre fornece dois bombeiros chamados vigílias, que ajudam a prevenir que os incêndios fiquem fora de controle, idealmente apagando-os antes que alcancem a cidade.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Suas vigï¿½lias tentam trabalhar em turnos opostos para maximizar o tempo em que a torre ï¿½ eficaz.
+Suas vigílias tentam trabalhar em turnos opostos para maximizar o tempo em que a torre é eficaz.
 
 </section>
 
@@ -2721,7 +2721,7 @@ Suas vigï¿½lias tentam trabalhar em turnos opostos para maximizar o tempo em que
 <section name="StoneWall" loadpic="StoneWall.tga" title="Muralha de Pedra">
 <newparagraph/>
 <newparagraph/>
-Isso fornece uma defesa sï¿½lida contra invasï¿½es bï¿½rbaras. Vocï¿½ deve construir um portï¿½o em suas muralhas, ou terï¿½ dificuldade para negociar com outras cidades.
+Isso fornece uma defesa sólida contra invasões bárbaras. Você deve construir um portão em suas muralhas, ou terá dificuldade para negociar com outras cidades.
 
 
 </section>
@@ -2738,9 +2738,9 @@ Isso fornece uma defesa sï¿½lida contra invasï¿½es bï¿½rbaras. Vocï¿½ deve const
 <!-- CityGate-->
 
 
-<section name="CityGate" loadpic="CityGate.tga" title="Portï¿½o da Cidade">
+<section name="CityGate" loadpic="CityGate.tga" title="Portão da Cidade">
 <newparagraph/>
-O portï¿½o da cidade ajuda a proteger a cidade quando usado em conjunto com uma muralha. O portï¿½o resistirï¿½ a um ataque bï¿½rbaro por algum tempo.
+O portão da cidade ajuda a proteger a cidade quando usado em conjunto com uma muralha. O portão resistirá a um ataque bárbaro por algum tempo.
 
 
 </section>
@@ -2759,7 +2759,7 @@ O portï¿½o da cidade ajuda a proteger a cidade quando usado em conjunto com uma 
 
 <section name="Garden1x1" loadpic="Garden1x1.tga" title="Jardim">
 <newparagraph/>
-Os jardins embelezam sua cidade e aumentam o ï¿½ndice de Esplendor.
+Os jardins embelezam sua cidade e aumentam o índice de Esplendor.
 
 </section>
 
@@ -2772,7 +2772,7 @@ Os jardins embelezam sua cidade e aumentam o ï¿½ndice de Esplendor.
 
 <section name="GardenSculpture" loadpic="GardenSculpture.tga" title="Escultura de Jardim">
 <newparagraph/>
-Estas belas obras de arte custam mï¿½rmore para criar e podem ser colocadas dentro e ao redor de sua cidade; elas aumentam o ï¿½ndice de Esplendor.
+Estas belas obras de arte custam mármore para criar e podem ser colocadas dentro e ao redor de sua cidade; elas aumentam o índice de Esplendor.
 
 </section>
 
@@ -2789,7 +2789,7 @@ Estas belas obras de arte custam mï¿½rmore para criar e podem ser colocadas dent
 
 <section name="Fountain" loadpic="Fountain.tga" title="Fonte">
 <newparagraph/>
-Estas aumentam o ï¿½ndice de Esplendor da cidade, mas devem ser colocadas em uma ï¿½rea onde haja ï¿½gua encanada disponï¿½vel.
+Estas aumentam o índice de Esplendor da cidade, mas devem ser colocadas em uma área onde haja água encanada disponível.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="AqueductTower" linkname="Aquedutos"/>
@@ -2809,7 +2809,7 @@ Estas aumentam o ï¿½ndice de Esplendor da cidade, mas devem ser colocadas em uma
 
 <section name="ColumnSmall" loadpic="ColumnSmall.tga" title="Coluna Pequena">
 <newparagraph/>
-Esta coluna representa a glï¿½ria de Roma e aumenta o ï¿½ndice de Esplendor da cidade.
+Esta coluna representa a glória de Roma e aumenta o índice de Esplendor da cidade.
 
 </section>
 
@@ -2824,7 +2824,7 @@ Esta coluna representa a glï¿½ria de Roma e aumenta o ï¿½ndice de Esplendor da c
 
 <section name="SmallArch" loadpic="SmallArch.tga" title="Arco Pequeno">
 <newparagraph/>
-Um arco triunfal torna sua cidade muito mais grandiosa aos olhos do seu povo. Isso, por sua vez, aumenta o ï¿½ndice de Esplendor da cidade.
+Um arco triunfal torna sua cidade muito mais grandiosa aos olhos do seu povo. Isso, por sua vez, aumenta o índice de Esplendor da cidade.
 
 </section>
 
@@ -2840,7 +2840,7 @@ Um arco triunfal torna sua cidade muito mais grandiosa aos olhos do seu povo. Is
 
 <section name="LargeArch" loadpic="LargeArch.tga" title="Arco Grande">
 <newparagraph/>
-Um arco triunfal torna sua cidade muito mais grandiosa aos olhos do seu povo. Isso, por sua vez, aumenta o ï¿½ndice de Esplendor da cidade.
+Um arco triunfal torna sua cidade muito mais grandiosa aos olhos do seu povo. Isso, por sua vez, aumenta o índice de Esplendor da cidade.
 
 </section>
 
@@ -2856,12 +2856,12 @@ Um arco triunfal torna sua cidade muito mais grandiosa aos olhos do seu povo. Is
 
 <section name="GettingStarted" loadpic="GettingStarted.tga" title="Primeiros Passos">
 <newparagraph/>
-Sua primeira tarefa como novo governador ï¿½ escolher uma boa posiï¿½ï¿½o para o centro da cidade. ï¿½ aqui que as pessoas chegarï¿½o para procurar emprego na nova cidade.
+Sua primeira tarefa como novo governador é escolher uma boa posição para o centro da cidade. É aqui que as pessoas chegarão para procurar emprego na nova cidade.
 <newparagraph/>
-ï¿½ medida que novos cidadï¿½os chegam, vocï¿½ precisarï¿½ dar-lhes alguns empregos. Os empregos que vocï¿½ oferece dependerï¿½o do seu objetivo de missï¿½o atual. Se vocï¿½ quiser
- alimentar seu povo, por exemplo, vocï¿½ pode colocar uma fazenda de cabras e um aï¿½ougue.
+As new citizens arrive you will need to give them some jobs.  The jobs you provide will depend on your current mission objective.  If you want
+ to feed your people, for example you might place a goat farm and butchers shop.
 <newparagraph/>
-Por fim, construa algumas habitaï¿½ï¿½es bï¿½sicas para seus novos trabalhadores. As habitaï¿½ï¿½es sï¿½o para o CivCity o que as cidades sï¿½o para o Civilization  o coraï¿½ï¿½o do jogo. ï¿½ medida que suas habitaï¿½ï¿½es se desenvolvem, sua receita de impostos aumenta. Com cada novo recurso civilizador, a renda de impostos da casa aumenta.
+Por fim, construa algumas habitações básicas para seus novos trabalhadores. As habitações são para o CivCity o que as cidades são para o Civilization - o coração do jogo. À medida que suas habitações se desenvolvem, sua receita de impostos aumenta. Com cada novo recurso civilizador, a renda de impostos da casa aumenta.
 
 </section>
 
@@ -2874,13 +2874,13 @@ Por fim, construa algumas habitaï¿½ï¿½es bï¿½sicas para seus novos trabalhadores
 <!-- ImmigrationEmigration-->
 
 
-<section name="ImmigrationEmigration" loadpic="ImmigrationEmigration.tga" title="Imigraï¿½ï¿½o e Emigraï¿½ï¿½o">
+<section name="ImmigrationEmigration" loadpic="ImmigrationEmigration.tga" title="Imigração e Emigração">
 <newparagraph/>
-O indicador de felicidade da cidade ï¿½ mostrado ï¿½ direita da barra de menu; ele informa se as pessoas estï¿½o chegando ou saindo da cidade.
+O indicador de felicidade da cidade é mostrado à direita da barra de menu; ele informa se as pessoas estão chegando ou saindo da cidade.
 <newparagraph/>
-Se o rosto feliz estiver verde, as pessoas virï¿½o para a cidade. Se ficar vermelho, comeï¿½arï¿½o a sair.
+Se o rosto feliz estiver verde, as pessoas virão para a cidade. Se ficar vermelho, começarão a sair.
 <newparagraph/>
-Os recï¿½m-chegados comeï¿½am como vadios e se reï¿½nem no centro da cidade atï¿½ encontrarem trabalho. Em tempos de felicidade negativa, os vadios sï¿½o os primeiros a deixar a cidade.
+Os recém-chegados começam como vadios e se reúnem no centro da cidade até encontrarem trabalho. Em tempos de felicidade negativa, os vadios são os primeiros a deixar a cidade.
 
 
 </section>
@@ -2897,10 +2897,10 @@ Os recï¿½m-chegados comeï¿½am como vadios e se reï¿½nem no centro da cidade atï¿
 
 <section name="Happiness" loadpic="Happiness.tga" title="Felicidade da Cidade">
 <newparagraph/>
-Como a felicidade da cidade ï¿½ um indicador fundamental da saï¿½de da cidade, vocï¿½ precisa saber o que a estï¿½ afetando. Para isso, clique no relatï¿½rio e depois na aba de felicidade.
+Como a felicidade da cidade é um indicador fundamental da saúde da cidade, você precisa saber o que a está afetando. Para isso, clique no relatório e depois na aba de felicidade.
 <newparagraph/>
 <newparagraph/>
-Aqui vocï¿½ pode ver todos os fatores que influenciam a felicidade da cidade. Alguns podem ser ajustados diretamente nesta tela; outros podem ser afetados indiretamente construindo estruturas na cidade; e alguns, como eventos externos, estï¿½o alï¿½m do seu controle.
+Aqui você pode ver todos os fatores que influenciam a felicidade da cidade. Alguns podem ser ajustados diretamente nesta tela; outros podem ser afetados indiretamente construindo estruturas na cidade; e alguns, como eventos externos, estão além do seu controle.
 
 </section>
 
@@ -2917,16 +2917,16 @@ Aqui vocï¿½ pode ver todos os fatores que influenciam a felicidade da cidade. Al
 
 <section name="HouseEvolution" loadpic="HouseEvolution.tga" title="Desenvolvimento Habitacional">
 <newparagraph/>
-As casas crescem em grandeza conforme vocï¿½ atende ï¿½ prï¿½xima necessidade. Assim, o humilde barraco precisa apenas de ï¿½gua de um poï¿½o para melhorar para o prï¿½ximo nï¿½vel, 
- enquanto uma poderosa villa precisa de muitas mercadorias exï¿½ticas para avanï¿½ar para
+Houses grow in stature as you fulfill their next need.  So the humble shack needs only water from a well to improve to the next level, 
+ where as a mighty villa needs many exotic goods to allow it to advance to
  a grand palace. 
 <newparagraph/>
-Clicar em uma casa mostra suas necessidades e outras informaï¿½ï¿½es ï¿½teis. No canto inferior esquerdo estï¿½o as mercadorias que aquela casa jï¿½
- obteve e ï¿½ direita estï¿½o aquelas que ela precisa antes de poder evoluir para uma estrutura mais substancial.
+Clicking on a house brings up its needs and other useful information.  On the lower left are the commodities that that house has already
+ obtained and on the right are those that it needs before it can grow to a more substantial structure.
 <newparagraph/>
 Lembre-se: quanto melhor a casa, maior a receita de impostos que ela gera.
 <newparagraph/>
-Um ponto importante: cada casa tem um raio limitado; os cidadï¿½os coletarï¿½o as mercadorias de que precisam dentro desse raio. Os cidadï¿½os nï¿½o percorrerï¿½o a cidade inteira para obter suas mercadorias. Este raio ï¿½ mostrado pelo cï¿½rculo verde exibido no mapa quando uma casa ï¿½ selecionada. ï¿½ medida que as casas crescem e tï¿½m mais necessidades, esse raio tambï¿½m aumenta.
+Um ponto importante: cada casa tem um raio limitado; os cidadãos coletarão as mercadorias de que precisam dentro desse raio. Os cidadãos não percorrerão a cidade inteira para obter suas mercadorias. Este raio é mostrado pelo círculo verde exibido no mapa quando uma casa é selecionada. À medida que as casas crescem e têm mais necessidades, esse raio também aumenta.
 <newparagraph/>
 <newparagraph/>
 
@@ -2945,13 +2945,13 @@ Um ponto importante: cada casa tem um raio limitado; os cidadï¿½os coletarï¿½o a
 
 <section name="WorkTimeFreeTime" loadpic="WorkTimeFreeTime.tga" title="Tempo de Trabalho e Tempo Livre">
 <newparagraph/>
-As casas conseguem atender ï¿½s suas necessidades porque vocï¿½, como um governador iluminado, provavelmente deu aos ocupantes algum tempo livre do trabalho.
+As casas conseguem atender às suas necessidades porque você, como um governador iluminado, provavelmente deu aos ocupantes algum tempo livre do trabalho.
 <newparagraph/>
 <newparagraph/>
-Clicar em uma pessoa mostrarï¿½ o indicador de tempo de trabalho/tempo livre. A parte vermelha do cï¿½rculo indica quando o cidadï¿½o estï¿½ trabalhando; a parte azul indica o tempo livre para coletar mercadorias para sua casa.
+Clicar em uma pessoa mostrará o indicador de tempo de trabalho/tempo livre. A parte vermelha do círculo indica quando o cidadão está trabalhando; a parte azul indica o tempo livre para coletar mercadorias para sua casa.
 <newparagraph/>
 <newparagraph/>
-A proporï¿½ï¿½o geral de tempo de trabalho pode ser definida na tela do relatï¿½rio de felicidade da cidade. Definir o tempo de trabalho ao mï¿½ximo traz mais mercadorias para seus armazï¿½ns, mas tende a deixar as pessoas insatisfeitas!
+A proporção geral de tempo de trabalho pode ser definida na tela do relatório de felicidade da cidade. Definir o tempo de trabalho ao máximo traz mais mercadorias para seus armazéns, mas tende a deixar as pessoas insatisfeitas!
 
 
 </section>
@@ -2963,16 +2963,16 @@ A proporï¿½ï¿½o geral de tempo de trabalho pode ser definida na tela do relatï¿½
 <!-- CivilizationRating-->
 
 
-<section name="CivilizationRating" loadpic="CivilizationRating.tga" title="ï¿½ndice de Civilizaï¿½ï¿½o">
+<section name="CivilizationRating" loadpic="CivilizationRating.tga" title="Índice de Civilização">
 <newparagraph/>
-A coroa de louros no lado esquerdo da barra de menu mostra o ï¿½ndice de Civilizaï¿½ï¿½o atual da sua cidade. Esta ï¿½ uma medida de quï¿½o civilizada
- sua cidade ï¿½ e tambï¿½m como Roma a avalia. Indo ï¿½ tela de relatï¿½rios, vocï¿½ verï¿½ que ï¿½ calculado a partir de quatro componentes: 
+The laurel wreath on the left hand side of the menu bar shows your cities current Civilization rating. This is a measure of how civilized
+ your city is and also how Rome judges your city. Going to the report screen will show you that it is calculated from four component parts: 
 <newparagraph/>
-O ï¿½ndice de entretenimento, o ï¿½ndice de religiï¿½o, o ï¿½ndice de serviï¿½os civis e o ï¿½ndice de Esplendor da cidade. 
-Cada um destes, por sua vez, ï¿½ composto por fatores menores 
- que podem ser revelados clicando em um ï¿½ndice individual.
+The city's entertainment rating, religion rating, civic services rating and Splendor rating. 
+Each of these in turn are composed of smaller factors 
+ that can be uncovered by clicking on an individual rating.
 <newparagraph/>
-ï¿½ medida que a populaï¿½ï¿½o da cidade aumenta, tambï¿½m aumenta a barra que Roma espera que sua cidade atinja. Se o ï¿½ndice da cidade nï¿½o corresponder a essa barra, vocï¿½ sofrerï¿½ uma penalidade na felicidade da cidade; no entanto, se superar as expectativas de Roma, vocï¿½ receberï¿½ um impulso positivo na felicidade. Esta ï¿½ frequentemente uma boa maneira de impulsionar a felicidade da cidade nos primeiros dias.
+À medida que a população da cidade aumenta, também aumenta a barra que Roma espera que sua cidade atinja. Se o índice da cidade não corresponder a essa barra, você sofrerá uma penalidade na felicidade da cidade; no entanto, se superar as expectativas de Roma, você receberá um impulso positivo na felicidade. Esta é frequentemente uma boa maneira de impulsionar a felicidade da cidade nos primeiros dias.
 
 
 </section>
@@ -2986,10 +2986,10 @@ Cada um destes, por sua vez, ï¿½ composto por fatores menores
 <newparagraph/>
 Embora sua cidade possa de fato se virar sem estradas, nenhum verdadeiro planejador urbano romano as negligenciaria.
 <newparagraph/>
-Colocar estradas permite que seu povo se mova pela cidade muito mais rï¿½pido do que faria em terreno descoberto, melhorando enormemente
- a eficiï¿½ncia das indï¿½strias da sua cidade. Seus cidadï¿½os sempre tentarï¿½o usar estradas quando puderem.
+Placing roads allows your people to travel around your city much faster than they would across bare ground, thus greatly improving
+ the efficiency of your city's industries. Your citizens will always try and use roads whenever they can.
 <newparagraph/>
-Mais tarde, vocï¿½ tambï¿½m pode pesquisar tecnologias para acelerar ainda mais o deslocamento pelas estradas.
+Mais tarde, você também pode pesquisar tecnologias para acelerar ainda mais o deslocamento pelas estradas.
 
 </section>
 
@@ -3001,12 +3001,12 @@ Mais tarde, vocï¿½ tambï¿½m pode pesquisar tecnologias para acelerar ainda mais 
 
 <section name="MoneyBuildings" loadpic="MoneyBuildings.tga" title="Dinheiro">
 <newparagraph/>
-Custa dinheiro (Denï¿½rios sendo a moeda dos romanos) construir novos edifï¿½cios na cidade, alï¿½m dos salï¿½rios dos trabalhadores
+Custa dinheiro (Denários sendo a moeda dos romanos) construir novos edifícios na cidade, além dos salários dos trabalhadores
 <newparagraph/>
-vocï¿½ tambï¿½m pode ter despesas comerciais a pagar. Embora o Senado lhe conceda uma soma inicial, vocï¿½ eventualmente terï¿½ que equilibrar suas finanï¿½as ou correr o risco de ir ï¿½ falï¿½ncia.
+você também pode ter despesas comerciais a pagar. Embora o Senado lhe conceda uma soma inicial, você eventualmente terá que equilibrar suas finanças ou correr o risco de ir à falência.
 <newparagraph/>
 <newparagraph/>
-Sua primeira fonte de renda geralmente serï¿½ das casas e da melhoria de sua qualidade para aumentar a receita de impostos. A outra fonte principal de renda ï¿½ atravï¿½s do comï¿½rcio, estabelecendo rotas comerciais com cidades prï¿½ximas no vasto impï¿½rio e criando indï¿½strias locais para lucrar com elas.
+Sua primeira fonte de renda geralmente será das casas e da melhoria de sua qualidade para aumentar a receita de impostos. A outra fonte principal de renda é através do comércio, estabelecendo rotas comerciais com cidades próximas no vasto império e criando indústrias locais para lucrar com elas.
 
 </section>
 
@@ -3016,16 +3016,16 @@ Sua primeira fonte de renda geralmente serï¿½ das casas e da melhoria de sua qua
 <!-- EmpireMap-->
 
 
-<section name="EmpireMap" loadpic="EmpireMap.tga" title="Comï¿½rcio e o Impï¿½rio">
+<section name="EmpireMap" loadpic="EmpireMap.tga" title="Comércio e o Império">
 <newparagraph/>
-Clicar no botï¿½o do impï¿½rio no canto superior direito abre um mapa da regiï¿½o. A partir daqui, vocï¿½ pode ver cidades vizinhas, estabelecer rotas comerciais
- e ver quaisquer exï¿½rcitos se aproximando, caso vocï¿½ tenha o azar de encontrar algum.
+Clicking on the empire button in the top right brings up a map of the region.  From here you can see neighboring towns, set up trade routes
+ and see any approaching armies should you be unlucky enough to encounter any.
 <newparagraph/>
-Clique em uma cidade para ver com o que ela negocia, antes de decidir pagar para abrir uma rota comercial. Uma vez aberta, as rotas comerciais terrestres podem ser aceleradas construindo uma estrada atï¿½ a cidade.
+Clique em uma cidade para ver com o que ela negocia, antes de decidir pagar para abrir uma rota comercial. Uma vez aberta, as rotas comerciais terrestres podem ser aceleradas construindo uma estrada até a cidade.
 <newparagraph/>
-Vocï¿½ tambï¿½m pode enviar suas tropas daqui, mandando-as interceptar o inimigo.
+Você também pode enviar suas tropas daqui, mandando-as interceptar o inimigo.
 <newparagraph/>
-Por fim, o nï¿½mero no centro da barra de menu sï¿½o seus pontos de impï¿½rio, concedidos por abrir rotas comerciais, construir estradas e capturar cidades inimigas. Frequentemente sï¿½o usados por Roma como objetivo de missï¿½o.
+Por fim, o número no centro da barra de menu são seus pontos de império, concedidos por abrir rotas comerciais, construir estradas e capturar cidades inimigas. Frequentemente são usados por Roma como objetivo de missão.
 <newparagraph/>
 
 
@@ -3038,10 +3038,10 @@ Por fim, o nï¿½mero no centro da barra de menu sï¿½o seus pontos de impï¿½rio, c
 
 <section name="SenateRequests" loadpic="SenateRequests.tga" title="Pedidos do Senado">
 <newparagraph/>
-Pontos de impï¿½rio podem ser perdidos ou ganhos ao cumprir ou falhar um pedido de mercadorias do senado. Conforme vocï¿½ abre novas cidades para comï¿½rcio no
- impï¿½rio, o senado comeï¿½arï¿½ a pedir sua ajuda enviando-lhes diversos carregamentos de mercadorias.
+Empire points can be lost or gained by fulfilling or failing a request for goods from the senate. As you open up new cities for trade on the
+ empire, the senate will start to ask you to help them by sending them various shipments of goods.
 <newparagraph/>
-Se vocï¿½ tiver as mercadorias em um armazï¿½m ou celeiro da cidade, poderï¿½ enviï¿½-las a qualquer momento acessando a tela de relatï¿½rio relevante.
+Se você tiver as mercadorias em um armazém ou celeiro da cidade, poderá enviá-las a qualquer momento acessando a tela de relatório relevante.
 <newparagraph/>
 <newparagraph/>
 
@@ -3057,11 +3057,11 @@ Se vocï¿½ tiver as mercadorias em um armazï¿½m ou celeiro da cidade, poderï¿½ en
 
 <section name="Research" loadpic="Research.tga" title="Pesquisa">
 <newparagraph/>
-A pesquisa estï¿½ disponï¿½vel na maioria das missï¿½es. Se estiver, clicar no botï¿½o de pesquisa no centro da barra de menu abrirï¿½ o painel de pesquisa. Aqui vocï¿½ pode ver as tecnologias atualmente disponï¿½veis para pesquisa.
+A pesquisa está disponível na maioria das missões. Se estiver, clicar no botão de pesquisa no centro da barra de menu abrirá o painel de pesquisa. Aqui você pode ver as tecnologias atualmente disponíveis para pesquisa.
 <newparagraph/>
-Existem muitas ï¿½rvores de pesquisa e tecnologias a explorar, cada pesquisa oferecendo um benefï¿½cio ï¿½nico ï¿½ cidade. Exemplos: navios mais rï¿½pidos, maior produï¿½ï¿½o do aï¿½ougue, aumento de impostos ou atï¿½ mesmo pesquisa mais rï¿½pida!
+Existem muitas árvores de pesquisa e tecnologias a explorar, cada pesquisa oferecendo um benefício único à cidade. Exemplos: navios mais rápidos, maior produção do açougue, aumento de impostos ou até mesmo pesquisa mais rápida!
 <newparagraph/>
-A pesquisa leva um bom tempo para ser concluï¿½da e, quando finalizada, vocï¿½ serï¿½ solicitado a escolher outra tecnologia. Na maioria dos jogos, no entanto, vocï¿½ nï¿½o chegarï¿½ perto de pesquisar todas as tecnologias disponï¿½veis. Em vez disso, escolha pesquisas apropriadas aos seus objetivos de missï¿½o atuais.
+A pesquisa leva um bom tempo para ser concluída e, quando finalizada, você será solicitado a escolher outra tecnologia. Na maioria dos jogos, no entanto, você não chegará perto de pesquisar todas as tecnologias disponíveis. Em vez disso, escolha pesquisas apropriadas aos seus objetivos de missão atuais.
 
 </section>
 
@@ -3072,9 +3072,9 @@ A pesquisa leva um bom tempo para ser concluï¿½da e, quando finalizada, vocï¿½ s
 
 <section name="Wonders" loadpic="Wonders.tga" title="Maravilhas da Cidade">
 <newparagraph/>
-Existem vï¿½rias maravilhas que podem ser construï¿½das no jogo. Estes sï¿½o os ï¿½nicos edifï¿½cios no jogo que levam tempo para ser construï¿½dos.
+Existem várias maravilhas que podem ser construídas no jogo. Estes são os únicos edifícios no jogo que levam tempo para ser construídos.
 <newparagraph/>
-Alï¿½m de requerer muito tempo para serem construï¿½das, normalmente tambï¿½m precisam de uma grande quantidade de pedra. Uma vez construï¿½da, uma maravilha concederï¿½ vï¿½rios benefï¿½cios permanentes ï¿½ cidade, como impulsos ï¿½ felicidade ou ao ï¿½ndice de Civilizaï¿½ï¿½o.
+Além de requerer muito tempo para serem construídas, normalmente também precisam de uma grande quantidade de pedra. Uma vez construída, uma maravilha concederá vários benefícios permanentes à cidade, como impulsos à felicidade ou ao índice de Civilização.
 
 </section>
 
@@ -3086,14 +3086,14 @@ Alï¿½m de requerer muito tempo para serem construï¿½das, normalmente tambï¿½m pr
 
 <section name="Combat" loadpic="Combat.tga" title="Combate">
 <newparagraph/>
-O combate em CivCity ï¿½ simples e direto! As tropas sï¿½o criadas na cidade construindo fortes legionï¿½rios e fabricando as armas necessï¿½rias.
+O combate em CivCity é simples e direto! As tropas são criadas na cidade construindo fortes legionários e fabricando as armas necessárias.
 <newparagraph/>
-As tropas podem ser legionï¿½rios robustos ou vï¿½lites lanï¿½adores de dardos, e o truque ï¿½ usï¿½-los bem juntos. As tropas sï¿½o movidas no nï¿½vel da coorte
- em vez de individualmente, e clicar em qualquer membro de uma coorte selecionarï¿½ toda a coorte para ser movida. Emitir uma ordem de movimento sobre uma unidade inimiga sinalizarï¿½ um comando de ataque.
+Troops can be either sturdy legionaries or javelin throwing velites and the trick is to use them well together. Troops are moved at the cohort
+ level rather than individually and clicking on any member of a cohort will select the entire cohort to be moved. Issuing a move order on top of an enemy unit will signal an attack command.
 <newparagraph/>
-Diferentes inimigos atacarï¿½o em diferentes regiï¿½es do impï¿½rio, e suas tï¿½ticas terï¿½o que se ajustar para acomodar novos adversï¿½rios.
+Diferentes inimigos atacarão em diferentes regiões do império, e suas táticas terão que se ajustar para acomodar novos adversários.
 <newparagraph/>
-O combate tambï¿½m pode ocorrer no impï¿½rio; nesse caso, nenhum controle ï¿½ necessï¿½rio e o resultado da batalha ï¿½ decidido por nï¿½mero e qualidade das tropas.
+O combate também pode ocorrer no império; nesse caso, nenhum controle é necessário e o resultado da batalha é decidido por número e qualidade das tropas.
 
 
 </section>
@@ -3107,10 +3107,10 @@ O combate tambï¿½m pode ocorrer no impï¿½rio; nesse caso, nenhum controle ï¿½ ne
 
 <section name="WinningLosing" loadpic="WinningLosing.tga" title="Jogando o Jogo">
 <newparagraph/>
-ï¿½ altamente recomendï¿½vel que os jogadores comecem com a campanha de aprendizado. Nï¿½o se trata de um tutorial, mas de uma sï¿½rie de missï¿½es conectadas que ensinarï¿½o a vocï¿½ toda a
- gama de edifï¿½cios disponï¿½veis no jogo e como usï¿½-los. Ao final, vocï¿½ serï¿½ um planejador urbano romano realizado!
+It is strongly advised that players start with the learning campaign. This is not a tutorial but a series of linked missions that will teach you the
+ full range of buildings available in the game and how to use them. By the end of this, you will be an accomplished Roman town planner!
 <newparagraph/>
-Apï¿½s a campanha, a tela de missï¿½o individual permitirï¿½ que vocï¿½ jogue o estilo de missï¿½o que preferir, no nï¿½vel de dificuldade de sua escolha. Algumas missï¿½es tï¿½m objetivos econï¿½micos, como coletar recursos, elevar o nï¿½vel de Civilizaï¿½ï¿½o ou construir maravilhas. Outras tï¿½m um perfil mais militar, e algumas nï¿½o tï¿½m objetivos, permitindo que vocï¿½ construa pacificamente pelo tempo que desejar.
+Após a campanha, a tela de missão individual permitirá que você jogue o estilo de missão que preferir, no nível de dificuldade de sua escolha. Algumas missões têm objetivos econômicos, como coletar recursos, elevar o nível de Civilização ou construir maravilhas. Outras têm um perfil mais militar, e algumas não têm objetivos, permitindo que você construa pacificamente pelo tempo que desejar.
 
 
 </section>
@@ -3124,18 +3124,18 @@ Apï¿½s a campanha, a tela de missï¿½o individual permitirï¿½ que vocï¿½ jogue o 
 
 <section name="workshoprange" loadpic="" title="Alcance das Oficinas">
 <newparagraph/>
-Assim como as casas, oficinas (e lojas) tï¿½m um alcance limitado de onde irï¿½o coletar ou entregar mercadorias. Isso pode ser mostrado clicando
- no edifï¿½cio em questï¿½o. Qualquer coisa dentro do cï¿½rculo exibido estï¿½ 'ao alcance' como destino para a oficina. 
+Like houses, workshops (and shops) have a limited range from which they will go and collect or deliver goods. This can be shown by clicking
+ on the building in question. Anything within the displayed circle is a 'in range' destination for the workshop. 
 <newparagraph/>
-Ocasionalmente, isso significa que vocï¿½ pode enfrentar dificuldades para levar mercadorias a uma oficina especï¿½fica. Por exemplo, um fabricante de camas pode precisar de madeira, mas
- descobrir que nenhum armazï¿½m local tem e toda a madeira estï¿½ armazenada em um armazï¿½m do outro lado do mapa. Para resolver essa situaï¿½ï¿½o, vocï¿½ precisarï¿½
- fazer o armazï¿½m com madeira entregï¿½-la a um prï¿½ximo ao fabricante de camas. Isso pode ser feito usando os controles de envio de mercadorias no armazï¿½m (ou celeiro). 
-<newparagraph/>
-<newparagraph/>
-Clique no tipo de mercadoria a enviar, na quantidade acima da qual o excesso serï¿½ enviado e entï¿½o no armazï¿½m de destino. Um processo de remessa automï¿½tico e contï¿½nuo serï¿½ configurado para vocï¿½.
+Occasionally this means that you may face difficulties in getting goods to a particular workshop. For example a bed maker may need wood but
+ find that no local warehouses have any and all the wood is stored in a warehouse across the map. To solve this situation you will need to have
+ the warehouse with wood, deliver it to one local to the bed maker. This can be achieved by using the send goods controls in the warehouse (or granary). 
 <newparagraph/>
 <newparagraph/>
-Nota: o alcance das oficinas se expandirï¿½ e se tornarï¿½ mais generoso ï¿½ medida que vocï¿½ diminuir o nï¿½vel de dificuldade.
+Clique no tipo de mercadoria a enviar, na quantidade acima da qual o excesso será enviado e então no armazém de destino. Um processo de remessa automático e contínuo será configurado para você.
+<newparagraph/>
+<newparagraph/>
+Nota: o alcance das oficinas se expandirá e se tornará mais generoso à medida que você diminuir o nível de dificuldade.
 
 
 </section>
@@ -3147,16 +3147,16 @@ Nota: o alcance das oficinas se expandirï¿½ e se tornarï¿½ mais generoso ï¿½ med
 <!-- fireinthecity-->
 
 
-<section name="fireinthecity" loadpic="" title="Incï¿½ndio na Cidade">
+<section name="fireinthecity" loadpic="" title="Incêndio na Cidade">
 <newparagraph/>
-Com o tempo, a maioria dos edifï¿½cios da cidade tem um risco crescente de pegar fogo. Esse risco pode ser combatido construindo um posto de vigï¿½lias, que reduzirï¿½ o risco para os edifï¿½cios prï¿½ximos.
+Com o tempo, a maioria dos edifícios da cidade tem um risco crescente de pegar fogo. Esse risco pode ser combatido construindo um posto de vigílias, que reduzirá o risco para os edifícios próximos.
 <newparagraph/>
-Clicar em um posto de vigï¿½lias na cidade mostrarï¿½ sua ï¿½rea de efeito e tambï¿½m o risco de incï¿½ndio para todos os edifï¿½cios na cidade que podem pegar
+Clicking on a fire watch in the city will display its area of effect and also the risk of fire for all buildings in the city that are likely to catch
  fire.
 <newparagraph/>
-O risco de incï¿½ndio ï¿½ mostrado acima de um edifï¿½cio pela "barra de risco"; quando estï¿½ cheia, o edifï¿½cio pode pegar fogo a qualquer momento.
+O risco de incêndio é mostrado acima de um edifício pela "barra de risco"; quando está cheia, o edifício pode pegar fogo a qualquer momento.
 <newparagraph/>
-Certos edifï¿½cios aumentam seu risco mais rapidamente do que outros  padarias, por exemplo. Outros edifï¿½cios nï¿½o tï¿½m risco algum, como o poï¿½o! Ocasionalmente, um incï¿½ndio pode estourar mesmo em uma ï¿½rea protegida pelo posto de vigï¿½lias; nessas situaï¿½ï¿½es, os bombeiros na torre devem facilmente controlar o problema.
+Certos edifícios aumentam seu risco mais rapidamente do que outros - padarias, por exemplo. Outros edifícios não têm risco algum, como o poço! Ocasionalmente, um incêndio pode estourar mesmo em uma área protegida pelo posto de vigílias; nessas situações, os bombeiros na torre devem facilmente controlar o problema.
 
 
 </section>
@@ -3170,14 +3170,14 @@ Certos edifï¿½cios aumentam seu risco mais rapidamente do que outros  padarias,
 
 <section name="riotinginthecity" loadpic="" title="Tumultos na Cidade">
 <newparagraph/>
-Com o tempo, as casas de nï¿½vel inferior terï¿½o um risco crescente de tumultos. Esse risco pode ser combatido construindo uma torre de vigia, que reduzirï¿½ o risco para as casas prï¿½ximas.
+Com o tempo, as casas de nível inferior terão um risco crescente de tumultos. Esse risco pode ser combatido construindo uma torre de vigia, que reduzirá o risco para as casas próximas.
 <newparagraph/>
-Clicar em uma torre de vigia na cidade mostrarï¿½ sua ï¿½rea de efeito e tambï¿½m o risco de tumulto para todas as casas na cidade. O risco de tumulto ï¿½ mostrado
- acima de uma casa pela 'barra de risco'; quando estï¿½ cheia, o ocupante da casa pode se revoltar a qualquer momento.  
+Clicking on a watch tower in the city will display its area of effect and also the risk of fire for all houses in the city. The risk of riot is shown
+ above a house by the 'risk bar', when this is full, the houses occupant could riot at any time.  
 <newparagraph/>
-Quanto maior o nï¿½vel das habitaï¿½ï¿½es, menor o risco de tumultos. Com habitaï¿½ï¿½es de nï¿½vel muito alto, nï¿½o hï¿½ risco algum; com barracos, hï¿½ um risco constante de que os ocupantes expressem seu descontentamento.
+Quanto maior o nível das habitações, menor o risco de tumultos. Com habitações de nível muito alto, não há risco algum; com barracos, há um risco constante de que os ocupantes expressem seu descontentamento.
 <newparagraph/>
-Nota: o risco de tumultos aumenta ï¿½ medida que a populaï¿½ï¿½o da cidade cresce.
+Nota: o risco de tumultos aumenta à medida que a população da cidade cresce.
 
 
 </section>
@@ -3191,11 +3191,11 @@ Nota: o risco de tumultos aumenta ï¿½ medida que a populaï¿½ï¿½o da cidade cresc
 
 <section name="earthquakesinthecity" loadpic="" title="Terremotos na Cidade">
 <newparagraph/>
-Terremotos sï¿½o eventos aleatï¿½rios e imprevisï¿½veis que afetam certas partes do impï¿½rio.
+Terremotos são eventos aleatórios e imprevisíveis que afetam certas partes do império.
 <newparagraph/>
-Nï¿½o hï¿½ nada que vocï¿½ possa fazer para evitï¿½-los; vocï¿½ simplesmente precisarï¿½ reconstruir as estruturas perdidas por sua natureza violenta.
+Não há nada que você possa fazer para evitá-los; você simplesmente precisará reconstruir as estruturas perdidas por sua natureza violenta.
 <newparagraph/>
-Clicar nas ruï¿½nas de qualquer edifï¿½cio destruï¿½do mostrarï¿½ o que estava lï¿½ antes.
+Clicar nas ruínas de qualquer edifício destruído mostrará o que estava lá antes.
 
 
 </section>
@@ -3209,15 +3209,15 @@ Clicar nas ruï¿½nas de qualquer edifï¿½cio destruï¿½do mostrarï¿½ o que estava l
 
 <section name="transportinggoods" loadpic="" title="Transporte de Mercadorias">
 <newparagraph/>
-Armazï¿½ns e celeiros possuem um burro e uma carroï¿½a, que podem ser usados para entregar mercadorias excedentes armazenadas localmente a outro edifï¿½cio semelhante na cidade.
+Armazéns e celeiros possuem um burro e uma carroça, que podem ser usados para entregar mercadorias excedentes armazenadas localmente a outro edifício semelhante na cidade.
 <newparagraph/>
-Isso ï¿½ ï¿½til, por exemplo, quando um armazï¿½m tem recursos brutos armazenados longe do centro da cidade e fora do alcance de uma oficina.
+Isso é útil, por exemplo, quando um armazém tem recursos brutos armazenados longe do centro da cidade e fora do alcance de uma oficina.
 <newparagraph/>
-O armazï¿½m pode entï¿½o transportar as mercadorias necessï¿½rias para outro armazï¿½m mais prï¿½ximo da oficina fora de alcance.
+O armazém pode então transportar as mercadorias necessárias para outro armazém mais próximo da oficina fora de alcance.
 <newparagraph/>
-Para configurar um processo de entrega, clique no ï¿½cone "enviar mercadorias" no armazï¿½m (ou celeiro).
+Para configurar um processo de entrega, clique no ícone "enviar mercadorias" no armazém (ou celeiro).
 <newparagraph/>
-Aqui vocï¿½ escolhe o tipo de mercadoria a enviar, a quantidade excedente (qualquer quantidade acima disso serï¿½ enviada) e o armazï¿½m de destino; um processo de remessa automï¿½tico e contï¿½nuo serï¿½ configurado para vocï¿½.
+Aqui você escolhe o tipo de mercadoria a enviar, a quantidade excedente (qualquer quantidade acima disso será enviada) e o armazém de destino; um processo de remessa automático e contínuo será configurado para você.
 
 
 
@@ -3229,7 +3229,7 @@ Aqui vocï¿½ escolhe o tipo de mercadoria a enviar, a quantidade excedente (qualq
 
 <section name="TowerStone" loadpic="TowerStone.tga" title="Torre de Pedra">
 <newparagraph/>
-Esta oferece aos defensores uma plataforma para repelir invasores. Sï¿½o mais bem posicionadas nas muralhas da cidade.
+Esta oferece aos defensores uma plataforma para repelir invasores. São mais bem posicionadas nas muralhas da cidade.
 
 </section>
 
@@ -3245,10 +3245,10 @@ Esta oferece aos defensores uma plataforma para repelir invasores. Sï¿½o mais be
 
 <section name="BoatYardLarge" loadpic="BoatYardLarge.tga" title="Estaleiro Grande">
 <newparagraph/>
-Este grande estaleiro constrï¿½i um navio comercial para permitir que uma doca negocie com cidades em costas distantes do impï¿½rio.
+Este grande estaleiro constrói um navio comercial para permitir que uma doca negocie com cidades em costas distantes do império.
 <newparagraph/>
 <newparagraph/>
-A construï¿½ï¿½o de barcos leva muito tempo e requer muita madeira.
+A construção de barcos leva muito tempo e requer muita madeira.
 <newparagraph/>
 <newparagraph/>
 <link linkfile="TradeDock" linkname="Doca Comercial"/>
@@ -3265,13 +3265,13 @@ A construï¿½ï¿½o de barcos leva muito tempo e requer muita madeira.
 <!-- Warehouse-->
 
 
-<section name="Warehouse" loadpic="Warehouse.tga" title="Armazï¿½m">
+<section name="Warehouse" loadpic="Warehouse.tga" title="Armazém">
 <newparagraph/>
-As mercadorias excedentes sï¿½o armazenadas aqui para serem usadas ou negociadas mais tarde. Vocï¿½ provavelmente precisarï¿½ de vï¿½rios destes quando sua economia realmente engatar.
+As mercadorias excedentes são armazenadas aqui para serem usadas ou negociadas mais tarde. Você provavelmente precisará de vários destes quando sua economia realmente engatar.
 <newparagraph/>
-O armazï¿½m mostrarï¿½ tanto o que estï¿½ naquele edifï¿½cio especï¿½fico quanto o que estï¿½ em toda a cidade.
+O armazém mostrará tanto o que está naquele edifício específico quanto o que está em toda a cidade.
 <newparagraph/>
-Um armazï¿½m ï¿½ essencial para negociar com outras cidades no mapa mundial. Assim como os celeiros, vocï¿½ pode decidir quais mercadorias permitir que entrem ou saiam do armazï¿½m clicando no botï¿½o de permitir mercadorias.
+Um armazém é essencial para negociar com outras cidades no mapa mundial. Assim como os celeiros, você pode decidir quais mercadorias permitir que entrem ou saiam do armazém clicando no botão de permitir mercadorias.
 
 </section>
 
@@ -3287,11 +3287,11 @@ Um armazï¿½m ï¿½ essencial para negociar com outras cidades no mapa mundial. Ass
 
 <section name="Granary" loadpic="Granary.tga" title="Celeiro">
 <newparagraph/>
-O excesso de alimentos ï¿½ armazenado aqui para ser consumido depois pelo seu povo ou comercializado. Antes de poder distribuir raï¿½ï¿½es ao seu povo, vocï¿½ precisa construir um
- destes, e por isso deve sempre ser colocado cedo na vida de uma cidade. Alï¿½m
- de mostrar o que hï¿½ em um celeiro especï¿½fico, clicar no edifï¿½cio tambï¿½m revelarï¿½ o que estï¿½ armazenado pela cidade como um todo.
+Excess food is stored here to be eaten later by your people or traded.  Before you can hand out rations to your people you need to build one
+ of these and as such it should always be placed early in a cities life. As
+ well as showing you what is in a particular granary, clicking on the building will also reveal what is stored across the city as a whole.
 <newparagraph/>
-As raï¿½ï¿½es sï¿½o definidas no painel de relatï¿½rios. Quanto mais altas vocï¿½ as definir, maior serï¿½ o bï¿½nus de popularidade. Assim como os armazï¿½ns, vocï¿½ pode decidir quais mercadorias permitir que entrem ou saiam do celeiro clicando no botï¿½o de permitir mercadorias.
+As rações são definidas no painel de relatórios. Quanto mais altas você as definir, maior será o bônus de popularidade. Assim como os armazéns, você pode decidir quais mercadorias permitir que entrem ou saiam do celeiro clicando no botão de permitir mercadorias.
 
 </section>
 
@@ -3306,13 +3306,13 @@ As raï¿½ï¿½es sï¿½o definidas no painel de relatï¿½rios. Quanto mais altas vocï¿
 
 <section name="Library" loadpic="Library.tga" title="Biblioteca">
 <newparagraph/>
-Apï¿½s os cidadï¿½os se mudarem para uma pequena domus, eles desenvolvem uma apreciaï¿½ï¿½o pela literatura.
+Após os cidadãos se mudarem para uma pequena domus, eles desenvolvem uma apreciação pela literatura.
 <newparagraph/>
 <newparagraph/>
-Os professores que trabalham na biblioteca educarï¿½o suas crianï¿½as afortunadas.
+Os professores que trabalham na biblioteca educarão suas crianças afortunadas.
 <newparagraph/>
 <newparagraph/>
-Seu povo exige tanto bibliotecas quanto togas antes que sua domus aumente de tamanho para uma domus mï¿½dia.
+Seu povo exige tanto bibliotecas quanto togas antes que sua domus aumente de tamanho para uma domus média.
 
 </section>
 
@@ -3329,11 +3329,11 @@ Seu povo exige tanto bibliotecas quanto togas antes que sua domus aumente de tam
 
 <section name="Senate" loadpic="Senate.tga" title="Senado">
 <newparagraph/>
-Este ï¿½ um lugar para seus cidadï¿½os mais poderosos passarem seus dias debatendo. Construir um senado caro tambï¿½m ï¿½ uma maneira fï¿½cil de aumentar o ï¿½ndice de serviï¿½os cï¿½vicos da cidade.
+Este é um lugar para seus cidadãos mais poderosos passarem seus dias debatendo. Construir um senado caro também é uma maneira fácil de aumentar o índice de serviços cívicos da cidade.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Antes que seus patrï¿½cios se mudem de suas villas para um palï¿½cio, eles esperarï¿½o acesso ao senado, vestidos para suas esposas, flores no corredor e gansos para o jantar.
+Antes que seus patrícios se mudem de suas villas para um palácio, eles esperarão acesso ao senado, vestidos para suas esposas, flores no corredor e gansos para o jantar.
 
 </section>
 
@@ -3347,13 +3347,13 @@ Antes que seus patrï¿½cios se mudem de suas villas para um palï¿½cio, eles esper
 <!-- TransportJetty-->
 
 
-<section name="TransportJetty" loadpic="TransportJetty.tga" title="Pï¿½er de Transporte">
+<section name="TransportJetty" loadpic="TransportJetty.tga" title="Píer de Transporte">
 <newparagraph/>
-Vocï¿½ pode usar esses pï¿½ers para mover pessoas pela ï¿½gua sem bloquear o trï¿½fego fluvial como uma ponte faria. As pessoas virï¿½o e usarï¿½o essas instalaï¿½ï¿½es automaticamente.
+Você pode usar esses píers para mover pessoas pela água sem bloquear o tráfego fluvial como uma ponte faria. As pessoas virão e usarão essas instalações automaticamente.
 <newparagraph/>
 <newparagraph/>
 <newparagraph/>
-Este edifï¿½cio requer a colocaï¿½ï¿½o de duas partes e ambas precisam ser colocadas antes que o pï¿½er possa funcionar.
+Este edifício requer a colocação de duas partes e ambas precisam ser colocadas antes que o píer possa funcionar.
 
 </section>
 
@@ -3369,10 +3369,10 @@ Este edifï¿½cio requer a colocaï¿½ï¿½o de duas partes e ambas precisam ser coloc
 
 <section name="StoneCamp" loadpic="StoneCamp.tga" title="Acampamento de Pedra">
 <newparagraph/>
-Os dois trabalhadores no acampamento de pedra procuram e extraem depï¿½sitos de pedra prï¿½ximos. Este suprimento de pedra pode entï¿½o ser usado para construir maravilhas. Qualquer
- pedra excedente serï¿½ levada a um armazï¿½m prï¿½ximo.
+The two workers in the stone camp look for and quarry nearby stone deposits.  This supply of stone can then be used to build wonders. Any
+ excess stone will be taken to a nearby warehouse.
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 
 </section>
@@ -3387,13 +3387,13 @@ Os dois trabalhadores no acampamento de pedra procuram e extraem depï¿½sitos de 
 <!-- MarbleQuarry-->
 
 
-<section name="MarbleQuarry" loadpic="MarbleQuarry.tga" title="Pedreira de Mï¿½rmore">
+<section name="MarbleQuarry" loadpic="MarbleQuarry.tga" title="Pedreira de Mármore">
 <newparagraph/>
-Pedreiras de mï¿½rmore devem ser colocadas em ï¿½reas de mï¿½rmore. Uma vez construï¿½das, dois trabalhadores comeï¿½am a extrair mï¿½rmore para permitir que vocï¿½ coloque belas
- esculturas pela sua cidade.
+Marble quarries must be placed on areas of marble.  Once built two workers get to work quarrying marble to allow you to place beautiful
+ sculptures around your city.
 <newparagraph/>
 <newparagraph/>
-<link linkfile="Warehouse" linkname="Armazï¿½m"/>
+<link linkfile="Warehouse" linkname="Armazém"/>
 
 </section>
 
@@ -3403,7 +3403,7 @@ Pedreiras de mï¿½rmore devem ser colocadas em ï¿½reas de mï¿½rmore. Uma vez cons
 
 <section name="WonderColiseum" loadpic="WonderColiseum.tga" title=" O Coliseu">
 <newparagraph/>
-Alï¿½m de fornecer ï¿½ cidade a maior arena, capaz de sediar a mais diversa gama de espetï¿½culos, esta maravilha, quando construï¿½da, oferecerï¿½ um impulso ao ï¿½ndice de entretenimento.
+Além de fornecer à cidade a maior arena, capaz de sediar a mais diversa gama de espetáculos, esta maravilha, quando construída, oferecerá um impulso ao índice de entretenimento.
 
 </section>
 
@@ -3412,7 +3412,7 @@ Alï¿½m de fornecer ï¿½ cidade a maior arena, capaz de sediar a mais diversa gama
 
 <section name="WonderCircusMaximus" loadpic="WonderCircusMaximus.tga" title="O Circus Maximus">
 <newparagraph/>
-O Circus Maximus oferece um grande impulso ao ï¿½ndice de entretenimento da cidade, alï¿½m de poder sediar emocionantes corridas de carruagens para que seus cidadï¿½os se maravilhem.
+O Circus Maximus oferece um grande impulso ao índice de entretenimento da cidade, além de poder sediar emocionantes corridas de carruagens para que seus cidadãos se maravilhem.
 
 </section>
 
@@ -3421,7 +3421,7 @@ O Circus Maximus oferece um grande impulso ao ï¿½ndice de entretenimento da cida
 
 <section name="WonderGreatLightHouse" loadpic="WonderGreatLightHouse.tga" title="O Grande Farol">
 <newparagraph/>
-Este impressionante edifï¿½cio, uma vez construï¿½do, aumentarï¿½ tanto o ï¿½ndice de serviï¿½os cï¿½vicos quanto o de Esplendor.
+Este impressionante edifício, uma vez construído, aumentará tanto o índice de serviços cívicos quanto o de Esplendor.
 
 </section>
 
@@ -3430,7 +3430,7 @@ Este impressionante edifï¿½cio, uma vez construï¿½do, aumentarï¿½ tanto o ï¿½ndi
 
 <section name="WonderPantheon" loadpic="WonderPantheon.tga" title="O Pantheon">
 <newparagraph/>
-O Pantheon, quando construï¿½do, adiciona um grande impulso ao ï¿½ndice religioso da cidade.
+O Pantheon, quando construído, adiciona um grande impulso ao índice religioso da cidade.
 
 </section>
 
@@ -3439,7 +3439,7 @@ O Pantheon, quando construï¿½do, adiciona um grande impulso ao ï¿½ndice religios
 
 <section name="WonderGreatLibrary" loadpic="WonderGreatLibrary.tga" title="A Grande Biblioteca">
 <newparagraph/>
-A Grande Biblioteca, como todas as maravilhas, requer muita pedra e tempo para ser construï¿½da, mas uma vez concluï¿½da, esta estrutura contribuirï¿½ consideravelmente para o ï¿½ndice de serviï¿½os cï¿½vicos da cidade.
+A Grande Biblioteca, como todas as maravilhas, requer muita pedra e tempo para ser construída, mas uma vez concluída, esta estrutura contribuirá consideravelmente para o índice de serviços cívicos da cidade.
 
 </section>
 
@@ -3448,7 +3448,7 @@ A Grande Biblioteca, como todas as maravilhas, requer muita pedra e tempo para s
 
 <section name="WonderColumnTrajans" loadpic="WonderColumnTrajans.tga" title="Coluna de Trajano">
 <newparagraph/>
-Como todas as maravilhas, a Coluna de Trajano leva tempo e muita pedra para ser concluï¿½da. Seu povo lhe agradecerï¿½, pois alï¿½m de um impulso ao ï¿½ndice de Esplendor, vocï¿½ receberï¿½ um bï¿½nus permanente na felicidade da cidade.
+Como todas as maravilhas, a Coluna de Trajano leva tempo e muita pedra para ser concluída. Seu povo lhe agradecerá, pois além de um impulso ao índice de Esplendor, você receberá um bônus permanente na felicidade da cidade.
 
 </section>
 
@@ -3457,7 +3457,7 @@ Como todas as maravilhas, a Coluna de Trajano leva tempo e muita pedra para ser 
 
 <section name="WonderObelisk" loadpic="WonderObelisk.tga" title="O Obelisco">
 <newparagraph/>
-Esta impressionante obra de pedra darï¿½ um grande benefï¿½cio ao ï¿½ndice de Esplendor da cidade uma vez concluï¿½da.
+Esta impressionante obra de pedra dará um grande benefício ao índice de Esplendor da cidade uma vez concluída.
 
 </section>
 
